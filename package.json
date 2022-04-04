@@ -1,5 +1,4 @@
-{
-    "scripts": {
+{    "scripts": {
         "test": "jest",
         "start": "node src/main.js",
         "experiment": "node src/experiment.js",
@@ -10,6 +9,7 @@
         "jest": "^27.5.1"
     },
     "dependencies": {
-        "axios": "^0.26.1"
+        "axios": "^0.26.1",
+        "googleapis": "^39.2.0"
     }
 }
