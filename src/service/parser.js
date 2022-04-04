@@ -96,4 +96,5 @@ module.exports = {
     find_images,
     isolate_link_tags,
     get_link_names,
+    clean_link_tag,
 }
