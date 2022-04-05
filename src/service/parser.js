@@ -15,15 +15,39 @@ function find_images(data, callback){
         lines.push(line);
     }
     let images = [];
-    for(line in lines){
+    for(let line=1; line<lines.length; line++){
         images.push("<img"+lines[line]+"/>");
     }
     callback(images);
 }
 
+function get_image_source(data){
+    let p0_src = "";
+    if(data.includes("src =")){
+        p0_src = data.split("src =")[1];
+    }else if(data.includes("src=")){
+        p0_src = data.split("src=")[1];
+    }else{
+        console.log("GET_IMAGE_SOURCE ERROR = UNKNOWN IMAGE SOURCE LINK !")
+    }
+    let source = p0_src.split(`"`)[1];
+    return source;
+}
+
+function get_image_list_sources(images, callback){
+    let sources = [];
+    for(image in images){
+        sources.push({
+            image: images[image],
+            source: get_image_source(images[image]),
+        });
+    }
+    callback(sources);
+}
+
 function clear_subtag(tag){
-    console.log("\n\n\n");
     split = tag.split("<");
+    console.log(split);
     next = "";
     if(split[0] == ""){
         for(let s=1; s<split.length; s++){
@@ -32,8 +56,17 @@ function clear_subtag(tag){
                 next = next + "<";
             }
         }
+    }else{
+        for(let s=0; s<split.length; s++){
+            next = next + split[s];
+            if(s < split.length-1){
+                next = next + "<";
+            }
+        }
     }
-
+    
+    console.log(next);
+    // TODO - SOLVE PROBLEM WHERE A TAG NAME IS DUMPED
     split = next.split(">");
     next = "";
     for(let s=1; s<split.length; s++){
@@ -42,7 +75,6 @@ function clear_subtag(tag){
             next = next + ">";
         }
     }
-    
     return next;
 }
 
@@ -66,7 +98,7 @@ function clean_link_tag(tag){
     return tagNotA;
 }
 
-function isolate_link_tags(data, callback){
+function get_link_tags(data, callback){
     isolating = data.split('<a');
     links = [];
     for(l in isolating){
@@ -91,10 +123,36 @@ function get_link_names(data, callback){
     callback(tags);
 }
 
+function get_link_details(data, callback){
+    tags = [];
+    for(d in data){
+        tags.push({
+            link: get_link_source(data[d]),
+            tag: data[d],
+        });
+    }
+    callback(tags);
+}
+
+function get_link_source(data){
+    let p0_src = "";
+    if(data.includes("href =")){
+        p0_src = data.split("href =")[1];
+    }else if(data.includes("href=")){
+        p0_src = data.split("href=")[1];
+    }else{
+        console.log("GET_LINK_SOURCE ERROR = UNKNOWN LINK HREF !")
+    }
+    let source = p0_src.split(`"`)[1];
+    return source;
+}
+
 module.exports = {
     read_newsletter,
     find_images,
-    isolate_link_tags,
+    get_link_tags,
     get_link_names,
     clean_link_tag,
+    get_image_list_sources,
+    get_link_details,
 }
