@@ -46,36 +46,37 @@ function get_image_list_sources(images, callback){
 }
 
 function clear_subtag(tag){
-    split = tag.split("<");
-    console.log(split);
-    next = "";
-    if(split[0] == ""){
+    if(tag[0] == '<'){
+        split = tag.split("<");
+        next = "";
+        if(split[0] == ""){
+            for(let s=1; s<split.length; s++){
+                next = next + split[s];
+                if(s < split.length-1){
+                    next = next + "<";
+                }
+            }
+        }else{
+            for(let s=0; s<split.length; s++){
+                next = next + split[s];
+                if(s < split.length-1){
+                    next = next + "<";
+                }
+            }
+        }
+        
+        split = next.split(">");
+        next = "";
         for(let s=1; s<split.length; s++){
             next = next + split[s];
             if(s < split.length-1){
-                next = next + "<";
+                next = next + ">";
             }
         }
-    }else{
-        for(let s=0; s<split.length; s++){
-            next = next + split[s];
-            if(s < split.length-1){
-                next = next + "<";
-            }
-        }
+        return next;
+    } else {
+        return tag.split("<")[0];
     }
-    
-    console.log(next);
-    // TODO - SOLVE PROBLEM WHERE A TAG NAME IS DUMPED
-    split = next.split(">");
-    next = "";
-    for(let s=1; s<split.length; s++){
-        next = next + split[s];
-        if(s < split.length-1){
-            next = next + ">";
-        }
-    }
-    return next;
 }
 
 function clean_link_tag(tag){
