@@ -1,5 +1,11 @@
 const fs = require('fs');
 
+const dictionary = [
+    "unsubscrib",
+    "désinscri",
+    "desinscri",
+]
+
 function read_newsletter(filename, callback){
     fs.readFile(filename, (err, data) => {
         if (err) throw err;
@@ -148,6 +154,47 @@ function get_link_source(data){
     return source;
 }
 
+function get_unsubscribe_tag(tags, callback){
+    let selected;
+    let count = 0;
+    for(tag in tags){
+        for(val in dictionary){
+            if(tags[tag].name.toLowerCase().includes(dictionary[val])){
+                selected = tags[tag];
+                count += 1;
+            }
+        }
+    }
+    callback(selected, count);
+}
+
+function parse_newsletter(src, callback){
+    let image_sources;
+    let unsubscribe_tag;
+    let tag_details;
+    read_newsletter(src, (data) => {
+        find_images(data, (images) => {
+            get_image_list_sources(images, (sources) => {
+                image_sources = sources;
+                get_link_tags(data, (links) => {
+                    get_link_names(links, (tags) => {
+                        get_unsubscribe_tag(tags, (tag, overflow) => {
+                            unsubscribe_tag = tag;
+                            if(overflow > 1){
+                                throw new Error("ERROR - more than one unsubscribe tag detected");
+                            }
+                            get_link_details(links, (taging) => {
+                                tag_details = taging;
+                                callback(image_sources, tag_details, unsubscribe_tag);
+                            });
+                        });
+                    });
+                });
+            })
+        });
+    });
+}
+
 module.exports = {
     read_newsletter,
     find_images,
@@ -156,4 +203,6 @@ module.exports = {
     clean_link_tag,
     get_image_list_sources,
     get_link_details,
+    get_unsubscribe_tag,
+    parse_newsletter,
 }
