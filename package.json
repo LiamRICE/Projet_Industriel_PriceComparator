@@ -1,7 +1,8 @@
 {
     "scripts": {
         "test": "jest",
-        "start": "node src/index.js"
+        "start": "node src/index.js",
+        "experiment": "node src/experiment.js"
     },
     "devDependencies": {
         "jest": "^27.5.1"

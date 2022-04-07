@@ -1,9 +1,12 @@
 const fs = require('fs');
+const { get } = require('http');
 
 const dictionary = [
     "unsubscrib",
     "désinscri",
     "desinscri",
+    "désabon",
+    "desabon",
 ]
 
 function read_newsletter(filename, callback){
@@ -133,10 +136,13 @@ function get_link_names(data, callback){
 function get_link_details(data, callback){
     tags = [];
     for(d in data){
-        tags.push({
-            link: get_link_source(data[d]),
-            tag: data[d],
-        });
+        let l = get_link_source(data[d]);
+        if(l != null){
+            tags.push({
+                link: l,
+                tag: data[d],
+            });
+        }
     }
     callback(tags);
 }
@@ -147,25 +153,55 @@ function get_link_source(data){
         p0_src = data.split("href =")[1];
     }else if(data.includes("href=")){
         p0_src = data.split("href=")[1];
+    }else if(!data.includes("href")){
+        p0_src = null;
     }else{
-        console.log("GET_LINK_SOURCE ERROR = UNKNOWN LINK HREF !")
+        console.log("GET_LINK_SOURCE ERROR = UNKNOWN LINK HREF !\n"+data)
     }
-    let source = p0_src.split(`"`)[1];
-    return source;
+    if(p0_src != null){
+        let source = "";
+        if(p0_src.includes(`"`)){
+            source = p0_src.split(`"`)[1];
+        }else{
+            source = p0_src.split(`'`)[1];
+        }
+        return source;
+    }else{
+        return p0_src;
+    }
 }
 
-function get_unsubscribe_tag(tags, callback){
-    let selected;
-    let count = 0;
-    for(tag in tags){
-        for(val in dictionary){
-            if(tags[tag].name.toLowerCase().includes(dictionary[val])){
-                selected = tags[tag];
-                count += 1;
+function get_unsubscribe_tag(data, callback){
+    get_link_tags(data, (links) => {
+        get_link_names(links, (tags) => {
+            let selected;
+            let count = 0;
+            for(tag in tags){
+                for(val in dictionary){
+                    if(tags[tag].name.toLowerCase().includes(dictionary[val])){
+                        selected = tags[tag];
+                        count += 1;
+                    }
+                }
             }
-        }
-    }
-    callback(selected, count);
+            if(count == 0){
+                data = alt_get_unsubscribe_link(data);
+                if(data != null){
+                    for(tag in tags){
+                        if(tags[tag].link == data.link){
+                            selected = tags[tag];
+                        }
+                    }
+                    count = data.overload;
+                }else{
+                    console.log("ERROR - unsubscribe link not found");
+                }
+            }
+            console.log(selected);
+            console.log(count);
+            callback(selected, count);
+        });
+    });
 }
 
 function parse_newsletter(src, callback){
@@ -177,22 +213,47 @@ function parse_newsletter(src, callback){
             get_image_list_sources(images, (sources) => {
                 image_sources = sources;
                 get_link_tags(data, (links) => {
-                    get_link_names(links, (tags) => {
-                        get_unsubscribe_tag(tags, (tag, overflow) => {
-                            unsubscribe_tag = tag;
-                            if(overflow > 1){
-                                throw new Error("ERROR - more than one unsubscribe tag detected");
-                            }
-                            get_link_details(links, (taging) => {
-                                tag_details = taging;
-                                callback(image_sources, tag_details, unsubscribe_tag);
-                            });
+                    get_unsubscribe_tag(data, (tag, overflow) => {
+                        unsubscribe_tag = tag;
+                        if(overflow > 1){
+                            throw new Error("ERROR - more than one unsubscribe tag detected");
+                        }
+                        get_link_details(links, (taging) => {
+                            tag_details = taging;
+                            callback(image_sources, tag_details, unsubscribe_tag);
                         });
                     });
                 });
             })
         });
     });
+}
+
+function alt_get_unsubscribe_link(data){
+    let lines = data.split("\n");
+    let selected_lines = [];
+    for(line in lines){
+        for(word in dictionary){
+            if(lines[line].includes(dictionary[word])){
+                selected_lines.push(lines[line]);
+            }
+        }
+    }
+    let links = []
+    for(line in selected_lines){
+        get_link_tags(selected_lines[line], (link) => {
+            links.push(link);
+        });
+    }
+    if(links.length != 0){
+        ret = {
+            link: links[0],
+            overload: links.length,
+        }
+        return ret;
+    }else{
+        return null;
+    }
 }
 
 module.exports = {
