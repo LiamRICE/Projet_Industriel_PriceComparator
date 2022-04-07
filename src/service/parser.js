@@ -197,8 +197,6 @@ function get_unsubscribe_tag(data, callback){
                     console.log("ERROR - unsubscribe link not found");
                 }
             }
-            console.log(selected);
-            console.log(count);
             callback(selected, count);
         });
     });

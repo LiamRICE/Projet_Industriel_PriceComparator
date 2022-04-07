@@ -2,7 +2,9 @@
     "scripts": {
         "test": "jest",
         "start": "node src/index.js",
-        "experiment": "node src/experiment.js"
+        "experiment": "node src/experiment.js",
+        "unit_test": "jest -- unit_parser.test.js",
+        "int_test": "jest -- integration_parser.test.js"
     },
     "devDependencies": {
         "jest": "^27.5.1"
