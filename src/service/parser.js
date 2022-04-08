@@ -215,6 +215,7 @@ function alt_get_unsubscribe_link(data){
                     while(x<lines.length && !done){
                         if(lines[x].includes("<a")){
                             selected_lines.push(lines[x]);
+                            done = true;
                         }
                         x++;
                     }

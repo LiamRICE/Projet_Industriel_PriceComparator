@@ -73,10 +73,10 @@ test("Extracting unsubscribe tag from data (complex, single line)", () => {
 });
 
 test("Extracting unsubscribe tag from data (complex, multi-line)", () => {
-    parser.get_unsubscribe_tag(`<img></img>\n<p>If you want to unsubscribe, click below</p>\n<a href="https://link_name_here">here</a>\n<end></end>`, (value, overload) => {
+    parser.get_unsubscribe_tag(`<img></img>\n<p>If you want to unsubscribe, click below</p>\n<a href="https://link_name_here">here</a>\n<end><a href="https://yet_another_link"></a></end>`, (value, overload) => {
         expect({val:value, o:overload}).toEqual({val:{
-            name: 'here',
             link: '<a href="https://link_name_here">here</a>',
+            name: 'here',
         }, o:1});
     });
 });
