@@ -201,6 +201,44 @@ function get_unsubscribe_tag(data, callback){
     });
 }
 
+function alt_get_unsubscribe_link(data){
+    let lines = data.split("\n");
+    let selected_lines = [];
+    for(line in lines){
+        for(word in dictionary){
+            if(lines[line].includes(dictionary[word])){
+                if(lines[line].includes("<a")){
+                    selected_lines.push(lines[line]);
+                }else{
+                    let done = false;
+                    let x=line;
+                    while(x<lines.length && !done){
+                        if(lines[x].includes("<a")){
+                            selected_lines.push(lines[x]);
+                        }
+                        x++;
+                    }
+                }
+            }
+        }
+    }
+    let links = []
+    for(line in selected_lines){
+        get_link_tags(selected_lines[line], (link) => {
+            links.push(link);
+        });
+    }
+    if(links.length != 0){
+        ret = {
+            link: links[0],
+            overload: links.length,
+        }
+        return ret;
+    }else{
+        return null;
+    }
+}
+
 function parse_newsletter(src, callback){
     let image_sources;
     let unsubscribe_tag;
@@ -224,33 +262,6 @@ function parse_newsletter(src, callback){
             })
         });
     });
-}
-
-function alt_get_unsubscribe_link(data){
-    let lines = data.split("\n");
-    let selected_lines = [];
-    for(line in lines){
-        for(word in dictionary){
-            if(lines[line].includes(dictionary[word])){
-                selected_lines.push(lines[line]);
-            }
-        }
-    }
-    let links = []
-    for(line in selected_lines){
-        get_link_tags(selected_lines[line], (link) => {
-            links.push(link);
-        });
-    }
-    if(links.length != 0){
-        ret = {
-            link: links[0],
-            overload: links.length,
-        }
-        return ret;
-    }else{
-        return null;
-    }
 }
 
 module.exports = {

@@ -52,7 +52,7 @@ test("Extracting source of image tag (complex, prev_src)", () => {
     })
 });
 
-test("Extracting unsubscribe tag from data", () => {
+test("Extracting unsubscribe tag from data (simple)", () => {
   parser.read_newsletter("src/assets/newsletters/Gmail - GTC22 Event Recap.html", (data) => {
     parser.get_unsubscribe_tag(data, (value, overload) => {
         expect({val:value, o:overload}).toEqual({val:{
@@ -61,6 +61,24 @@ test("Extracting unsubscribe tag from data", () => {
         }, o:1});
     });
   });
+});
+
+test("Extracting unsubscribe tag from data (complex, single line)", () => {
+    parser.get_unsubscribe_tag(`<img></img>\n<p>If you want to unsubscribe, <a href="https://link_name_here">click here</a></p>\n<end></end>`, (value, overload) => {
+        expect({val:value, o:overload}).toEqual({val:{
+            name: 'click here',
+            link: '<a href="https://link_name_here">click here</a>',
+        }, o:1});
+    });
+});
+
+test("Extracting unsubscribe tag from data (complex, multi-line)", () => {
+    parser.get_unsubscribe_tag(`<img></img>\n<p>If you want to unsubscribe, click below</p>\n<a href="https://link_name_here">here</a>\n<end></end>`, (value, overload) => {
+        expect({val:value, o:overload}).toEqual({val:{
+            name: 'here',
+            link: '<a href="https://link_name_here">here</a>',
+        }, o:1});
+    });
 });
 
 test("BUG - unable to extract name of <a> tag", () => {
