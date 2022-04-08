@@ -24,7 +24,7 @@ function find_images(data, callback){
     }
     let images = [];
     for(let line=1; line<lines.length; line++){
-        images.push("<img"+lines[line]+"/>");
+        images.push("<img"+lines[line]+">");
     }
     callback(images);
 }

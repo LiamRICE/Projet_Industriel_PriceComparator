@@ -1,142 +1,142 @@
 [
 	{
-		image:<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_server_1x.png" width=143 height=59 alt="Gmail" class="logo"/>,
+		image:<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_server_1x.png" width=143 height=59 alt="Gmail" class="logo">,
 		source:https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_server_1x.png
 	},
 	{
-		image:<img src="https://ci4.googleusercontent.com/proxy/PsPYFHtpzIYKuyYUvAk9LjWHDvFbA3QfrR3jzp_Zs6qc42P8KfxTqnsM2tfogXwNyL3E86IYGkoPNXMojsNrgN44aZzKGAMYFJSSnMLDLfwwHe00=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png" style="margin:0 auto;padding:0;border:0;display:block" width="109" height="20"/>,
+		image:<img src="https://ci4.googleusercontent.com/proxy/PsPYFHtpzIYKuyYUvAk9LjWHDvFbA3QfrR3jzp_Zs6qc42P8KfxTqnsM2tfogXwNyL3E86IYGkoPNXMojsNrgN44aZzKGAMYFJSSnMLDLfwwHe00=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png" style="margin:0 auto;padding:0;border:0;display:block" width="109" height="20">,
 		source:https://ci4.googleusercontent.com/proxy/PsPYFHtpzIYKuyYUvAk9LjWHDvFbA3QfrR3jzp_Zs6qc42P8KfxTqnsM2tfogXwNyL3E86IYGkoPNXMojsNrgN44aZzKGAMYFJSSnMLDLfwwHe00=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png
 	},
 	{
-		image:<img src="https://ci4.googleusercontent.com/proxy/beC0TSR1_yKLVMQGtBM3p6NDzrFW7ceRrK7wlSEM6w3EpLqTIDh-laDhmrsnNsdRWEQd6yDd-Rvvm-UAclXF3W-r0omEiudLqyj6CeuoiyFhzY2ZHUyJ7i2vXjUgU9zW=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/nv-black-top-bar-logo-small.png" style="margin:0 auto;padding:0;border:0;display:block" width="109" height="20"/>,
+		image:<img src="https://ci4.googleusercontent.com/proxy/beC0TSR1_yKLVMQGtBM3p6NDzrFW7ceRrK7wlSEM6w3EpLqTIDh-laDhmrsnNsdRWEQd6yDd-Rvvm-UAclXF3W-r0omEiudLqyj6CeuoiyFhzY2ZHUyJ7i2vXjUgU9zW=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/nv-black-top-bar-logo-small.png" style="margin:0 auto;padding:0;border:0;display:block" width="109" height="20">,
 		source:https://ci4.googleusercontent.com/proxy/beC0TSR1_yKLVMQGtBM3p6NDzrFW7ceRrK7wlSEM6w3EpLqTIDh-laDhmrsnNsdRWEQd6yDd-Rvvm-UAclXF3W-r0omEiudLqyj6CeuoiyFhzY2ZHUyJ7i2vXjUgU9zW=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/nv-black-top-bar-logo-small.png
 	},
 	{
-		image:<img align="center" alt="isc-announcement-recap" border="0" class="m_8725908028413382607em_full_img" height="auto" src="https://ci6.googleusercontent.com/proxy/q0185SSeZwMeno_dU16KL4PEId6nRdT0_xbBxQWQbU02HHXSD7Ux7NtfGOfDprMFymsBuElWIdliQ2jYNoxBirH0Hn6eeq9VHRMzPPcVPb_LtF2aXwFKqDGiwRHUNzY=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/isc-announcement-recap-680.jpg" style="display:block;border:0px;outline:none;width:680;max-width:100%;height:auto" width="680"/>,
+		image:<img align="center" alt="isc-announcement-recap" border="0" class="m_8725908028413382607em_full_img" height="auto" src="https://ci6.googleusercontent.com/proxy/q0185SSeZwMeno_dU16KL4PEId6nRdT0_xbBxQWQbU02HHXSD7Ux7NtfGOfDprMFymsBuElWIdliQ2jYNoxBirH0Hn6eeq9VHRMzPPcVPb_LtF2aXwFKqDGiwRHUNzY=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/isc-announcement-recap-680.jpg" style="display:block;border:0px;outline:none;width:680;max-width:100%;height:auto" width="680">,
 		source:https://ci6.googleusercontent.com/proxy/q0185SSeZwMeno_dU16KL4PEId6nRdT0_xbBxQWQbU02HHXSD7Ux7NtfGOfDprMFymsBuElWIdliQ2jYNoxBirH0Hn6eeq9VHRMzPPcVPb_LtF2aXwFKqDGiwRHUNzY=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/isc-announcement-recap-680.jpg
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/caQNF0ETo6SDE_zrscoKYKBxlMhqef8ioOVq41uwMV8u3JkKYQYrC3GeG5MLbJWptC1bpDyluJ2SdPSgM9Y8CBpn-DG2X9eenL-I0zUucU7TdzKCs35gviT11tlq5L0hOUK6=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement.jpg" width="205" height="205" alt="newslettter-hgx-platform-announcement" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/caQNF0ETo6SDE_zrscoKYKBxlMhqef8ioOVq41uwMV8u3JkKYQYrC3GeG5MLbJWptC1bpDyluJ2SdPSgM9Y8CBpn-DG2X9eenL-I0zUucU7TdzKCs35gviT11tlq5L0hOUK6=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement.jpg" width="205" height="205" alt="newslettter-hgx-platform-announcement" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci3.googleusercontent.com/proxy/caQNF0ETo6SDE_zrscoKYKBxlMhqef8ioOVq41uwMV8u3JkKYQYrC3GeG5MLbJWptC1bpDyluJ2SdPSgM9Y8CBpn-DG2X9eenL-I0zUucU7TdzKCs35gviT11tlq5L0hOUK6=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci6.googleusercontent.com/proxy/9ixU7MTk6d0oNjA2g_388vnb6alUUOUQEOhyTKZCTPB4cs7P76MW9dEpHbYJewc30UZvkzjUHCPiM5JWCMtLTnqbB9lT1vMFBBhP5JItS6YGM8HwotAQ4mTMAJ0=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/every-scale-press-gtc22.jpg" width="290" height="163" alt="H100 Transformer Engine Supercharges AI Training" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci6.googleusercontent.com/proxy/9ixU7MTk6d0oNjA2g_388vnb6alUUOUQEOhyTKZCTPB4cs7P76MW9dEpHbYJewc30UZvkzjUHCPiM5JWCMtLTnqbB9lT1vMFBBhP5JItS6YGM8HwotAQ4mTMAJ0=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/every-scale-press-gtc22.jpg" width="290" height="163" alt="H100 Transformer Engine Supercharges AI Training" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci6.googleusercontent.com/proxy/9ixU7MTk6d0oNjA2g_388vnb6alUUOUQEOhyTKZCTPB4cs7P76MW9dEpHbYJewc30UZvkzjUHCPiM5JWCMtLTnqbB9lT1vMFBBhP5JItS6YGM8HwotAQ4mTMAJ0=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/every-scale-press-gtc22.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/5LyNzid6UdOD0Lm50sb7GRTEEk8nrHc2EuvtvlaEb5FGZ8E7DERsr0dJ_yT2trxCGcGlQMTFL6IJmmy32eNkOWWgeLAc-4f--nupEExaIM0CGRwQ88tMUDwUrlqbmfl-emzwe8bSYg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement-600.jpg" width="290" height="163" alt="Hopper Architecture Accelerates Dynamic Programming " class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/5LyNzid6UdOD0Lm50sb7GRTEEk8nrHc2EuvtvlaEb5FGZ8E7DERsr0dJ_yT2trxCGcGlQMTFL6IJmmy32eNkOWWgeLAc-4f--nupEExaIM0CGRwQ88tMUDwUrlqbmfl-emzwe8bSYg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement-600.jpg" width="290" height="163" alt="Hopper Architecture Accelerates Dynamic Programming " class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci3.googleusercontent.com/proxy/5LyNzid6UdOD0Lm50sb7GRTEEk8nrHc2EuvtvlaEb5FGZ8E7DERsr0dJ_yT2trxCGcGlQMTFL6IJmmy32eNkOWWgeLAc-4f--nupEExaIM0CGRwQ88tMUDwUrlqbmfl-emzwe8bSYg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/newsletter-hopper-announcement-600.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci6.googleusercontent.com/proxy/If4iwYvp6PlNPOoUWVprz7u6S2XegCDDYhFjZS8FA2co0cWKzepS_0D0DxhMvSLHRDEn9Wps0FJ1Ba8qByY1YZEx6Qunit074clqoRE56PqhWbZbSGpYpkAe=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/grace-promo-email-600.jpg" width="290" height="163" alt="NVIDIA Introduces Grace CPU Superchip" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci6.googleusercontent.com/proxy/If4iwYvp6PlNPOoUWVprz7u6S2XegCDDYhFjZS8FA2co0cWKzepS_0D0DxhMvSLHRDEn9Wps0FJ1Ba8qByY1YZEx6Qunit074clqoRE56PqhWbZbSGpYpkAe=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/grace-promo-email-600.jpg" width="290" height="163" alt="NVIDIA Introduces Grace CPU Superchip" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci6.googleusercontent.com/proxy/If4iwYvp6PlNPOoUWVprz7u6S2XegCDDYhFjZS8FA2co0cWKzepS_0D0DxhMvSLHRDEn9Wps0FJ1Ba8qByY1YZEx6Qunit074clqoRE56PqhWbZbSGpYpkAe=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/grace-promo-email-600.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci6.googleusercontent.com/proxy/lHI2mIFRSPQOwoFBOEN3OgX_BAcftaz9I2-x1jWCpU5H_xmNUegpwA4efV_UyN0lqwdRyNHcntt2ycjvoNnzFOYdD-l_Ez7ZBVr28rIDlvilZTvxhx7mCV80n_fdhGNasLg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/scientific-digital-twins-600.jpeg" width="290" height="163" alt="A New Digital Twin Platform for Scientific Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci6.googleusercontent.com/proxy/lHI2mIFRSPQOwoFBOEN3OgX_BAcftaz9I2-x1jWCpU5H_xmNUegpwA4efV_UyN0lqwdRyNHcntt2ycjvoNnzFOYdD-l_Ez7ZBVr28rIDlvilZTvxhx7mCV80n_fdhGNasLg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/scientific-digital-twins-600.jpeg" width="290" height="163" alt="A New Digital Twin Platform for Scientific Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci6.googleusercontent.com/proxy/lHI2mIFRSPQOwoFBOEN3OgX_BAcftaz9I2-x1jWCpU5H_xmNUegpwA4efV_UyN0lqwdRyNHcntt2ycjvoNnzFOYdD-l_Ez7ZBVr28rIDlvilZTvxhx7mCV80n_fdhGNasLg=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/scientific-digital-twins-600.jpeg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci5.googleusercontent.com/proxy/6SiQvDzb9QnWCeO8LAf_nTdar98Wf7nIc4c-Uatwb3l8uFXmEuQclZtAifC1QwMDOlB7v4hvB1t9padks7PEZi3FX2Kmuy3iGcLxK4mzZex-6wKeTtLBoOdYZ-TteZzMORtVW7w=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/ov-gtc-announce-siemens-wind-600.jpg" width="290" height="163" alt="Siemens Gamesa Taps NVIDIA Digital Twin Platform for Scientific Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci5.googleusercontent.com/proxy/6SiQvDzb9QnWCeO8LAf_nTdar98Wf7nIc4c-Uatwb3l8uFXmEuQclZtAifC1QwMDOlB7v4hvB1t9padks7PEZi3FX2Kmuy3iGcLxK4mzZex-6wKeTtLBoOdYZ-TteZzMORtVW7w=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/ov-gtc-announce-siemens-wind-600.jpg" width="290" height="163" alt="Siemens Gamesa Taps NVIDIA Digital Twin Platform for Scientific Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci5.googleusercontent.com/proxy/6SiQvDzb9QnWCeO8LAf_nTdar98Wf7nIc4c-Uatwb3l8uFXmEuQclZtAifC1QwMDOlB7v4hvB1t9padks7PEZi3FX2Kmuy3iGcLxK4mzZex-6wKeTtLBoOdYZ-TteZzMORtVW7w=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/ov-gtc-announce-siemens-wind-600.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/rKDtFTQ5yrz_GyIZJDkZecyT6IJzl1GP0V0GeZCfnKU5-AEogf-QQ9EfuODTMhhEX9Xk4V6w4DfiNlYdnsVcN8Hn-s68KgkcyRkXG92whzZuNCWPhoWDFRSR5pFOHuB1Y-Z0WAMD=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/hpc-quantum-computing-organic-600.jpg" width="290" height="163" alt="NVIDIA Unveils Onramp to Hybrid Quantum Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto"/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/rKDtFTQ5yrz_GyIZJDkZecyT6IJzl1GP0V0GeZCfnKU5-AEogf-QQ9EfuODTMhhEX9Xk4V6w4DfiNlYdnsVcN8Hn-s68KgkcyRkXG92whzZuNCWPhoWDFRSR5pFOHuB1Y-Z0WAMD=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/hpc-quantum-computing-organic-600.jpg" width="290" height="163" alt="NVIDIA Unveils Onramp to Hybrid Quantum Computing" class="m_8725908028413382607image-70-percent" style="margin:0;padding:0;display:block;border:0px;outline:none;max-width:100%;height:auto">,
 		source:https://ci3.googleusercontent.com/proxy/rKDtFTQ5yrz_GyIZJDkZecyT6IJzl1GP0V0GeZCfnKU5-AEogf-QQ9EfuODTMhhEX9Xk4V6w4DfiNlYdnsVcN8Hn-s68KgkcyRkXG92whzZuNCWPhoWDFRSR5pFOHuB1Y-Z0WAMD=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/hpc-quantum-computing-organic-600.jpg
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1"/>,
+		image:<img alt=" " border="0" height="1" src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" style="display:block" width="1">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " style="display:block" width="1" height="1" border="0"/>,
+		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " style="display:block" width="1" height="1" border="0">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/dlzwH2QfVxApw-BGN2zUhGaHzD4QedvItZ8foKF5gN2gXkQ2yzwjaK016-wb5gj4FNEd-FVpIVaYuzHCq_W9NhZ-Va2JrqXo1RN2xiTAtnx7yMVvgpDtVVUdvhHK=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png" alt="Facebook" style="max-width:25px" width="25" vspace="0" hspace="0" border="0"/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/dlzwH2QfVxApw-BGN2zUhGaHzD4QedvItZ8foKF5gN2gXkQ2yzwjaK016-wb5gj4FNEd-FVpIVaYuzHCq_W9NhZ-Va2JrqXo1RN2xiTAtnx7yMVvgpDtVVUdvhHK=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png" alt="Facebook" style="max-width:25px" width="25" vspace="0" hspace="0" border="0">,
 		source:https://ci3.googleusercontent.com/proxy/dlzwH2QfVxApw-BGN2zUhGaHzD4QedvItZ8foKF5gN2gXkQ2yzwjaK016-wb5gj4FNEd-FVpIVaYuzHCq_W9NhZ-Va2JrqXo1RN2xiTAtnx7yMVvgpDtVVUdvhHK=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png
 	},
 	{
-		image:<img src="https://ci4.googleusercontent.com/proxy/06hiR4VhzOt_tLBdk3T_jy9ACDMAbi1mDxAx_KT3hVKWUQfJ0iOzJBMMqTNTqVtFQ_BAMwSl2HQ7pQggSxJUqVv0zXRUgjAB35dx6YmWnUkqoDb27oC8VwMGL9EM=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png" alt="Twitter" style="max-width:25px" width="25" vspace="0" hspace="0" border="0"/>,
+		image:<img src="https://ci4.googleusercontent.com/proxy/06hiR4VhzOt_tLBdk3T_jy9ACDMAbi1mDxAx_KT3hVKWUQfJ0iOzJBMMqTNTqVtFQ_BAMwSl2HQ7pQggSxJUqVv0zXRUgjAB35dx6YmWnUkqoDb27oC8VwMGL9EM=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png" alt="Twitter" style="max-width:25px" width="25" vspace="0" hspace="0" border="0">,
 		source:https://ci4.googleusercontent.com/proxy/06hiR4VhzOt_tLBdk3T_jy9ACDMAbi1mDxAx_KT3hVKWUQfJ0iOzJBMMqTNTqVtFQ_BAMwSl2HQ7pQggSxJUqVv0zXRUgjAB35dx6YmWnUkqoDb27oC8VwMGL9EM=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/_5nhPN6e8dLj8wxXcCV7POUOFdnYeuJBuj3oLEusQiz8znFP261L68z51Kg5DfHDv-8lyIQGxEF6y3h24X0q7RpA1Jb_XGRxv17x2WpMKd8RlWeKmimC_qySK_Wo=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png" alt="LinkedIn" style="max-width:25px" width="25" vspace="0" hspace="0" border="0"/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/_5nhPN6e8dLj8wxXcCV7POUOFdnYeuJBuj3oLEusQiz8znFP261L68z51Kg5DfHDv-8lyIQGxEF6y3h24X0q7RpA1Jb_XGRxv17x2WpMKd8RlWeKmimC_qySK_Wo=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png" alt="LinkedIn" style="max-width:25px" width="25" vspace="0" hspace="0" border="0">,
 		source:https://ci3.googleusercontent.com/proxy/_5nhPN6e8dLj8wxXcCV7POUOFdnYeuJBuj3oLEusQiz8znFP261L68z51Kg5DfHDv-8lyIQGxEF6y3h24X0q7RpA1Jb_XGRxv17x2WpMKd8RlWeKmimC_qySK_Wo=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png
 	},
 	{
-		image:<img src="https://ci5.googleusercontent.com/proxy/iimXeytq-kzqEX4ztd1b75Qk0BfKM3LGWyygPJ5UDW0VYD7WEb9vOqFC8_2CJKeLnqkrIjT3tMI7euAB06h8_L4ZCpQM7ans-rX4eOMtDzoKwba_avCXK5QVNU1z=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png" alt="YouTube" style="max-width:25px" width="25" vspace="0" hspace="0" border="0"/>,
+		image:<img src="https://ci5.googleusercontent.com/proxy/iimXeytq-kzqEX4ztd1b75Qk0BfKM3LGWyygPJ5UDW0VYD7WEb9vOqFC8_2CJKeLnqkrIjT3tMI7euAB06h8_L4ZCpQM7ans-rX4eOMtDzoKwba_avCXK5QVNU1z=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png" alt="YouTube" style="max-width:25px" width="25" vspace="0" hspace="0" border="0">,
 		source:https://ci5.googleusercontent.com/proxy/iimXeytq-kzqEX4ztd1b75Qk0BfKM3LGWyygPJ5UDW0VYD7WEb9vOqFC8_2CJKeLnqkrIjT3tMI7euAB06h8_L4ZCpQM7ans-rX4eOMtDzoKwba_avCXK5QVNU1z=s0-d-e1-ft#https://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png
 	},
 	{
-		image:<img src="https://ci4.googleusercontent.com/proxy/9FxYwoNUFi8Bfe7swSZ1PePyj3lj1as0PoMoXhB8ZmTIQP1GaAfvMHFUu412kt60uPdW5HEs_GNdgNr7_fMhqbefv9x38xIlccqZPlpHzmkW0EJIgaC6BvZ2chbLLgOd=s0-d-e1-ft#https://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png" alt="NVIDIA Blog" style="max-width:25px" width="25" vspace="0" hspace="0" border="0"/>,
+		image:<img src="https://ci4.googleusercontent.com/proxy/9FxYwoNUFi8Bfe7swSZ1PePyj3lj1as0PoMoXhB8ZmTIQP1GaAfvMHFUu412kt60uPdW5HEs_GNdgNr7_fMhqbefv9x38xIlccqZPlpHzmkW0EJIgaC6BvZ2chbLLgOd=s0-d-e1-ft#https://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png" alt="NVIDIA Blog" style="max-width:25px" width="25" vspace="0" hspace="0" border="0">,
 		source:https://ci4.googleusercontent.com/proxy/9FxYwoNUFi8Bfe7swSZ1PePyj3lj1as0PoMoXhB8ZmTIQP1GaAfvMHFUu412kt60uPdW5HEs_GNdgNr7_fMhqbefv9x38xIlccqZPlpHzmkW0EJIgaC6BvZ2chbLLgOd=s0-d-e1-ft#https://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png
 	},
 	{
-		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " style="display:block" width="1" height="1" border="0"/>,
+		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " style="display:block" width="1" height="1" border="0">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " width="1" height="1" border="0"/>,
+		image:<img src="https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif" alt=" " width="1" height="1" border="0">,
 		source:https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif
 	},
 	{
-		image:<img src="https://ci3.googleusercontent.com/proxy/Np3b0pdajWN919wplulsh8_h6DX3uWU_vKtvaC6RqMNcJ_y_IvFGK6o9wBOHL-Il6r6izJWxspn2pO3Zq07mjls92mMyij3AoPDcywy7iFRbf0CoCH6iVKzhy6uhGsb2__RRWVEzOF9aDLfxwoZr6Ia960oRg3bK8AvsJHZZHVf8LkvjbvORKERJd8RajB7ZIyUIJVyBGhALKF0DoyAd11SW7Ci6Up8m0IctdYp8mOG8wKLB=s0-d-e1-ft#https://go.nvidianews.com/trk?t=1&amp;mid=MTU2LU9GTi03NDI6MDo3NTQ4NDozODc3Mjg6MTczNjc2NToxMDMwNDU6OTozNjIwMDI6NDkzMzQyNzgzLTEwOmJlbnRoYW0ubWFnbmxlckBnbWFpbC5jb20%3D" width="1" height="1" style="display:none!important" alt=""/>,
+		image:<img src="https://ci3.googleusercontent.com/proxy/Np3b0pdajWN919wplulsh8_h6DX3uWU_vKtvaC6RqMNcJ_y_IvFGK6o9wBOHL-Il6r6izJWxspn2pO3Zq07mjls92mMyij3AoPDcywy7iFRbf0CoCH6iVKzhy6uhGsb2__RRWVEzOF9aDLfxwoZr6Ia960oRg3bK8AvsJHZZHVf8LkvjbvORKERJd8RajB7ZIyUIJVyBGhALKF0DoyAd11SW7Ci6Up8m0IctdYp8mOG8wKLB=s0-d-e1-ft#https://go.nvidianews.com/trk?t=1&amp;mid=MTU2LU9GTi03NDI6MDo3NTQ4NDozODc3Mjg6MTczNjc2NToxMDMwNDU6OTozNjIwMDI6NDkzMzQyNzgzLTEwOmJlbnRoYW0ubWFnbmxlckBnbWFpbC5jb20%3D" width="1" height="1" style="display:none!important" alt="">,
 		source:https://ci3.googleusercontent.com/proxy/Np3b0pdajWN919wplulsh8_h6DX3uWU_vKtvaC6RqMNcJ_y_IvFGK6o9wBOHL-Il6r6izJWxspn2pO3Zq07mjls92mMyij3AoPDcywy7iFRbf0CoCH6iVKzhy6uhGsb2__RRWVEzOF9aDLfxwoZr6Ia960oRg3bK8AvsJHZZHVf8LkvjbvORKERJd8RajB7ZIyUIJVyBGhALKF0DoyAd11SW7Ci6Up8m0IctdYp8mOG8wKLB=s0-d-e1-ft#https://go.nvidianews.com/trk?t=1&amp;mid=MTU2LU9GTi03NDI6MDo3NTQ4NDozODc3Mjg6MTczNjc2NToxMDMwNDU6OTozNjIwMDI6NDkzMzQyNzgzLTEwOmJlbnRoYW0ubWFnbmxlckBnbWFpbC5jb20%3D
 	},
 ],

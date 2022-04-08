@@ -19,7 +19,7 @@ parser.parse_newsletter("src/assets/newsletters/Gmail - GTC22 Event Recap.html",
 
     fs.writeFile('src/assets/output/output-NVIDIA.txt', data, (err) => {
         if (err) throw err;
-    })
+    });
 });
 
 parser.parse_newsletter("src/assets/newsletters/Gmail - Sélection spéciale de produits pour volailles !.html", (images, tags, tag) => {
@@ -102,6 +102,27 @@ parser.parse_newsletter("src/assets/newsletters/Gmail - Introducing_ _StandPartn
     }
 
     fs.writeFile('src/assets/output/output-FdS.txt', data, (err) => {
+        if (err) throw err;
+    })
+});
+
+parser.parse_newsletter("src/assets/newsletters/test.html", (images, tags, tag) => {
+    data = "[\n";
+    for(i in images){
+        data += `\t{\n\t\timage:${images[i].image},\n\t\tsource:${images[i].source}\n\t},\n`;
+    }
+    data += "],\n[\n";
+    for(i in tags){
+        data += `\t{\n\t\tlink:${tags[i].link},\n\t\ttag:${tags[i].tag}\n\t},\n`;
+    }
+    data += "],\n";
+    if(tag != undefined){
+        data += `{\n\tname:${tag.name},\n\tlink:${tag.link}\n}\n`;
+    }else{
+        console.log("ERROR - did not find unsubscribe tag (output-FdS)");
+    }
+
+    fs.writeFile('src/assets/output/output-test.txt', data, (err) => {
         if (err) throw err;
     })
 });

@@ -1,0 +1,89 @@
+[
+	{
+		image:<img alt="Adobe Creative Cloud" src="https://landing.adobe.com/dam/global/images/creative-cloud.icon.240x234.png" width="30" height="30" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/global/images/creative-cloud.icon.240x234.png
+	},
+	{
+		image:<img style="color: #EB1000;font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;font-size:14px;line-height:20px;display:block;vertical-align:top;" vspace="0" hspace="0" border="0" height="30" width="200" src="https://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=400,60&wid=400&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3Bffffff%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Creative%20Cloud" alt="Adobe Creative Cloud" />,
+		source:https://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=400,60&wid=400&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3Bffffff%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Creative%20Cloud
+	},
+	{
+		image:<img class="mobile-image" alt="Bénéficiez de -20&nbsp;% sur Creative Cloud." src="https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_desktop_2x.jpg" srcset="https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_mobile_2x.jpg 480w, https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_desktop_2x.jpg 1200w" sizes="(max-width: 480px) 50vw" width="600" height="auto" border="0" hspace="0" vspace="0" style="color:#FFFFFF; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:22px; line-height:28px; display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_desktop_2x.jpg
+	},
+	{
+		image:<img class="mobile-image" alt="Creativity for all." src="https://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg" srcset="https://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.800x60.jpg 621w,
+https://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg 1200w" sizes="(max-width: 480px) 50vw" width="600" height="auto" border="0" hspace="0" vspace="0" style="color:#000000; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:15px; line-height:20px; display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg
+	},
+	{
+		image:<img class="padb-50" alt="Adobe" src="https://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png" width="30" height="auto" border="0" hspace="0" vspace="0" style="color:#EB1000; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:12px; line-height:18px; display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png
+	},
+	{
+		image:<img alt="Facebook" src="https://landing.adobe.com/dam/global/images/social/facebook.959595.png" width="9" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/global/images/social/facebook.959595.png
+	},
+	{
+		image:<img alt="Instagram" src="https://landing.adobe.com/dam/global/images/social/instagram.959595.png" width="17" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/global/images/social/instagram.959595.png
+	},
+	{
+		image:<img alt="Twitter" src="https://landing.adobe.com/dam/global/images/social/twitter.959595.png" width="21" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" />,
+		source:https://landing.adobe.com/dam/global/images/social/twitter.959595.png
+	},
+	{
+		image:<img height='0' width='0' alt='' src='https://t-info.mail.adobe.com/r/?id=hd97bb394,f5a00d45,1'/>,
+		source:undefined
+	},
+	{
+		image:<img height='0' width='0' alt='' src='https://adobe.demdex.net/event?c_syncplacement=email&d_cid=813%01ED9E1D58623CBB6D0A495FED'/>,
+		source:undefined
+	},
+],
+[
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d76&p1=7RZ3641V&s=cpy-cfWPwuZaUclUD6Hc8RcfShVr2Se6cF-h0m1rFVY,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d76&p1=7RZ3641V&s=cpy-cfWPwuZaUclUD6Hc8RcfShVr2Se6cF-h0m1rFVY" target="_blank" style="display:block;vertical-align:middle;text-align:center;text-decoration:none;color: #ffffff;height:100%;"><div class="mktoText" id="ADO10871-e" style="font-family:adobe-clean,Helvetica,Arial,sans-serif;font-size:16px;line-height: 20px;font-weight:700;border-radius:50px;width: 220px;text-align:center;border: 2px solid #fff;padding: 10px 0;color: #ffffff;">En&nbsp;savoir&nbsp;plus</div></a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d77&p1=7RZ3641V&s=EdExPpY2qbIp_Pkx3wOwAXm4piKdn1CsV4RlktE16c4,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d77&p1=7RZ3641V&s=EdExPpY2qbIp_Pkx3wOwAXm4piKdn1CsV4RlktE16c4" target="_blank"><img class="mobile-image" alt="Bénéficiez de -20&nbsp;% sur Creative Cloud." src="https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_desktop_2x.jpg" srcset="https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_mobile_2x.jpg 480w, https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6227258e0009aad6ecfe1f166259b4cb_EN_EM2_desktop_2x.jpg 1200w" sizes="(max-width: 480px) 50vw" width="600" height="auto" border="0" hspace="0" vspace="0" style="color:#FFFFFF; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:22px; line-height:28px; display:block; vertical-align:top;" /></a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d78&s=UkZ2oxt-oTt25eRNUdr_HEZ9RZELl8KURBUev9N8EeU,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d78&s=UkZ2oxt-oTt25eRNUdr_HEZ9RZELl8KURBUev9N8EeU" alias="Facebook" target="_blank"><img alt="Facebook" src="https://landing.adobe.com/dam/global/images/social/facebook.959595.png" width="9" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" /></a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d79&s=G8ToElXTbKDw1Dgx4ZpcXky26PJDUOuLJiZP9hmX0Vc,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d79&s=G8ToElXTbKDw1Dgx4ZpcXky26PJDUOuLJiZP9hmX0Vc" alias="Instagram" target="_blank"><img alt="Instagram" src="https://landing.adobe.com/dam/global/images/social/instagram.959595.png" width="17" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" /></a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7a&s=VKJax4sc9--CxiALpKd3gRj0SIZk3cAGV6ic59W12rE,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7a&s=VKJax4sc9--CxiALpKd3gRj0SIZk3cAGV6ic59W12rE" alias="Twitter" target="_blank"><img alt="Twitter" src="https://landing.adobe.com/dam/global/images/social/twitter.959595.png" width="21" height="17" border="0" hspace="0" vspace="0" style="display:block; vertical-align:top;" /></a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7b&p1=%40H%2BLlhskVBeE1fXhq01bga3WmZzHblB0mhK0ZZ4GTCTs%3D&p2=&loc=fr&p3=25&s=DaGhfIyaE5iHl01NP-IRfopodeuMA7knB-WiW5gvEiI,
+		tag:<a style="TEXT-DECORATION: underline; COLOR: #a1a1a1" href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7b&p1=%40H%2BLlhskVBeE1fXhq01bga3WmZzHblB0mhK0ZZ4GTCTs%3D&p2=&loc=fr&p3=25&s=DaGhfIyaE5iHl01NP-IRfopodeuMA7knB-WiW5gvEiI" target="_blank" class="opt_out" alias="Unsubscribe" _type="optout" _label="Opt-out link">désabonner</A>  ou envoyez une demande de désabonnement à l’adresse postale ci-dessus. Veuillez consulter la </a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7c&s=SqIkfk01R7BrC-7-jCCYdbxMo6GfaRlyaiLlGkNpIjo,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7c&s=SqIkfk01R7BrC-7-jCCYdbxMo6GfaRlyaiLlGkNpIjo" alias="FOOTER - Privacy" target="_blank" style="color:#959595;">Politique de confidentialité d’Adobe</a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7d&s=Jii-YDhuDQurWEKZBUYd9oVXPCE1jQ0dHk-dHfEKqLA,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7d&s=Jii-YDhuDQurWEKZBUYd9oVXPCE1jQ0dHk-dHfEKqLA" alias="FOOTER - Add to address book" target="_blank" style="color:#959595;">mail@mail.adobe.com</a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7e&s=BBIYfjkvqPhUKH_nt8rWFgo8CNaZ1yjQm6FQqj0YVX8,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7e&s=BBIYfjkvqPhUKH_nt8rWFgo8CNaZ1yjQm6FQqj0YVX8" alias="FOOTER - Contact" target="_blank" style="color:#959595;">en&nbsp;ligne</a>
+	},
+	{
+		link:https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7f&p1=%40HKXquqezcWkX11mN49lBQncIwZRZWXye3Wfu3nVmElQ%3D&s=2zHA3xPreTk8xmr5RDQ_1x4GoLcFXcCy61U3YjQ8iw8,
+		tag:<a href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7f&p1=%40HKXquqezcWkX11mN49lBQncIwZRZWXye3Wfu3nVmElQ%3D&s=2zHA3xPreTk8xmr5RDQ_1x4GoLcFXcCy61U3YjQ8iw8" _label="Mirror Page" _type="mirrorPage" alias="Read online" target="_blank" style="color:#959595; text-decoration: underline;">À lire en ligne</a>
+	},
+],
+{
+	name:désabonner,
+	link:<a style="TEXT-DECORATION: underline; COLOR: #a1a1a1" href="https://t-info.mail.adobe.com/r/?id=hd97bb394%2Cf5a00d45%2Cbd992d7b&p1=%40H%2BLlhskVBeE1fXhq01bga3WmZzHblB0mhK0ZZ4GTCTs%3D&p2=&loc=fr&p3=25&s=DaGhfIyaE5iHl01NP-IRfopodeuMA7knB-WiW5gvEiI" target="_blank" class="opt_out" alias="Unsubscribe" _type="optout" _label="Opt-out link">désabonner</A>  ou envoyez une demande de désabonnement à l’adresse postale ci-dessus. Veuillez consulter la </a>
+}
