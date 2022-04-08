@@ -8,5 +8,5 @@
 - callback : callback function that returns with image_sources, link_tags, unsubscribe_tag
 #### output
 - image_sources : a list of image objects containing
--- image: the image tag in its entirety reprisented as a string
--- source: the source of the image (its "src" marker) reprisented by a string
+- - image: the image tag in its entirety reprisented as a string
+- - source: the source of the image (its "src" marker) reprisented by a string
