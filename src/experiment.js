@@ -1,16 +1,15 @@
 const parser = require('./service/parser');
+const image = require('./service/image');
 const fs = require('fs');
 
-const dictionary = [
-    "unsubscrib",
-    "désinscri",
-    "desinscri",
-    "désabon",
-    "desabon",
-]
+data = {
+  company_name: "Nvidia",
+  image_url: "https://ci5.googleusercontent.com/proxy/A5orN-QdXXvb3dNlSCHmmkrRW5904qntUEzaxuVy9jOBNlI0e0hBq3DIC_XFMsSrL16gLOSMEQnAtcVei52hRiSIOoqSTIgau6ot=s0-d-e1-ft#https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif",
+}
+let link = image.getImage(data);
+console.log(link);
 
-parser.read_newsletter("src/assets/newsletters/Gmail - Introducing_ _StandPartners Only_ from Fiddlershop.html", (data) => {
-    parser.get_unsubscribe_tag(data, (selected, count) => {
-      console.log(selected);
-    });
-  });
+fs.writeFile('src/assets/output/image-links.txt', link, (err) => {
+    if (err) throw err;
+})
+
