@@ -17,10 +17,16 @@ let data3 = {
 };
 let data = [data1, data2, data3];
 
-let link = image.get_image(data);
-console.log(link);
+image.get_image(data).then((data, err) => {
+  if(err){
+    err.message();
+  }else{
+    console.log(data);
 
-fs.writeFile('src/assets/output/image-links.txt', link, (err) => {
-    if (err) throw err;
-})
+    fs.writeFile('src/assets/output/image-links.txt', data, (err) => {
+        if (err) throw err;
+    });
+  }
+});
+
 
