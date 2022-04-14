@@ -256,7 +256,13 @@ function parse_newsletter(src, callback){
                         }
                         get_link_details(links, (taging) => {
                             tag_details = taging;
-                            callback(image_sources, tag_details, unsubscribe_tag);
+                            let return_value = {
+                                origin: "COMPANY",
+                                images: image_sources,
+                                tags: tag_details,
+                                unsubscription: unsubscribe_tag,
+                            }
+                            callback(return_value);
                         });
                     });
                 });
