@@ -1,6 +1,13 @@
 # Projet_Industriel_PriceComparator
 ## RICE Liam, LAMBERT Jordan
 
+## **Running**
+- npm run start : runs the service
+- npm run test : runs all service tests
+- npm run unit_test : runs all service unit tests
+- npm run int_test : runs all service integration tests
+
+## **Documentation**
 ## service/parser.js
 ### parse_newsletter(src, callback)
 This function takes in a source file, reads it, and outputs the relevant images, links and the unsubscribe link.
@@ -8,15 +15,17 @@ This function takes in a source file, reads it, and outputs the relevant images,
 - src : a link to a .txt file to read
 - callback : callback function that returns with image_sources, link_tags, unsubscribe_tag
 #### output (in callback)
-- image_sources : an array of image objects, each containing
-    - image : the image tag in its entirety reprisented as a string
-    - source : the source of the image (its "src" marker) reprisented by a string
-- link_tags : an array of link objects, each containing
-    - link : the link source, or what is found in the "href" descriptor of the <a> tag reprisented as a string
-    - tag : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
-- unsubscribe_tag : the link tag that allows a user to unsubscribe from the newsletters, as an object containing
-    - name : the name of the tag, what is found between the <a> tags and subtags reprisented as a string
-    - link : the full link tag, including the subtags found between <a> and </a> reprisented as a string
+- data : a data object containing
+    - origin : a string that contains the name of the company that produced the newletter
+    - images : an array of image objects, each containing
+        - image : a string containing the image tag of that image found within the newsletter
+        - source : a string containing the original link to the image
+    - tags : an array of tag objects, each containing
+        - name : the name found within the link as it would appear underlined on a web page, reprisented as a string (cannot be an empty string, which excludes images as links)
+        - link : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
+    - unsubscription : a tag object reprisating the unsubscription link containing
+        - name : the name found within the link as it would appear underlined on a web page, reprisented as a string (cannot be an empty string, which excludes images as links)
+        - link : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
 
 ### find_images(data, callback)
 This function reads a newsletter and isolates all of the image tags contained within.
@@ -45,7 +54,7 @@ This function reads a newsletter and returns an array of all of the link tags co
 - links : an array of all the link tags (<a> tags) within the newsletter reprisented as strings
 
 ### get_link_details(links, callback)
-This function reads an array of link tags and returns each link tag with its relevant source (marked href)
+This function reads an array of link tags and returns each link tag with its relevant source (marked href).
 #### input
 - links : an array of complete link tags reprisented as strings
 - callback : callback function that returns with link_tags
@@ -55,7 +64,7 @@ This function reads an array of link tags and returns each link tag with its rel
     - tag : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
 
 ### get_link_names(links, callback)
-This function reads an array of link tags and returns only the link tags that have names (the underlined text on a web page)
+This function reads an array of link tags and returns only the link tags that have names (the underlined text on a web page).
 #### input
 - links
 - callback : a callback function that returns with link_names
@@ -63,3 +72,37 @@ This function reads an array of link tags and returns only the link tags that ha
 - link_names : an array of link objects, each containing
     - name : the name found within the link as it would appear underlined on a web page, reprisented as a string (cannot be an empty string, which excludes images as links)
     - link : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
+
+### get_image(data)
+This function reads a data object and uploads an image to the PriceComparator image server and returns the web address of that uploaded image.
+#### input
+- data : a data object containing
+    - company_name : the name of the company who provided the original image
+    - image_url : the link to the image on that company's site
+#### output (promise)
+- promise : a promise that returns
+    - resolve : the promise resolves the newly created link to the uploaded image
+    - reject : the promise rejects the error that caused the function to fail
+
+### get_unique_ID()
+This function returns a unique integer to use as an ID
+#### output
+- id : a unique integer, it corresponds to the number of images uploaded to the server
+
+### to_data(data, callback)
+#### input
+- data : a data object (as the one returned by the parse_newsletter function) containing
+    - origin : a string that contains the name of the company that produced the newletter
+    - images : an array of image objects, each containing
+        - image : a string containing the image tag of that image found within the newsletter
+        - source : a string containing the original link to the image
+    - tags : an array of tag objects, each containing
+        - name : the name found within the link as it would appear underlined on a web page, reprisented as a string (cannot be an empty string, which excludes images as links)
+        - link : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
+    - unsubscription : a tag object reprisating the unsubscription link containing
+        - name : the name found within the link as it would appear underlined on a web page, reprisented as a string (cannot be an empty string, which excludes images as links)
+        - link : the link tag in it's entirety, including the subtags found between <a> and </a> reprisented as a string
+#### output (in callback)
+- data : an array of objects formatted for the get_image function each containing
+    - company_name : the name of the company who provided the original image
+    - image_url : the link to the image on that company's site

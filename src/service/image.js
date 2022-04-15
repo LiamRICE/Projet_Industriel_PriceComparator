@@ -16,7 +16,7 @@ async function get_image(image_data){
                         reject(err);
                     }else{
                         console.log("Success!");
-                        resolve(result.data);
+                        resolve(`https://img.pricecomparator.pro/${result.data}`);
                     }
                 });
             } catch (err) {
@@ -39,12 +39,22 @@ function get_unique_ID(callback){
 }
 
 function to_data(data, callback){
-    ret = [];
+    let ret = [];
+    let done = [];
     for(d in data.images){
-        ret.push({
-            company_name: data.origin,
-            image_url: data.images[d].source,
-        });
+        let val = true;
+        for(x in done){
+            if(done[x] == data.images[d].source){
+                val = false;
+            }
+        }
+        if(val){
+            ret.push({
+                company_name: data.origin,
+                image_url: data.images[d].source,
+            });
+            done.push(data.images[d].source);
+        }
     }
     callback(ret);
 }

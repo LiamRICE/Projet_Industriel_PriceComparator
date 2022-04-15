@@ -12,7 +12,7 @@ image.get_image(data1).then((data, err) => {
   if(err){
     err.message();
   }else{
-    let res = `https://img.pricecomparator.pro/${data}`;
+    let res = data;
 
     fs.writeFile('src/assets/output/image-links.txt', res, (err) => {
         if (err) throw err;
