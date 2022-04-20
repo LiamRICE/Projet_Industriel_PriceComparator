@@ -1,6 +1,11 @@
 const axios = require('axios');
 const fs = require('fs');
 
+/**
+ * This function takes in image data, uploads it to the PriceComparator server and returns the solution in the resolve of a promise.
+ * @param {image_data} image_data - a json object containing the company_name and image_url.
+ * @returns a promise that resolves the new link to the object or rejects as an error.
+ */
 async function get_image(image_data){
     return new Promise((resolve, reject) => {
         get_unique_ID((id) => {
@@ -26,6 +31,10 @@ async function get_image(image_data){
     });
 }
 
+/**
+ * This function returns a unique ID for the PriceComparator image server.
+ * @param {callback} callback - a unique number as an ID.
+ */
 function get_unique_ID(callback){
     fs.readFile('./src/assets/data/state.txt', (err, read) => {
         console.log("Read = "+read);
@@ -38,6 +47,11 @@ function get_unique_ID(callback){
     });
 }
 
+/**
+ * This function formats the data that comes out of the parser and modifies it to be usable to upload all the images.
+ * @param {data} data - the output data of the image parser, a json object containing the origin company, the array of images, the array of tags and the unsubscription tag.
+ * @param {callback} callback - a callback that provides as input an array of json objects containing the company name and image url.
+ */
 function to_data(data, callback){
     let ret = [];
     let done = [];

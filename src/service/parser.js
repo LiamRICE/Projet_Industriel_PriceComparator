@@ -8,6 +8,11 @@ const dictionary = [
     "desabon",
 ]
 
+/**
+ * This function reads a newsletter html file and provides the contents as a string as an input to the callback function.
+ * @param {filename} filename - the path to the file to read.
+ * @param {callback} callback - the callback function executed and is provided the file's contents as input.
+ */
 function read_newsletter(filename, callback){
     fs.readFile(filename, (err, data) => {
         if (err) throw err;
@@ -15,6 +20,11 @@ function read_newsletter(filename, callback){
     });
 }
 
+/**
+ * This function isolates all of the image tags in a newsletter and returns them in an array.
+ * @param {data} data - a string containing the html of a newsletter.
+ * @param {callback} callback - the callback function executed at the end and is provided an array of strings containing each an image tag as input.
+ */
 function find_images(data, callback){
     let split_data = data.split("<img");
     let lines = [];
@@ -29,6 +39,11 @@ function find_images(data, callback){
     callback(images);
 }
 
+/**
+ * This function isolates the source of an image and returns it.
+ * @param {data} data - a string of the image tag.
+ * @returns source - a string containing the source of the image.
+ */
 function get_image_source(data){
     let p0_src = "";
     if(data.includes("src =")){
@@ -42,6 +57,11 @@ function get_image_source(data){
     return source;
 }
 
+/**
+ * This function takes an array of image tags and returns an array of json objects containing the image tags and their sources.
+ * @param {images} images - an array of image tags as strings.
+ * @param {callback} callback - a callback function with an array of image objects (containing the image tag and source) as an input.
+ */
 function get_image_list_sources(images, callback){
     let sources = [];
     for(image in images){
@@ -53,6 +73,11 @@ function get_image_list_sources(images, callback){
     callback(sources);
 }
 
+/**
+ * This function takes an a link tag and removes a tag within that link tag (ex : <a><img></img></a> => <a></a>).
+ * @param {tag} tag - the link tag to be cleared.
+ * @returns tag - the modified link tag.
+ */
 function clear_subtag(tag){
     if(tag[0] == '<'){
         split = tag.split("<");
@@ -87,6 +112,11 @@ function clear_subtag(tag){
     }
 }
 
+/**
+ * This function takes a link tag and removes all subtags.
+ * @param {tag} tag - a link tag to be cleared.
+ * @returns tag - the cleared link tag.
+ */
 function clean_link_tag(tag){
     a = tag.split("<a")[1];
     na = a.split(">");
@@ -107,6 +137,11 @@ function clean_link_tag(tag){
     return tagNotA;
 }
 
+/**
+ * This function isolates all of the link tags in a newsletter.
+ * @param {data} data - the newsletter's html code as a string.
+ * @param {callback} callback - the callback function that provides an array of strings containing the link tags as input.
+ */
 function get_link_tags(data, callback){
     isolating = data.split('<a');
     links = [];
@@ -118,6 +153,11 @@ function get_link_tags(data, callback){
     callback(links);
 }
 
+/**
+ * This function isolates the names for an array of link tags.
+ * @param {data} data - an array of link tags as strings
+ * @param {callback} callback - a callback with an array of json objects detailing each link tag (name and link) as an input.
+ */
 function get_link_names(data, callback){
     tags = [];
     for(link in data){
@@ -132,6 +172,11 @@ function get_link_names(data, callback){
     callback(tags);
 }
 
+/**
+ * This function gets the source of each link for an array of link tags.
+ * @param {data} data - an array of link tags as strings.
+ * @param {callback} callback - a callback that provides an array of json objects detailing each link (link and tag) as an input.
+ */
 function get_link_details(data, callback){
     tags = [];
     for(d in data){
@@ -146,6 +191,11 @@ function get_link_details(data, callback){
     callback(tags);
 }
 
+/**
+ * This function isolates the source of a link tag.
+ * @param {data} data - a link tag as a string.
+ * @returns name - the name of the link tag (empty string if that name is an image for instance).
+ */
 function get_link_source(data){
     let p0_src = "";
     if(data.includes("href =")){
@@ -170,6 +220,11 @@ function get_link_source(data){
     }
 }
 
+/**
+ * This function isolates the link tag from a newsletter.
+ * @param {data} data - a string representation of the newsletter's html code.
+ * @param {callback} callback - a callback function which provides the unsubscribe tag as a json object (name, link) as input.
+ */
 function get_unsubscribe_tag(data, callback){
     get_link_tags(data, (links) => {
         get_link_names(links, (tags) => {
@@ -201,6 +256,11 @@ function get_unsubscribe_tag(data, callback){
     });
 }
 
+/**
+ * This function is an alternative way to getting the unsubscribe tag.
+ * @param {data} data - the newsletter's html code as a string.
+ * @returns link - the unsubscribe link tag and the number of other possibilites found, or null.
+ */
 function alt_get_unsubscribe_link(data){
     let lines = data.split("\n");
     let selected_lines = [];
@@ -240,6 +300,11 @@ function alt_get_unsubscribe_link(data){
     }
 }
 
+/**
+ * This function isolates all the key information from a newsletter.
+ * @param {src} src - the path to the file to read that contains the newsletter html code.
+ * @param {callback} callback - a callback that is called and provides a json object as input containing the origin company, the array of images, the array of tags and the unsubscription tag.
+ */
 function parse_newsletter(src, callback){
     let image_sources;
     let unsubscribe_tag;
