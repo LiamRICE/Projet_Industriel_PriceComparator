@@ -1,0 +1,43 @@
+{
+ "origin": "Humble Bundle89",
+ "images": [
+  {
+   "image": "<img src=\"https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6\" alt=\"follow us on Twitter\" />",
+   "source": "https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6"
+  },
+  {
+   "image": "<img src=\"https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94\" alt=\"follow us on Facebook\" />",
+   "source": "https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94"
+  },
+  {
+   "image": "<img src=\"https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66\" alt=\"follow us on Steam Communities\" />",
+   "source": "https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66"
+  },
+  {
+   "image": "<img src=\"https://humble-dev.imgix.net/images/email/bindle-red-v2.png?auto=compress,format&s=9e671e5717da70dccc7028deecb43cbd\" alt=\"\" style=\"display:inline-block;height:2em;width:2em;vertical-align:top;\" />",
+   "source": "https://humble-dev.imgix.net/images/email/bindle-red-v2.png?auto=compress,format&s=9e671e5717da70dccc7028deecb43cbd"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://www.twitter.com/humble",
+   "tag": "<a href=\"https://www.twitter.com/humble\"><img src=\"https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6\" alt=\"follow us on Twitter\" /></a>"
+  },
+  {
+   "link": "https://www.facebook.com/humblebundle",
+   "tag": "<a href=\"https://www.facebook.com/humblebundle\"><img src=\"https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94\" alt=\"follow us on Facebook\" /></a>"
+  },
+  {
+   "link": "http://steamcommunity.com/groups/HumbleBundleOfficial",
+   "tag": "<a href=\"http://steamcommunity.com/groups/HumbleBundleOfficial\"><img src=\"https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66\" alt=\"follow us on Steam Communities\" /></a>"
+  },
+  {
+   "link": "https://www.humblebundle.com/user/associate?key=6838d32b1f484857a93b09881cd6771d5ea4f6dc226ec6a8eb6f2fc44d7d4943&amp;goto=%2Fmembership%3Frefc%3DFJ4sVT",
+   "tag": "<a href=\"https://www.humblebundle.com/user/associate?key=6838d32b1f484857a93b09881cd6771d5ea4f6dc226ec6a8eb6f2fc44d7d4943&amp;goto=%2Fmembership%3Frefc%3DFJ4sVT\">https://www.humblebundle.com/user/associate?key=6838d32b1f484857a93b09881cd6771d5ea4f6dc226ec6a8eb6f2fc44d7d4943&amp;goto=/membership%3Frefc%3DFJ4sVT</a>"
+  },
+  {
+   "link": "https://support.humblebundle.com",
+   "tag": "<a style=\"color: #a1a7b3;\" href=\"https://support.humblebundle.com\">Questions? Contact Humble Bundle support.</a>"
+  }
+ ]
+}

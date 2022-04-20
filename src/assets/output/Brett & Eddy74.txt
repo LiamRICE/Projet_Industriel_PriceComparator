@@ -1,0 +1,31 @@
+{
+ "origin": "Brett & Eddy74",
+ "images": [
+  {
+   "image": "<img src=\"https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png\" border=\"0\" alt=\"Email Marketing Powered by Mailchimp\" title=\"Mailchimp Email Marketing\" width=\"139\" height=\"54\" style=\"max-width: 100%; height: auto;\">",
+   "source": "https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png"
+  },
+  {
+   "image": "<img src=\"https://us11.mailchimp.com/mctx/opens?xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription\" height=\"1\" width=\"1\" alt=\"\">",
+   "source": "https://us11.mailchimp.com/mctx/opens?xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://us11.mailchimp.com/mctx/clicks?url=https%3A%2F%2Ftwosetviolin.us11.list-manage.com%2Fsubscribe%2Fconfirm%3Fu%3D2fe56a64baf2ece846d168e73%26id%3D04ad5234a9%26e%3Dc1bdfed5a5&h=a67e1d4e850b7eed5aff48cc84bed292ce1a515d2f7af5c0f0842dda34d7b851&v=1&xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription",
+   "tag": "<a class=\"formEmailButton\" href=\"https://us11.mailchimp.com/mctx/clicks?url=https%3A%2F%2Ftwosetviolin.us11.list-manage.com%2Fsubscribe%2Fconfirm%3Fu%3D2fe56a64baf2ece846d168e73%26id%3D04ad5234a9%26e%3Dc1bdfed5a5&h=a67e1d4e850b7eed5aff48cc84bed292ce1a515d2f7af5c0f0842dda34d7b851&v=1&xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription\" style=\"color: #ffffff !important;display: inline-block;font-weight: 500;font-size: 16px;line-height: 42px;font-family: 'Helvetica', Arial, sans-serif;width: auto;white-space: nowrap;height: 42px;margin: 12px 5px 12px 0;padding: 0 22px;text-decoration: none;text-align: center;cursor: pointer;border: 0;border-radius: 3px;vertical-align: top;background-color: #5d5d5d !important;\"><span style=\"display: inline;font-family: 'Helvetica', Arial, sans-serif;text-decoration: none;font-weight: 500;font-style: normal;font-size: 16px;line-height: 42px;cursor: pointer;border: none;background-color: #5d5d5d !important;color: #ffffff !important;\">Yes, subscribe me to this list.</span></a>"
+  },
+  {
+   "link": "mailto:support@twosetviolin.com",
+   "tag": "<a href=\"mailto:support@twosetviolin.com\" style=\"color: #336699;\">support@twosetviolin.com</a>"
+  },
+  {
+   "link": "https://us11.mailchimp.com/mctx/clicks?url=http%3A%2F%2Fwww.mailchimp.com%2Femail-referral%2F%3Futm_source%3Dfreemium_newsletter%26utm_medium%3Demail%26utm_campaign%3Dreferral_marketing%26aid%3D2fe56a64baf2ece846d168e73%26afl%3D1&h=297a69d4d1c8eab7552ed56140440385c56cc2e6575438cd82f58b80b41e6996&v=1&xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription",
+   "tag": "<a href=\"https://us11.mailchimp.com/mctx/clicks?url=http%3A%2F%2Fwww.mailchimp.com%2Femail-referral%2F%3Futm_source%3Dfreemium_newsletter%26utm_medium%3Demail%26utm_campaign%3Dreferral_marketing%26aid%3D2fe56a64baf2ece846d168e73%26afl%3D1&h=297a69d4d1c8eab7552ed56140440385c56cc2e6575438cd82f58b80b41e6996&v=1&xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription\" style=\"color: #336699;\"><img src=\"https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png\" border=\"0\" alt=\"Email Marketing Powered by Mailchimp\" title=\"Mailchimp Email Marketing\" width=\"139\" height=\"54\" style=\"max-width: 100%; height: auto;\"></a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "Yes, subscribe me to this list.",
+  "link": "<a class=\"formEmailButton\" href=\"https://us11.mailchimp.com/mctx/clicks?url=https%3A%2F%2Ftwosetviolin.us11.list-manage.com%2Fsubscribe%2Fconfirm%3Fu%3D2fe56a64baf2ece846d168e73%26id%3D04ad5234a9%26e%3Dc1bdfed5a5&h=a67e1d4e850b7eed5aff48cc84bed292ce1a515d2f7af5c0f0842dda34d7b851&v=1&xid=30fe9c3fdc&uid=47239893&pool=contact_facing&subject=Join+Us+-+Brett+and+Eddy%3A+Please+Confirm+Subscription\" style=\"color: #ffffff !important;display: inline-block;font-weight: 500;font-size: 16px;line-height: 42px;font-family: 'Helvetica', Arial, sans-serif;width: auto;white-space: nowrap;height: 42px;margin: 12px 5px 12px 0;padding: 0 22px;text-decoration: none;text-align: center;cursor: pointer;border: 0;border-radius: 3px;vertical-align: top;background-color: #5d5d5d !important;\"><span style=\"display: inline;font-family: 'Helvetica', Arial, sans-serif;text-decoration: none;font-weight: 500;font-style: normal;font-size: 16px;line-height: 42px;cursor: pointer;border: none;background-color: #5d5d5d !important;color: #ffffff !important;\">Yes, subscribe me to this list.</span></a>"
+ }
+}

@@ -1,0 +1,371 @@
+{
+ "origin": "Carrefour.fr28",
+ "images": [
+  {
+   "image": "<img height=\"1\"  src=\"https://er.cloud-media.fr/rm/fcfb589b-3264-4e38-962f-796d0414b49b\" style=\"display: none;\" width=\"1\" />",
+   "source": "https://er.cloud-media.fr/rm/fcfb589b-3264-4e38-962f-796d0414b49b"
+  },
+  {
+   "image": "<img height=\"1\"  src=\"https://pixel.app.returnpath.net/pixel.gif?r=8ed91361ea931d8a5b61ccc15f0548e361475dfd&c=6011276\" width=\"1\" />",
+   "source": "https://pixel.app.returnpath.net/pixel.gif?r=8ed91361ea931d8a5b61ccc15f0548e361475dfd&c=6011276"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"192\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/2.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/2.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/3.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/3.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"196\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"197\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png"
+  },
+  {
+   "image": "<img alt=\"Comment utiliser votre code promo\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/5.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/5.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/6.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/6.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/7.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/7.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/8.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/8.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/9.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/9.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/10.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"33\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/10.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/11.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/11.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/12.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/12.gif"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://event.reelevant.com/i/600998cb8fb9f4001386c297?~ru~=2a4233ac4f74463d4ad44f55c1b5c76fbe400bd5&~rm~=BA_BOOSTER&code=\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://event.reelevant.com/i/600998cb8fb9f4001386c297?~ru~=2a4233ac4f74463d4ad44f55c1b5c76fbe400bd5&~rm~=BA_BOOSTER&code="
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/13.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/13.gif"
+  },
+  {
+   "image": "<img   src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/11/20211119_FOOTER/1.png\" alt=\"\" width=\"640\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" class=\"t_w100p m_w100p\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/11/20211119_FOOTER/1.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/15.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/15.jpg"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/16.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/16.gif"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/17.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/17.jpg"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/18.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/18.jpg"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/19.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/19.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/20.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/20.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/21.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/21.png"
+  },
+  {
+   "image": "<img alt=\"WhatsApp Carrefour France\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/22.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/22.png"
+  },
+  {
+   "image": "<img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"182\" />",
+   "source": "https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://links.email1.carrefour.fr/servlet/MailView?ms=MTg2ODI1NjAS1&r=OTMyNjIzMjUxNjExS0&j=MTk3NDYwMTgwNwS2&mt=1&rt=0",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/servlet/MailView?ms=MTg2ODI1NjAS1&r=OTMyNjIzMjUxNjExS0&j=MTk3NDYwMTgwNwS2&mt=1&rt=0\" name=\"Page_Miroir\" style=\"text-decoration: underline; font-family:Roboto, Arial; font-size:11px; color:#8f8f8f;\" target=\"_blank\" xt=\"SPCLICKTOVIEW\">Consultez la version en ligne</a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/w_vdcVy9YrTGy/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/w_vdcVy9YrTGy/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_PH\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Carrefour\" width=\"192\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"192\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/dmxps0~DGPcX/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/dmxps0~DGPcX/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_KV\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/2.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTvG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh24px m_lh18px\" href=\"https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTvG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Edito\" style=\"color:#0e3368;line-height:30px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Bonjour Bentham, </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTvG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"m_lh16px\" href=\"https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTvG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Edito\" style=\"color:#0e3368;line-height:24px;display:block;text-decoration:none;outline:0\" target=\"_blank\" ><span style=\"font-weight:700\">Faites vos courses en ligne</span> avec le Drive ou la Livraison à Domicile et profitez de <span style=\"font-weight:700\">10&euro; maintenant</span> puis de <span style=\"font-weight:700\">40&euro; sur vos 4 prochaines commandes</span>. </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTqG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_fwbold t_fsnormal t_w100p t_bxzborderminbox m_fwbold m_fsnormal m_w100p m_bxzborderminbox\" href=\"https://links.email1.carrefour.fr/els/v2/L6xah9yEwgTqG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_CTA\" style=\"background-color:#0970E6;border-radius:50px;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;height:50px;text-align:center;text-transform:uppercase;line-height:50px;font-weight:700;mso-hide:all;display:inline-block;-webkit-text-size-adjust:none;text-decoration:none;width:200px\" target=\"_blank\" >Je découvre </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/3.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh16px m_lh14px\" href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#0e3368;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Offre réservée aux nouveaux clients <span style=\"font-weight:700\">carrefour.fr</span>.<br />\r\n\t\t\t\t\t\t\t\t\tUniquement avec votre adresse : <span style=\"font-weight:700\">bentham.magnler@gmail.com</span></a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/yAWvSReXYwSzR/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/yAWvSReXYwSzR/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA_1\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" title=\"Carrefour\" width=\"196\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"196\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#095BA5;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Valable jusqu&lsquo;au 05/05/2022 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;display:block;text-decoration:none;outline:0\" target=\"_blank\" >10&euro; </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;display:block;text-decoration:none;outline:0\" target=\"_blank\" >offerts<sup>*</sup> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ea9f1f;line-height:22px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >sur votre première commande </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >dès 60&euro; d&#39;achat<br />\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tavec le code : </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;line-height:22px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >WELCOME2 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"40\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/VXZ7JdN_zrCwW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/VXZ7JdN_zrCwW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA_2\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" title=\"Carrefour\" width=\"197\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"197\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;display:block;text-decoration:none;outline:0\" target=\"_blank\" >40&euro; </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;display:block;text-decoration:none;outline:0\" target=\"_blank\" >offerts<sup>**</sup> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#e89e2d;line-height:22px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >sur vos 4 prochaines commandes </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#ffffff;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Offre envoyée par courriel<br />\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tle lendemain du passage de votre première commande sur <span style=\"text-decoration:underline\">carrefour.fr</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcd/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_BA\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"40\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/4.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Comment utilisez votre code promo\" width=\"640\" ><img alt=\"Comment utiliser votre code promo\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/5.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/6LAjSLD0yVcRv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_fwbold t_fsnormal t_w100p t_bxzborderminbox m_fz16px m_fwbold m_fsnormal m_w100p m_bxzborderminbox\" href=\"https://links.email1.carrefour.fr/els/v2/6LAjSLD0yVcRv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_1\" style=\"background-color:#095ba5;border-radius:30px;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:18px;height:30px;text-align:center;line-height:30px;font-weight:700;mso-hide:all;display:inline-block;-webkit-text-size-adjust:none;text-decoration:none;width:30px\" target=\"_blank\" title=\"1\" >1 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/X64DhXEvY9cVN/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/X64DhXEvY9cVN/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_2\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Drive\" width=\"72\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/6.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/G8v4J3dYWwf8V/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh16px m_lh17px\" href=\"https://links.email1.carrefour.fr/els/v2/G8v4J3dYWwf8V/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_3\" style=\"color:#0E3368;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Je choisis de faire mes courses en <span style=\"font-weight:700\">Drive</span> ou en <span style=\"font-weight:700\">livraison à domicile</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/RZG3hVr_NgTKK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_fwbold t_fsnormal t_w100p t_bxzborderminbox m_fz16px m_fwbold m_fsnormal m_w100p m_bxzborderminbox\" href=\"https://links.email1.carrefour.fr/els/v2/RZG3hVr_NgTKK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_4\" style=\"background-color:#095ba5;border-radius:30px;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:18px;height:30px;text-align:center;line-height:30px;font-weight:700;mso-hide:all;display:inline-block;-webkit-text-size-adjust:none;text-decoration:none;width:30px\" target=\"_blank\" title=\"2\" >2 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/eb9-JVDpYjT7Y/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/eb9-JVDpYjT7Y/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_5\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"72\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/7.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/~N38SgzKe0fkG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh16px m_lh17px\" href=\"https://links.email1.carrefour.fr/els/v2/~N38SgzKe0fkG/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_6\" style=\"color:#0E3368;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Je sélectionne mes produits parmi <span style=\"font-weight:700\">15 000 références</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/j9GbS-ymvAfZ2/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_fwbold t_fsnormal t_w100p t_bxzborderminbox m_fz16px m_fwbold m_fsnormal m_w100p m_bxzborderminbox\" href=\"https://links.email1.carrefour.fr/els/v2/j9GbS-ymvAfZ2/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_7\" style=\"background-color:#095ba5;border-radius:30px;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:18px;height:30px;text-align:center;line-height:30px;font-weight:700;mso-hide:all;display:inline-block;-webkit-text-size-adjust:none;text-decoration:none;width:30px\" target=\"_blank\" title=\"3\" >3 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/PwR3JpPWazFk8/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/PwR3JpPWazFk8/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_8\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"72\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/8.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/amW9sKbwXPMV0/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh16px m_lh17px\" href=\"https://links.email1.carrefour.fr/els/v2/amW9sKbwXPMV0/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_9\" style=\"color:#0E3368;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Je sélectionne <span style=\"font-weight:700\"> le créneau </span> pour récupérer mes courses </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/w_vdcVy9YrTNy/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_fwbold t_fsnormal t_w100p t_bxzborderminbox m_fz16px m_fwbold m_fsnormal m_w100p m_bxzborderminbox\" href=\"https://links.email1.carrefour.fr/els/v2/w_vdcVy9YrTNy/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_10\" style=\"background-color:#095ba5;border-radius:30px;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:18px;height:30px;text-align:center;line-height:30px;font-weight:700;mso-hide:all;display:inline-block;-webkit-text-size-adjust:none;text-decoration:none;width:30px\" target=\"_blank\" title=\"4\" >4 </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/z9KdS6kNG3cDY/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/z9KdS6kNG3cDY/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_11\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"72\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/9.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"72\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/ZzgdJNAXx0ceK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_lh16px m_lh17px\" href=\"https://links.email1.carrefour.fr/els/v2/ZzgdJNAXx0ceK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu_12\" style=\"color:#0E3368;line-height:18px;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Je saisis <span style=\"font-weight:700\"> mon code promo</span> puis je valide mon paiement </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu\" style=\"color:#ffffff;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Je commande </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/gr2dSwyqWEfyW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Contenu\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"33\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/10.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"33\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7ckr/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7ckr/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Bloc_BonnesRaisons\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/11.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7ckr/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7ckr/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Bloc_BonnesRaisons\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/12.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/EZE8hG26gyfLz/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/ZUtSZUl4aGVkQ0lta2NlZEFqaVBHR0NMSGtUcW5XNThBNlhibGdLSUE2R3hGaERkbUZDcllleHhESUh1a1c4NTkzcEtyR3VJT2djVWwyWXdibEMwY3Y0cy9aQm1zekFXV3I4UVJ5L1B0ZGRqNUZ5RThISFVGUT09S0",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/EZE8hG26gyfLz/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/ZUtSZUl4aGVkQ0lta2NlZEFqaVBHR0NMSGtUcW5XNThBNlhibGdLSUE2R3hGaERkbUZDcllleHhESUh1a1c4NTkzcEtyR3VJT2djVWwyWXdibEMwY3Y0cy9aQm1zekFXV3I4UVJ5L1B0ZGRqNUZ5RThISFVGUT09S0\" name=\"Emailing_NINA_2_Reelevant\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://event.reelevant.com/i/600998cb8fb9f4001386c297?~ru~=2a4233ac4f74463d4ad44f55c1b5c76fbe400bd5&~rm~=BA_BOOSTER&code=\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/6LAjSLD0yVckv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/NHpHRFByNmxFcjRBWUhHL0U1akRTOWpYdHQwbktPeGJRVkQxQkdEdmF5ZFdDZEVlMlhWZXc4bFRqWW5pWm02R2lEQmlGWDhiTU1RL3BHK1cwUFduUEE9PQS2",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/6LAjSLD0yVckv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/NHpHRFByNmxFcjRBWUhHL0U1akRTOWpYdHQwbktPeGJRVkQxQkdEdmF5ZFdDZEVlMlhWZXc4bFRqWW5pWm02R2lEQmlGWDhiTU1RL3BHK1cwUFduUEE9PQS2\" name=\"Emailing_NINA_2_Usabilla\" style=\"color:#232323;display:block;text-decoration:none;outline:0\" target=\"_blank\" >Que pensez-vous de cette Newsletter ? </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/k_63cmyKPbc-/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/NHpHRFByNmxFcjRBWUhHL0U1akRTOWpYdHQwbktPeGJRVkQxQkdEdmF5ZFdDZEVlMlhWZXc4bFRqWW5pWm02R2lEQmlGWDhiTU1RL3BHK1cwUFduUEE9PQS2",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/k_63cmyKPbc-/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/NHpHRFByNmxFcjRBWUhHL0U1akRTOWpYdHQwbktPeGJRVkQxQkdEdmF5ZFdDZEVlMlhWZXc4bFRqWW5pWm02R2lEQmlGWDhiTU1RL3BHK1cwUFduUEE9PQS2\" name=\"survey_usabilla_com_live_s_604f7f2e_2\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" width=\"640\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/13.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"640\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/x_mdc2yEZGcW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/x_mdc2yEZGcW/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" width=\"640\" style=\"color:#000000;outline:none;border:none;margin:auto;display:block\" class=\"t_w100p m_w100p\" target=\"_blank\"  name=\"www_carrefour_fr_edito_recompenses\">\r\n                                                        <img   src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/11/20211119_FOOTER/1.png\" alt=\"\" width=\"640\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" class=\"t_w100p m_w100p\" />\r\n                                                    </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Tous les catalogues\" width=\"130\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/15.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer\" style=\"color:#095ba5;display:block;text-decoration:none;outline:0\" target=\"_blank\" title=\"Tous les catalogues\" ><span style=\"text-decoration:underline\">Mes catalogues</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/7RjPSwLxjVfWk/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/7RjPSwLxjVfWk/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"carrefour_eds_e_catalogues_pro_\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Envie de saison\" width=\"130\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/16.gif\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/7RjPSwLxjVf-D/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/7RjPSwLxjVf-D/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_1\" style=\"color:#095ba5;display:block;text-decoration:none;outline:0\" target=\"_blank\" title=\"Envie de saison\" ><span style=\"text-decoration:underline\">Envie de saison</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/PwR3JpPWazF73/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/PwR3JpPWazF73/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"traiteur_carrefour_fr_\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Traiteur\" width=\"130\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/17.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/VXZ7JdN_zrCwb/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/VXZ7JdN_zrCwb/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_2\" style=\"color:#095ba5;display:block;text-decoration:none;outline:0\" target=\"_blank\" title=\"Traiteur\" ><span style=\"text-decoration:underline\">Traiteur</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/ApL-JmDLabc3p/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/ApL-JmDLabc3p/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_3\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"L'application Carrefour\" width=\"130\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/18.jpg\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"130\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMrw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/-LAZSqpb7WMrw/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_4\" style=\"color:#095ba5;display:block;text-decoration:none;outline:0\" target=\"_blank\" title=\"L'application Carrefour\" ><span style=\"text-decoration:underline\">L&#39;application</span> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7c9r/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Ky8ATLaZv7c9r/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_5\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Facebook Carrefour France\" width=\"40\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/19.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcdZ/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/Wa0YCaZ9qrcdZ/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_6\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Twitter Carrefour France\" width=\"40\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/20.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/x_mdc2yEZGc4p/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/x_mdc2yEZGc4p/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_7\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Instagram Carrefour France\" width=\"40\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/21.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/8wePJ~DrkEfY3/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/8wePJ~DrkEfY3/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_8\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"WhatsApp Carrefour France\" width=\"40\" ><img alt=\"WhatsApp Carrefour France\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/22.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"40\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/3ZA7hNz6PKcN9/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a class=\"t_w100p m_w100p\" href=\"https://links.email1.carrefour.fr/els/v2/3ZA7hNz6PKcN9/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_9\" style=\"color:#000000;outline:0;border:none;margin:auto;display:block\" target=\"_blank\" title=\"Carrefour\" width=\"182\" ><img alt=\"\" class=\"t_w100p m_w100p\"  src=\"https://static.carrefour.fr/static/cfr/e-mailings/2021/ecal/07/20210712_RECHARTAGE_CDV/NINA/J4/1.png\" style=\"font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;display:block;border:none\" width=\"182\" /> </a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/04AdtqDA-pMaV/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/04AdtqDA-pMaV/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_10\" style=\"text-decoration:underline;color:#1e5bc6;\" target=\"_blank\" >Carrefour.fr</a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/ZzgdJNAXx0cYK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/ZzgdJNAXx0cYK/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_11\" style=\"text-decoration:underline;color:#1e5bc6;\" target=\"_blank\" >le lien suivant</a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/mkzWHRV86-Sj4/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/mkzWHRV86-Sj4/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"mailto_droitsdespersonnes_servicecl\" style=\"text-decoration:underline;color:#1e5bc6;\" >droitsdespersonnes@serviceclients-carrefour.com</a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/DzqdJG34k-faY/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/DzqdJG34k-faY/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/\" name=\"Emailing_NINA_2_Footer_12\" style=\"text-decoration:underline;color:#1e5bc6;\" target=\"_blank\" >notre politique générale de protection des données.</a>"
+  },
+  {
+   "link": "https://links.email1.carrefour.fr/els/v2/yAWvSReXYwSVv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/cDZpU09UNGVFbGZUMHNMcUIzN2YvRDZ5MXE1eEs1bVdJaU9QcHliYmNMQ1owcVM2c0t3eE1waC9EVDduVXJFVXc5SzdzOVVNSXV3YkRRelVqK1NaU21MdWloWGg1WXJIT2l6NGM4RVFiNHNHb0tpY0NNM1YvRld2RERLemFyd1Q3N3dMNE5nNUZvY1l5RlhBVU9GN3NvMkRDNXVYaG54Y3VZbWpOYjIzdDRrWTJOTFlDN3V4b2VhRTlxRFdLTCtxenpuSG51MmpXVGc9S0",
+   "tag": "<a href=\"https://links.email1.carrefour.fr/els/v2/yAWvSReXYwSVv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/cDZpU09UNGVFbGZUMHNMcUIzN2YvRDZ5MXE1eEs1bVdJaU9QcHliYmNMQ1owcVM2c0t3eE1waC9EVDduVXJFVXc5SzdzOVVNSXV3YkRRelVqK1NaU21MdWloWGg1WXJIT2l6NGM4RVFiNHNHb0tpY0NNM1YvRld2RERLemFyd1Q3N3dMNE5nNUZvY1l5RlhBVU9GN3NvMkRDNXVYaG54Y3VZbWpOYjIzdDRrWTJOTFlDN3V4b2VhRTlxRFdLTCtxenpuSG51MmpXVGc9S0\" name=\"Emailing_NINA_2_Footer_13\" style=\"color:#575757;text-decoration:underline\" >suivez ce lien</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "suivez ce lien",
+  "link": "<a href=\"https://links.email1.carrefour.fr/els/v2/yAWvSReXYwSVv/VWltSVNleDBoMy94cDdvQmJWQ3Q2dVcwT2xNTjZQemF1UmxrZWxURkswV29UQlhmSENNc3hGNlg3T0hPUTJuNzU4ZDNRaTVIWENEalJUUnVtaW1UUVVlRGNjSUJGaGt6VDFRa0tFaFg0V2M9S0/cDZpU09UNGVFbGZUMHNMcUIzN2YvRDZ5MXE1eEs1bVdJaU9QcHliYmNMQ1owcVM2c0t3eE1waC9EVDduVXJFVXc5SzdzOVVNSXV3YkRRelVqK1NaU21MdWloWGg1WXJIT2l6NGM4RVFiNHNHb0tpY0NNM1YvRld2RERLemFyd1Q3N3dMNE5nNUZvY1l5RlhBVU9GN3NvMkRDNXVYaG54Y3VZbWpOYjIzdDRrWTJOTFlDN3V4b2VhRTlxRFdLTCtxenpuSG51MmpXVGc9S0\" name=\"Emailing_NINA_2_Footer_13\" style=\"color:#575757;text-decoration:underline\" >suivez ce lien</a>"
+ }
+}

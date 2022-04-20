@@ -1,0 +1,93 @@
+{
+ "origin": "Adobe Acrobat25",
+ "images": [
+  {
+   "image": "<img alt=\"\" src=\"https://landing.adobe.com/dam/global/images/acrobat-pro-dc.mnemonic.480x468.png\" width=\"30\" height=\"auto\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tborder=\"0\" hspace=\"0\" vspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" />",
+   "source": "https://landing.adobe.com/dam/global/images/acrobat-pro-dc.mnemonic.480x468.png"
+  },
+  {
+   "image": "<img alt=\"Adobe Acrobat Reader DC\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=520,60&wid=420&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3B000000%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Acrobat%20Reader%20DC&effect=-1&op_grow=1&color=255,255,255\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"260\" height=\"30\" border=\"0\" hspace=\"0\" vspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"color:#000000; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; display:block; vertical-align:top;\" />",
+   "source": "http://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=520,60&wid=420&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3B000000%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Acrobat%20Reader%20DC&effect=-1&op_grow=1&color=255,255,255"
+  },
+  {
+   "image": "<img class=\"mobile-image\" alt=\"Affranchissez-vous du papier. Partagez des formulaires sécurisés en toute sérénité.\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.1200x1200-277-288.jpg\"\r\n\t\t\t\t\t\t\t\t\t\t\t\tsrcset=\"https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.800x800-277-288.jpg 621w,\r\n        https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.1200x1200-277-288.jpg 1200w\" sizes=\"(max-width: 480px) 50vw\" width=\"600\"\r\n\t\t\t\t\t\t\t\t\t\t\t\theight=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"color:#000000; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:22px; line-height:28px; display:block; vertical-align:top;\" />",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.1200x1200-277-288.jpg"
+  },
+  {
+   "image": "<img alt=\"Adobe\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"30\" height=\"auto\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"color:#FF3C00; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:12px; line-height:18px; display:block; vertical-align:top;\" />",
+   "source": "http://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png"
+  },
+  {
+   "image": "<img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"Facebook\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/facebook.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"9\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" />",
+   "source": "http://landing.adobe.com/dam/global/images/social/facebook.959595.png"
+  },
+  {
+   "image": "<img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"LinkedIn\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/linkedin.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"17\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" />",
+   "source": "http://landing.adobe.com/dam/global/images/social/linkedin.959595.png"
+  },
+  {
+   "image": "<img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"Twitter\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/twitter.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"21\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" />",
+   "source": "http://landing.adobe.com/dam/global/images/social/twitter.959595.png"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://t-trg.email.adobe.com/r/?id=hc21d638,8ef51b70,1'/>"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://adobe.demdex.net/event?c_syncplacement=email&d_cid=813%01ED9E1D58623CBB6D0A495FED'/>"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e3f&p1=4F569K4D&s=AWFxzpYUYqSOPffRUawdsGf2sZ3albnO5MEsyF0E4Is",
+   "tag": "<a class=\"button\" href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e3f&p1=4F569K4D&s=AWFxzpYUYqSOPffRUawdsGf2sZ3albnO5MEsyF0E4Is\" target=\"_blank\" style=\"background-color:#1473E6;border-radius:20px;color:#ffffff;display:inline-block;font-size:16px;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;\"><strong>Découvrir</strong>\r\n\t\t\t\t\t\t\t\t\t\t\t</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e40&p1=4F569K4D&s=ZT-b3Ne80EZSyFEYPochkoXpaCBu6x58oXs761X9Sk4",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e40&p1=4F569K4D&s=ZT-b3Ne80EZSyFEYPochkoXpaCBu6x58oXs761X9Sk4\" target=\"_blank\" style=\"color:#1473E6;\"><img class=\"mobile-image\" alt=\"Affranchissez-vous du papier. Partagez des formulaires sécurisés en toute sérénité.\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.1200x1200-277-288.jpg\"\r\n\t\t\t\t\t\t\t\t\t\t\t\tsrcset=\"https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.800x800-277-288.jpg 621w,\r\n        https://landing.adobe.com/content/dam/landing/uploads/2020/na/dc/0067430-36e.acrobat-reader-dtop-onboarding-series-emails.eml2.1200x1200-277-288.jpg 1200w\" sizes=\"(max-width: 480px) 50vw\" width=\"600\"\r\n\t\t\t\t\t\t\t\t\t\t\t\theight=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"color:#000000; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:22px; line-height:28px; display:block; vertical-align:top;\" />\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t</table>\r\n\t\t\t\t\t\t\t<!-- END pod2 marquee -->\r\n\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td bgcolor=\"#ffffff\" style=\"background-color:#ffffff; padding-bottom:60px;\">\r\n\r\n\r\n\t\t\t\t\t\t\t<!-- pod2 -->\r\n\t\t\t\t\t\t\t<table class=\"email-width\" align=\"center\" width=\"500\" border=\"0\" cellpadding=\"0\"\r\n\t\t\t\t\t\t\t\tcellspacing=\"0\" role=\"presentation\" style=\"width:500px;\">\r\n\r\n\t\t\t\t\t\t\t\t<!-- spacer 1 -->\r\n\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t<td\r\n\t\t\t\t\t\t\t\t\t\tstyle=\"color:#2C2C2C; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:20px; line-height:20px; padding-top: 40px;\">&nbsp;\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t</tr>\r\n\r\n\t\t\t\t\t\t\t\t\r\n\r\n\r\n\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t<td\r\n\t\t\t\t\t\t\t\t\t\tstyle=\"color:#2C2C2C; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:18px; line-height:26px;  \">\r\n\t\t\t\t\t\t\t\t\t\tAccélérez le </a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e41&p1=4F569K4D&s=jmscxiR8UOKw2Rr6zo7CtcKGw8Mb6PytKHbkqDKrYIw",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e41&p1=4F569K4D&s=jmscxiR8UOKw2Rr6zo7CtcKGw8Mb6PytKHbkqDKrYIw\" target=\"_blank\" style=\"color:#1473E6;font-weight:400;\">remplissage des formulaires</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e42&s=HYJmTOOsKp9lPZq2aAldacasAho5Wt-VS8pCfw0lBOk",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e42&s=HYJmTOOsKp9lPZq2aAldacasAho5Wt-VS8pCfw0lBOk\" alias=\"Facebook\" target=\"_blank\"><img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"Facebook\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/facebook.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"9\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" /></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e43&s=ZFImkG4v_uMTfFklQiYpF9NpseDqjLIe4cT2vQEJl-w",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e43&s=ZFImkG4v_uMTfFklQiYpF9NpseDqjLIe4cT2vQEJl-w\" alias=\"LinkedIn\" target=\"_blank\"><img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"LinkedIn\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/linkedin.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"17\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" /></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e44&s=jUF1A08oadsuHckU5xlfNKeKTHqAVmIP3WkkkU7qCGI",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e44&s=jUF1A08oadsuHckU5xlfNKeKTHqAVmIP3WkkkU7qCGI\" alias=\"Twitter\" target=\"_blank\"><img class=\"social\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talt=\"Twitter\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsrc=\"http://landing.adobe.com/dam/global/images/social/twitter.959595.png\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twidth=\"21\" height=\"17\" border=\"0\" hspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvspace=\"0\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle=\"display:block; vertical-align:top;\" /></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e45&p1=%40WowJg26OIvh4lwK4kaAMWURcq5n8OA8HhupZ0IbJTJk%3D&p2=&loc=fr&p3=25&s=vyoBBlda-65MBHp80mwYABh-HxDER-jkJJCHi2hTM-Q",
+   "tag": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e45&p1=%40WowJg26OIvh4lwK4kaAMWURcq5n8OA8HhupZ0IbJTJk%3D&p2=&loc=fr&p3=25&s=vyoBBlda-65MBHp80mwYABh-HxDER-jkJJCHi2hTM-Q\" target=\"_blank\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">désabonner</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e46&s=iQXWaMqZqvuqz28kAHxL1Et14nMlh-d9LdqgjXmVbKQ",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e46&s=iQXWaMqZqvuqz28kAHxL1Et14nMlh-d9LdqgjXmVbKQ\" alias=\"FOOTER - Privacy\" target=\"_blank\" style=\"color:#a1a1a1;\">Politique de confidentialité d’Adobe</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e47&s=xJEBmNAZ1y1APf5qL68lThZlho-MllgBL3V7mUY-EmU",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e47&s=xJEBmNAZ1y1APf5qL68lThZlho-MllgBL3V7mUY-EmU\" alias=\"FOOTER - Add to address book\" target=\"_blank\" style=\"color:#a1a1a1;\">mail@mail.adobe.com</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e48&s=mlvb5wLLjCsvdI_8ZJRCFN8WzDWjHBWzXLQxMcIbBHY",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e48&s=mlvb5wLLjCsvdI_8ZJRCFN8WzDWjHBWzXLQxMcIbBHY\" alias=\"FOOTER - Contact\" target=\"_blank\" style=\"color:#a1a1a1;\">en ligne</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e49&p1=4F569K4D&s=82WylhZ3--IrFIR51W0zIlP1pKPsD4_7L2F3GUBKQwQ",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e49&p1=4F569K4D&s=82WylhZ3--IrFIR51W0zIlP1pKPsD4_7L2F3GUBKQwQ\" target=\"_blank\" style=\"color: #959595;\">En savoir plus</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e4a&p1=%40MIHD7TcCxxHJ8tQcm0v6lB05aQqDawK7S%2FT1SHrVW2w%3D&s=n37RwjpZVND-Q5IS8J-j3f5cUfx0_NvLbbB_BmGbowk",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e4a&p1=%40MIHD7TcCxxHJ8tQcm0v6lB05aQqDawK7S%2FT1SHrVW2w%3D&s=n37RwjpZVND-Q5IS8J-j3f5cUfx0_NvLbbB_BmGbowk\" _label=\"Mirror Page\" _type=\"mirrorPage\" alias=\"Read Online\" target=\"_blank\" style=\"color: #959595;\">À lire en ligne</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "désabonner",
+  "link": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-trg.email.adobe.com/r/?id=hc21d638%2C8ef51b70%2C84d70e45&p1=%40WowJg26OIvh4lwK4kaAMWURcq5n8OA8HhupZ0IbJTJk%3D&p2=&loc=fr&p3=25&s=vyoBBlda-65MBHp80mwYABh-HxDER-jkJJCHi2hTM-Q\" target=\"_blank\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">désabonner</a>"
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "origin": "La Compagnie Des Animaux52",
+ "images": [
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png\" width=\"304\" border=\"0\" style=\"display:block;\" class=\"image\" alt=\"La Compagnie des Animaux\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png"
+  },
+  {
+   "image": "<img e-editable=\"imageB_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1d.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1d.png"
+  },
+  {
+   "image": "<img e-editable=\"imageB_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2d.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2d.png"
+  },
+  {
+   "image": "<img e-editable=\"imageB_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3d.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3d.png"
+  },
+  {
+   "image": "<img e-editable=\"imageB_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4d.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4d.png"
+  },
+  {
+   "image": "<img e-editable=\"imageB_5\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5d.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5d.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png\" width=\"152\" border=\"0\" style=\"display:block;\" alt=\"La Compagnie des Animaux\" class=\"image\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png"
+  },
+  {
+   "image": "<img src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/navopen.png\" border=\"0\" style=\"display:block;\" class=\"image\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/navopen.png"
+  },
+  {
+   "image": "<img src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/navclose.png\" border=\"0\" style=\"display:block;\" class=\"image\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/navclose.png"
+  },
+  {
+   "image": "<img e-editable=\"imageC_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1m.png\" width=\"20\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1m.png"
+  },
+  {
+   "image": "<img e-editable=\"imageC_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2m.png\" width=\"31\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2m.png"
+  },
+  {
+   "image": "<img e-editable=\"imageC_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3m.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3m.png"
+  },
+  {
+   "image": "<img e-editable=\"imageC_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4m.png\" width=\"40\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4m.png"
+  },
+  {
+   "image": "<img e-editable=\"imageC_5\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5m.png\" width=\"28\" border=\"0\" style=\"display:block;\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5m.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_54297.jpg\" width=\"650\" border=\"0\" style=\"display: block; width: 650px;\" class=\"image\" alt=\"Hunter : -5% sur la marque !\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_54297.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53250.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER LAISSE ROUND & SOFT ELK PETIT NOIR 110 CM\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53250.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53255.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER COLLIER CANADIAN ELK POUR CHIEN BRUN / NOIR M\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53255.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53256.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER HARNAIS MODERN ART R&S PETIT LUXUS POUR CHIEN COGNAC XXS\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53256.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53264.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER COLLIER DIAMOND ELK PETIT POUR CHIEN NOIR XS\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53264.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53267.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER ÉCUELLE MÉLAMINE KIMBERLEY POUR CHAT BLANC 160 ML\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53267.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53278.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER SHAMPOOING À L'ALOE VERA 200 ML\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53278.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53319.png\" width=\"650\" border=\"0\" style=\"display: block; width: 650px;\" class=\"image\" alt=\"Jusqu'à -15% sur une sélection de produits pour améliorer le comportement de votre animal\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53319.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53316.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"Comment voyager en voiture avec son chien ?\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53316.jpg"
+  },
+  {
+   "image": "<img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/instagram.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"instagram\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/instagram.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/facebook.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"facebook\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/facebook.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/youtube.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"youtube\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/youtube.png"
+  },
+  {
+   "image": "<img e-editable=\"imageA_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/linkedin.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"linkedIn\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/linkedin.png"
+  },
+  {
+   "image": "<img src=\"https://tracking.lacompagniedesanimaux.com/mo/alLL0wITAx_1001957228_67073_3242_68287.gif\" height=\"2\" width=\"2\" border=\"0\" alt=\"\">",
+   "source": "https://tracking.lacompagniedesanimaux.com/mo/alLL0wITAx_1001957228_67073_3242_68287.gif"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/gm.php?prm=alLL0wITAx_1001957228_67073_3242&_esuh=_11_3f44498aacf7ef755dbb70ea713fe8d2ed90ee1ead667dc0aa197e3f27b325af",
+   "tag": "<a e-editable=\"urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/gm.php?prm=alLL0wITAx_1001957228_67073_3242&_esuh=_11_3f44498aacf7ef755dbb70ea713fe8d2ed90ee1ead667dc0aa197e3f27b325af\" target=\"_blank\" class=\"fc4 fwn tdn\" style=\"color: #a4a1a2; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_1\" class=\"ff fs8 fc4 tdu\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 8px; color: #a4a1a2; text-decoration: underline; line-height: 1.2;\">Voir la version en ligne</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_1&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_3795c799f821c5909ae0146ac898d47a0fed4505f87afb4e52040987a5619296",
+   "tag": "<a e-editable=\"image_urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_1&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_3795c799f821c5909ae0146ac898d47a0fed4505f87afb4e52040987a5619296\" target=\"_blank\" class=\"ff fc2 fwn tdn\" style=\"font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; font-weight: normal;\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png\" width=\"304\" border=\"0\" style=\"display:block;\" class=\"image\" alt=\"La Compagnie des Animaux\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_3&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_1c03d12b8c64bd7651e799b387f260c4b02b8db79048d9bceb32fb56e537b563",
+   "tag": "<a e-editable=\"urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_3&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_1c03d12b8c64bd7651e799b387f260c4b02b8db79048d9bceb32fb56e537b563\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\"><img e-editable=\"imageB_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1d.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_5&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_6877f011aee4a5962c45e41732c941eb3f4d91acca47eadb13d0207608d4efc1",
+   "tag": "<a e-editable=\"urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_5&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NjY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_6877f011aee4a5962c45e41732c941eb3f4d91acca47eadb13d0207608d4efc1\" target=\"_blank\" class=\"fc2 fwn tdn\" style=\"background: transparent; padding: 0; color: #ffffff; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_1\" class=\"ff fs13 fc2 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #ffffff; letter-spacing: 0.015em; line-height: 1.2;\">Chats</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_7&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3Njg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_51a6c0c3db5fd94d5a730f9ee3a60df0dccee8059114b7e027f85d2072a20778",
+   "tag": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_7&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3Njg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_51a6c0c3db5fd94d5a730f9ee3a60df0dccee8059114b7e027f85d2072a20778\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\"><img e-editable=\"imageB_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2d.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_9&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4ef93d00bebf066ec785bfc133c8d56d93b877cb405d54b7a4948bfbb3302930",
+   "tag": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_9&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4ef93d00bebf066ec785bfc133c8d56d93b877cb405d54b7a4948bfbb3302930\" target=\"_blank\" class=\"fc2 fwn tdn\" style=\"background: transparent; padding: 0; color: #ffffff; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_2\" class=\"ff fs13 fc2 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #ffffff; letter-spacing: 0.015em; line-height: 1.2;\">Chiens</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_11&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e791a4a79a4055a8d541eb7baf6c11d3bac70f9122a694d3f56b866f64209662",
+   "tag": "<a e-editable=\"urlA_3\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_11&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e791a4a79a4055a8d541eb7baf6c11d3bac70f9122a694d3f56b866f64209662\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\"><img e-editable=\"imageB_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3d.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_13&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_043997c87953a62fe19003059a76817bfe6dfbba9288d1dd537a38a9b702eb8d",
+   "tag": "<a e-editable=\"urlA_3\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_13&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_043997c87953a62fe19003059a76817bfe6dfbba9288d1dd537a38a9b702eb8d\" target=\"_blank\" class=\"fc2 fwn tdn\" style=\"background: transparent; padding: 0; color: #ffffff; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_3\" class=\"ff fs13 fc2 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #ffffff; letter-spacing: 0.015em; line-height: 1.2;\">Chevaux</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_15&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_a8be5e10cce457e9e89bb540134d03c50e666a252ef54cdf920ff4b2b41f6f67",
+   "tag": "<a e-editable=\"urlA_4\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_15&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3NzY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_a8be5e10cce457e9e89bb540134d03c50e666a252ef54cdf920ff4b2b41f6f67\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\"><img e-editable=\"imageB_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4d.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_17&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3Nzg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ddd0a98b5405128ae0e93e7f22a1e14b52bce069f1d3173ebb4168e046ad3028",
+   "tag": "<a e-editable=\"urlA_4\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_17&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3Nzg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ddd0a98b5405128ae0e93e7f22a1e14b52bce069f1d3173ebb4168e046ad3028\" target=\"_blank\" class=\"fc2 fwn tdn\" style=\"background: transparent; padding: 0; color: #ffffff; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_4\" class=\"ff fs13 fc2 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #ffffff; letter-spacing: 0.015em; line-height: 1.2;\">Rongeurs</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_19&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_bcb25e05b4ce82848a35f75a9ff8952cfc78c32bca191b5f5d0c90271b97aacc",
+   "tag": "<a e-editable=\"urlA_5\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_19&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_bcb25e05b4ce82848a35f75a9ff8952cfc78c32bca191b5f5d0c90271b97aacc\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\"><img e-editable=\"imageB_5\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5d.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_21&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_35c65a5b2920325eaa727bc771a0bf18a1cfe32ab796f62ddfc357c0063bcfc4",
+   "tag": "<a e-editable=\"urlA_5\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_21&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_35c65a5b2920325eaa727bc771a0bf18a1cfe32ab796f62ddfc357c0063bcfc4\" target=\"_blank\" class=\"fc2 fwn tdn\" style=\"background: transparent; padding: 0; color: #ffffff; text-decoration: none; font-weight: normal;\"><font e-editable=\"link_textA_5\" class=\"ff fs13 fc2 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #ffffff; letter-spacing: 0.015em; line-height: 1.2;\">Promotions</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_23&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_aa8a6628ef30a1af29f05ceb5e8fe50a4717daa554d35075fa23a645bf1948b9",
+   "tag": "<a e-editable=\"url_imageA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_23&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_aa8a6628ef30a1af29f05ceb5e8fe50a4717daa554d35075fa23a645bf1948b9\" target=\"_blank\" class=\"ff fc2 fwn tdn\" style=\"font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; font-weight: normal;\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/logo.png\" width=\"152\" border=\"0\" style=\"display:block;\" alt=\"La Compagnie des Animaux\" class=\"image\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_25&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_14eae4550459ae12c851728c1af2b1c2e9a13c0eb9e8fa7afb6f634a388e4748",
+   "tag": "<a e-editable=\"urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_25&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_14eae4550459ae12c851728c1af2b1c2e9a13c0eb9e8fa7afb6f634a388e4748\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageC_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav1m.png\" width=\"20\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_27&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_51d42efcce6068f35565e2a801ac8b19826d54e0e695da659c87aa2d01ff413d",
+   "tag": "<a e-editable=\"urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_27&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3ODg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_51d42efcce6068f35565e2a801ac8b19826d54e0e695da659c87aa2d01ff413d\" target=\"_blank\" style=\"color: #3c4858; text-decoration: none; font-weight: normal; display: block;\" class=\"fc1 fwn tdn\"><font e-editable=\"link_textA_1\" class=\"ff fs14 fc1 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #3c4858; letter-spacing: 0.015em; line-height: 1.2;\">Chat</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_29&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_66cd7080836516a7c0ba8495506fdd9e580c3e877a9b4f8a40e7a57b01828579",
+   "tag": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_29&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_66cd7080836516a7c0ba8495506fdd9e580c3e877a9b4f8a40e7a57b01828579\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageC_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav2m.png\" width=\"31\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_31&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_2de65183f0887f872a27aa4eda5bb51000b829c0d2370a17764f909ac4604e7c",
+   "tag": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_31&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_2de65183f0887f872a27aa4eda5bb51000b829c0d2370a17764f909ac4604e7c\" target=\"_blank\" style=\"color: #3c4858; text-decoration: none; font-weight: normal; display: block;\" class=\"fc1 fwn tdn\"><font e-editable=\"link_textA_2\" class=\"ff fs14 fc1 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #3c4858; letter-spacing: 0.015em; line-height: 1.2;\">Chien</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_33&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_88b23e6efed81b1f63ba2ec0b05f174b15824b78dfe15e9b17e1c6a26be431cf",
+   "tag": "<a e-editable=\"urlA_3\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_33&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_88b23e6efed81b1f63ba2ec0b05f174b15824b78dfe15e9b17e1c6a26be431cf\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageC_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav3m.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_35&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e90c20ddb2022e9e40c22b6441880e5cf2da2fe331dfe5735a23f3f948dff0a8",
+   "tag": "<a e-editable=\"urlA_3\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_35&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e90c20ddb2022e9e40c22b6441880e5cf2da2fe331dfe5735a23f3f948dff0a8\" target=\"_blank\" style=\"color: #3c4858; text-decoration: none; font-weight: normal; display: block;\" class=\"fc1 fwn tdn\"><font e-editable=\"link_textA_3\" class=\"ff fs14 fc1 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #3c4858; letter-spacing: 0.015em; line-height: 1.2;\">Chevaux</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_37&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ca177525c377255a548a31f0b90ed81e47ee910e02b7ca3f43ddcf986e039925",
+   "tag": "<a e-editable=\"urlA_4\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_37&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY3OTg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ca177525c377255a548a31f0b90ed81e47ee910e02b7ca3f43ddcf986e039925\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageC_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav4m.png\" width=\"40\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_39&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_db4f32d7a1d204097371dd1239397e248eaaa3a219d852f31259d07ea59c289e",
+   "tag": "<a e-editable=\"urlA_4\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_39&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_db4f32d7a1d204097371dd1239397e248eaaa3a219d852f31259d07ea59c289e\" target=\"_blank\" style=\"color: #3c4858; text-decoration: none; font-weight: normal; display: block;\" class=\"fc1 fwn tdn\"><font e-editable=\"link_textA_4\" class=\"ff fs14 fc1 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #3c4858; letter-spacing: 0.015em; line-height: 1.2;\">Rongeur</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_41&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_0289229af9dbd9acb1c3707247a7f7974ebb57f06c7b286d3112a79aecbeb73e",
+   "tag": "<a e-editable=\"urlA_5\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_41&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_0289229af9dbd9acb1c3707247a7f7974ebb57f06c7b286d3112a79aecbeb73e\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageC_5\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/nav5m.png\" width=\"28\" border=\"0\" style=\"display:block;\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_43&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_5beedb5cdf8e7a6cce2b7616d2054b45a080ce5c2ffd846c3e47883ec47eba6f",
+   "tag": "<a e-editable=\"urlA_5\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_43&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_5beedb5cdf8e7a6cce2b7616d2054b45a080ce5c2ffd846c3e47883ec47eba6f\" target=\"_blank\" style=\"color: #3c4858; text-decoration: none; font-weight: normal; display: block;\" class=\"fc1 fwn tdn\"><font e-editable=\"link_textA_5\" class=\"ff fs14 fc1 ls15 gf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #3c4858; letter-spacing: 0.015em; line-height: 1.2;\">Promotion</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_45&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_98bc119fba87678db343af9e53d852caf0d02e292a934357b70597da24aa35df",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_45&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_98bc119fba87678db343af9e53d852caf0d02e292a934357b70597da24aa35df\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\" target=\"_blank\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_54297.jpg\" width=\"650\" border=\"0\" style=\"display: block; width: 650px;\" class=\"image\" alt=\"Hunter : -5% sur la marque !\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_53&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e75249e4bdb392dea2905a1530b72e586ca0967c079386baa610beecb6eda966",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_53&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_e75249e4bdb392dea2905a1530b72e586ca0967c079386baa610beecb6eda966\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53250.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER LAISSE ROUND & SOFT ELK PETIT NOIR 110 CM\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_47&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_03c07c9d638e7455e8ab579aaaf6abd2aa935d7a1b9454aca6baf584444276bd",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_47&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MDg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_03c07c9d638e7455e8ab579aaaf6abd2aa935d7a1b9454aca6baf584444276bd\" e-editable=\"urlA_1\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_1\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_55&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_00b839d878a559a9104c17617ccffb1abae98fb4f74727246f43bc5e894829b6",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_55&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_00b839d878a559a9104c17617ccffb1abae98fb4f74727246f43bc5e894829b6\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53255.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER COLLIER CANADIAN ELK POUR CHIEN BRUN / NOIR M\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_49&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ed96e58875b9bec54ac847ceb729cc9d6dace12f320aace647b139780b47d19c",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_49&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ed96e58875b9bec54ac847ceb729cc9d6dace12f320aace647b139780b47d19c\" e-editable=\"urlA_2\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_2\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_57&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4b040425b3960601dc49c0b2046706a8ca84f13435a33f597d5f84293ceac6ce",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_57&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4b040425b3960601dc49c0b2046706a8ca84f13435a33f597d5f84293ceac6ce\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53256.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER HARNAIS MODERN ART R&S PETIT LUXUS POUR CHIEN COGNAC XXS\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_51&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_8e524db9d168bd58686c64e6f4d1cef0f41d05eef9390cc20534cbe2e6ed160f",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_51&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MTI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_8e524db9d168bd58686c64e6f4d1cef0f41d05eef9390cc20534cbe2e6ed160f\" e-editable=\"urlA_3\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_3\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_65&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_a27d98e264e7d21c8cf36b7c317b4d72e3f0d86c78ebebd7f36d27bfe50b7e49",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_65&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_a27d98e264e7d21c8cf36b7c317b4d72e3f0d86c78ebebd7f36d27bfe50b7e49\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53264.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER COLLIER DIAMOND ELK PETIT POUR CHIEN NOIR XS\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_59&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f1aa59ac23e96e923fbd3e146966f24eb8be55cc541bd37ff1e15dd0a4a04989",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_59&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f1aa59ac23e96e923fbd3e146966f24eb8be55cc541bd37ff1e15dd0a4a04989\" e-editable=\"urlA_1\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_1\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_67&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4Mjg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_9286c726d5ff75a92325b6e4da1eb5b2011ac3089ac0af8f1d0b3729cb5b8927",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_67&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4Mjg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_9286c726d5ff75a92325b6e4da1eb5b2011ac3089ac0af8f1d0b3729cb5b8927\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53267.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER ÉCUELLE MÉLAMINE KIMBERLEY POUR CHAT BLANC 160 ML\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_61&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_3746b2fffa7c2d5aa9c39f3a8c8265d1886e627af92d5e2bc7995b19eedddbb6",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_61&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_3746b2fffa7c2d5aa9c39f3a8c8265d1886e627af92d5e2bc7995b19eedddbb6\" e-editable=\"urlA_2\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_2\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_69&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_d5ffc9bb65be73b971647fccc11ee5fb1c1a46a078c2c8d32a8b67387d6eee49",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_69&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_d5ffc9bb65be73b971647fccc11ee5fb1c1a46a078c2c8d32a8b67387d6eee49\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53278.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"HUNTER SHAMPOOING À L'ALOE VERA 200 ML\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_63&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4c830f1956fcbfa88a7bb491795239a928414b1637a32e0d6ea4addd63c36f57",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_63&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MjQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_4c830f1956fcbfa88a7bb491795239a928414b1637a32e0d6ea4addd63c36f57\" e-editable=\"urlA_3\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a2\" title=\"\"><font e-editable=\"link_textA_3\" class=\"ctaf2\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">J'achète</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_71&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_2792ccd5d7ff78d297166eaa3bfcc3a14f69b5091dbc1cdc47809ebfe025610c",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_71&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_2792ccd5d7ff78d297166eaa3bfcc3a14f69b5091dbc1cdc47809ebfe025610c\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\" target=\"_blank\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53319.png\" width=\"650\" border=\"0\" style=\"display: block; width: 650px;\" class=\"image\" alt=\"Jusqu'à -15% sur une sélection de produits pour améliorer le comportement de votre animal\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_75&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f0b98f3a282a5379bcaa50a2813d04d12e35ba117bab011a201c198519b331a9",
+   "tag": "<a title=\"\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_75&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzY%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f0b98f3a282a5379bcaa50a2813d04d12e35ba117bab011a201c198519b331a9\" style=\"text-decoration: none; font-weight: normal; color: #3c4858; background: transparent; padding: 0;\" target=\"_blank\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/md_53316.jpg\" width=\"190\" border=\"0\" style=\"display: block; width: 190px;\" class=\"image\" alt=\"Comment voyager en voiture avec son chien ?\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_73&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f4bb3a3a8896a7d0259ced599010f8437cdd06a1761361841e32c805fd10c0ee",
+   "tag": "<a href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_73&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4MzQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_f4bb3a3a8896a7d0259ced599010f8437cdd06a1761361841e32c805fd10c0ee\" e-editable=\"urlA_1\" target=\"_blank\" style=\"background: transparent; font-size: 14px; color: #ffffff; font-weight: normal; text-decoration: none; display: block; padding: 9px 5px;\" class=\"cta1a\" title=\"\"><font e-editable=\"link_textA_1\" class=\"ctaf\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight: bold; letter-spacing: 0.015em; line-height: 1.2;\">Lire l'article</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_77&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4Mzg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_fa300e659130e24e4a0b8e791db0c2f49d8b4f80c0b890cf4f86d598e938e222",
+   "tag": "<a e-editable=\"image_urlA_1\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_77&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4Mzg%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_fa300e659130e24e4a0b8e791db0c2f49d8b4f80c0b890cf4f86d598e938e222\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageA_1\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/instagram.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"instagram\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_79&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ebae3dad775d8f9fd50da56eabe01d6642958858ae4add4f5f11c229d8558268",
+   "tag": "<a e-editable=\"image_urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_79&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDA%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_ebae3dad775d8f9fd50da56eabe01d6642958858ae4add4f5f11c229d8558268\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageA_2\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/facebook.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"facebook\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_81&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_7bb8eb631117edc31573f4b523c6cd64126ac29c05b495d43a23e25cf6ff76ec",
+   "tag": "<a e-editable=\"image_urlA_3\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_81&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDI%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_7bb8eb631117edc31573f4b523c6cd64126ac29c05b495d43a23e25cf6ff76ec\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageA_3\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/youtube.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"youtube\"></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_83&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_0b937a6fb9e0bc38dd69fcbe87bb5e8dbdbc460b3f3fbc181b1d06e82397f537",
+   "tag": "<a e-editable=\"image_urlA_4\" href=\"https://tracking.lacompagniedesanimaux.com/u/nrd.php?p=alLL0wITAx_3242_67073_1_83&ems_l=68287&i=1&d=bGFjaWVfY29tX2NoaWVuX21lYV9sYWJvX2h1bnRlcl81Xw%3D%3D%7CMDQ%3D%7CMjAyMg%3D%3D%7CMTAwMTY4NDQ%3D%7CYWxMTDB3SVRBeA%3D%3D%7CNWI1ZWEzNGI5NzEzMWJiNDE%3D%7C&_esuh=_11_0b937a6fb9e0bc38dd69fcbe87bb5e8dbdbc460b3f3fbc181b1d06e82397f537\" target=\"_blank\" style=\"text-decoration: none; font-weight: normal; color: #3c4858;\"><img e-editable=\"imageA_4\" src=\"https://tracking.lacompagniedesanimaux.com/custloads/1001957228/vce/linkedin.png\" width=\"34\" border=\"0\" style=\"display:block;\" alt=\"linkedIn\"></a>"
+  },
+  {
+   "link": "mailto:sav@lacompagniedesanimaux.com",
+   "tag": "<a e-editable=\"urlA_1\" href=\"mailto:sav@lacompagniedesanimaux.com\" class=\"fc1 fwn tdn\" style=\"font-weight: normal; text-decoration: none; color: #3c4858;\" target=\"_blank\"><font e-editable=\"link_textA_1\" class=\"ff fc1\" style=\"font-family: Arial, Helvetica, sans-serif; color: #3c4858;\">sav@lacompagniedesanimaux.com</font></a>"
+  },
+  {
+   "link": "https://tracking.lacompagniedesanimaux.com/u/un.php?par=alLL0wITAx_67073_3242_$sid$&_esuh=_11_f94ca68d7843d784b7a854d771213ed9d6158a207d8b3aceeadaf6756957ddaf",
+   "tag": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/un.php?par=alLL0wITAx_67073_3242_$sid$&_esuh=_11_f94ca68d7843d784b7a854d771213ed9d6158a207d8b3aceeadaf6756957ddaf\" target=\"_blank\" class=\"fc1 fwn tdn\" style=\"font-weight: normal; text-decoration: none; color: #3c4858;\"><font e-editable=\"link_textA_2\" class=\"ff fc1 tdu\" style=\"font-family: Arial, Helvetica, sans-serif; color: #3c4858; text-decoration: underline;\">désinscrire</font></a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "désinscrire",
+  "link": "<a e-editable=\"urlA_2\" href=\"https://tracking.lacompagniedesanimaux.com/u/un.php?par=alLL0wITAx_67073_3242_$sid$&_esuh=_11_f94ca68d7843d784b7a854d771213ed9d6158a207d8b3aceeadaf6756957ddaf\" target=\"_blank\" class=\"fc1 fwn tdn\" style=\"font-weight: normal; text-decoration: none; color: #3c4858;\"><font e-editable=\"link_textA_2\" class=\"ff fc1 tdu\" style=\"font-family: Arial, Helvetica, sans-serif; color: #3c4858; text-decoration: underline;\">désinscrire</font></a>"
+ }
+}

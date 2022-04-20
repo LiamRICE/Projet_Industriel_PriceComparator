@@ -1,0 +1,55 @@
+{
+ "origin": "Zara86",
+ "images": [
+  {
+   "image": "<img height=\"auto\" src=\"http://static.zara.net/photos/contents/apps/logo_Zara_2019.png\" style=\"direction: ltr; border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%;\" width=\"327\">",
+   "source": "http://static.zara.net/photos/contents/apps/logo_Zara_2019.png"
+  },
+  {
+   "image": "<img height=\"auto\" src=\"https://static.zara.net/photos/contents/mkt/newsletters/header_ss22.png\" style=\"direction: ltr; border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%;\" width=\"646\">",
+   "source": "https://static.zara.net/photos/contents/mkt/newsletters/header_ss22.png"
+  },
+  {
+   "image": "<img src=\"http://ir.zara.com/oo/CAAAAsF9JuIAAAAAAAAAAAmfVlAAAAAAAAEAAAAAAAuI7wBiU9hufPfWt8Q0TcaEgrY9BbkDAgAIJlk/f81d34e6/e.gif\" height=\"1\" width=\"1\" alt=\"\" border=\"0\" style=\"height:1px;width:1px;border:0;\"/>",
+   "source": "http://ir.zara.com/oo/CAAAAsF9JuIAAAAAAAAAAAmfVlAAAAAAAAEAAAAAAAuI7wBiU9hufPfWt8Q0TcaEgrY9BbkDAgAIJlk/f81d34e6/e.gif"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://www.zara.com",
+   "tag": "<a href=\"https://www.zara.com\" style=\"direction: ltr; background: #FFFFFF; color: #000000; font-family: Arial; font-size: 13px; font-weight: bold; line-height: 120%; Margin: 0; text-decoration: none; text-transform: uppercase;\" target=\"_blank\">Visitez zara.com</a>"
+  },
+  {
+   "link": "http://www.zara.com/static/go/marketplaces.html",
+   "tag": "<a href=\"http://www.zara.com/static/go/marketplaces.html\" style=\"direction: ltr; color: #000000; text-decoration: none; text-transform: uppercase; font-weight: 600;\">Télécharger notre appli</a>"
+  },
+  {
+   "link": "https://www.instagram.com/zara",
+   "tag": "<a href=\"https://www.instagram.com/zara\" target=\"_blank\" style=\"text-align: center; text-transform: uppercase; direction: ltr; font-weight: 400; font-size: 15px; color: #000000; text-decoration: none;\">Instagram</a>"
+  },
+  {
+   "link": "https://es-es.facebook.com/Zara",
+   "tag": "<a href=\"https://es-es.facebook.com/Zara\" target=\"_blank\" style=\"text-align: center; text-transform: uppercase; direction: ltr; font-weight: 400; font-size: 15px; color: #000000; text-decoration: none;\">Facebook</a>"
+  },
+  {
+   "link": "https://twitter.com/zaraes?s&#x3D;20",
+   "tag": "<a href=\"https://twitter.com/zaraes?s&#x3D;20\" target=\"_blank\" style=\"text-align: center; text-transform: uppercase; direction: ltr; font-weight: 400; font-size: 15px; color: #000000; text-decoration: none;\">Twitter</a>"
+  },
+  {
+   "link": "https://www.pinterest.es/zaraofficial/",
+   "tag": "<a href=\"https://www.pinterest.es/zaraofficial/\" target=\"_blank\" style=\"text-align: center; text-transform: uppercase; direction: ltr; font-weight: 400; font-size: 15px; color: #000000; text-decoration: none;\">Pinterest</a>"
+  },
+  {
+   "link": "https://www.youtube.com/user/zara",
+   "tag": "<a href=\"https://www.youtube.com/user/zara\" target=\"_blank\" style=\"text-align: center; text-transform: uppercase; direction: ltr; font-weight: 400; font-size: 15px; color: #000000; text-decoration: none;\">Youtube</a>"
+  },
+  {
+   "link": "https://www.zara.com/fr/fr/z-newsletter-nl1400.html?optinUnsubscribe=true&sign=unsubscribe&categoryId=0&hash=354671D9459DE9D0702747C348EBC271507BCB4B",
+   "tag": "<a href=\"https://www.zara.com/fr/fr/z-newsletter-nl1400.html?optinUnsubscribe=true&sign=unsubscribe&categoryId=0&hash=354671D9459DE9D0702747C348EBC271507BCB4B\">ici</a>"
+  },
+  {
+   "link": "https://static.zara.net/static//pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf",
+   "tag": "<a href=\"https://static.zara.net/static//pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf\">Politique de confidentialité</a>"
+  }
+ ]
+}

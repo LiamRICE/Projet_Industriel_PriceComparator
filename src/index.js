@@ -52,13 +52,12 @@ async function main(oAuth2Client) {
         data = message.data.payload.body.data;
       }
       const txt = Buffer.from(data,'base64').toString('utf8');
-      //console.log("texte:",txt);
       let n = from.split(' <')[0];
       if(n.includes('"')){
         n = n.split('"')[1];
       }
       console.log(`${n}.html`);
-      fs.writeFile(`${n}.html`, txt, (err) => {
+      fs.writeFile(`src/assets/newsletters/${n}${num}.html`, txt, (err) => {
         if (err) throw err;
       });
       const message2 = await gmail.editMessageLabel(oAuth2Client,id,[],['UNREAD']);
@@ -73,13 +72,12 @@ async function main(oAuth2Client) {
         }
       });
       const txt = Buffer.from(data,'base64').toString('utf8');
-      //console.log("texte:",txt);
       let n = from.split(' <')[0];
       if(n.includes('"')){
         n = n.split('"')[1];
       }
       console.log(`${n}.html`);
-      fs.writeFile(`src/assets/output/${n}${num}.html`, txt, (err) => {
+      fs.writeFile(`src/assets/newsletters/${n}${num}.html`, txt, (err) => {
         if (err) throw err;
       });
       const message2 = await gmail.editMessageLabel(oAuth2Client,id,[],['UNREAD']);

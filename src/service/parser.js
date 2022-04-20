@@ -2,10 +2,12 @@ const fs = require('fs');
 
 const dictionary = [
     "unsubscrib",
+    "subscri",
     "désinscri",
     "desinscri",
     "désabon",
     "desabon",
+    "abonne",
 ]
 
 /**
@@ -15,7 +17,7 @@ const dictionary = [
  */
 function read_newsletter(filename, callback){
     fs.readFile(filename, (err, data) => {
-        if (err) throw err;
+        console.log(err);
         callback(data.toString());
     });
 }
@@ -291,7 +293,7 @@ function alt_get_unsubscribe_link(data){
     }
     if(links.length != 0){
         ret = {
-            link: links[0],
+            link: links[links.length-1],
             overload: links.length,
         }
         return ret;
@@ -305,7 +307,7 @@ function alt_get_unsubscribe_link(data){
  * @param {string} src - the path to the file to read that contains the newsletter html code.
  * @param {function} callback - a callback that is called and provides a json object as input containing the origin company, the array of images, the array of tags and the unsubscription tag.
  */
-function parse_newsletter(src, callback){
+function parse_newsletter(src, company, callback){
     let image_sources;
     let unsubscribe_tag;
     let tag_details;
@@ -317,15 +319,18 @@ function parse_newsletter(src, callback){
                     get_unsubscribe_tag(data, (tag, overflow) => {
                         unsubscribe_tag = tag;
                         if(overflow > 1){
-                            throw new Error("ERROR - more than one unsubscribe tag detected");
+                            console.log("ERROR - more than one unsubscribe tag detected");
                         }
                         get_link_details(links, (taging) => {
                             tag_details = taging;
                             let return_value = {
-                                origin: "COMPANY",
+                                origin: company,
                                 images: image_sources,
                                 tags: tag_details,
                                 unsubscription: unsubscribe_tag,
+                            }
+                            if(return_value.unsubscription == undefined){
+                                console.log(company);
                             }
                             callback(return_value);
                         });

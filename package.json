@@ -1,6 +1,8 @@
-{    "scripts": {
+{
+    "scripts": {
         "test": "jest",
         "start": "node src/main.js",
+        "fetch": "node src/index.js",
         "experiment": "node src/experiment.js",
         "unit_test": "jest -- unit_parser.test.js",
         "int_test": "jest -- integration_parser.test.js"
