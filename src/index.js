@@ -21,6 +21,7 @@ fs.readFile('src/service/credentials.json', (err, content) => {
 async function main(oAuth2Client) {
   const messages = await gmail.listMessages(oAuth2Client, 'label:inbox');
   console.log('Messages:', messages);
+  let num = 0;
   for(m in messages){
     const id = messages[m].id;
     console.log(id);
@@ -78,11 +79,12 @@ async function main(oAuth2Client) {
         n = n.split('"')[1];
       }
       console.log(`${n}.html`);
-      fs.writeFile(`${n}.html`, txt, (err) => {
+      fs.writeFile(`src/assets/output/${n}${num}.html`, txt, (err) => {
         if (err) throw err;
       });
       const message2 = await gmail.editMessageLabel(oAuth2Client,id,[],['UNREAD']);
       //console.log(message2)
     }
+    num += 1;
   }
 }
