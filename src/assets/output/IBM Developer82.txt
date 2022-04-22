@@ -1,0 +1,99 @@
+{
+ "origin": "IBM Developer82",
+ "images": [
+  {
+   "image": "<img alt=\"IBM\" border=\"0\"  height=\"18\"  src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/black_logo.png' width=\"43\"  />",
+   "source": "43"
+  },
+  {
+   "image": "<img alt=\"Twitter\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/tw_img.png' title=\"Twitter\" width=\"22\" >",
+   "source": "Twitter"
+  },
+  {
+   "image": "<img alt=\"Facebook\" border=\"0\"  height=\"18\"   src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/fb_img.png' title=\"Facebook\" width=\"18\" >",
+   "source": "Facebook"
+  },
+  {
+   "image": "<img align=\"top\" alt=\"YouTube\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/yt_img.png' title=\"YouTube\" width=\"22\" >",
+   "source": "YouTube"
+  },
+  {
+   "image": "<img alt=\"medium\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/medium-icon-white.png' style=\"font-family: Arial, sans-serif;font-size: 16px;line-height: 20px;color: #000000;max-width: 18px;border: 0 !important;outline: none !important;\" title=\"medium\" width=\"18\"  />",
+   "source": "font-family: Arial, sans-serif;font-size: 16px;line-height: 20px;color: #000000;max-width: 18px;border: 0 !important;outline: none !important;"
+  },
+  {
+   "image": "<img alt=\"LinkedIn\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/in_img.png' title=\"LinkedIn\" width=\"18\" >",
+   "source": "LinkedIn"
+  },
+  {
+   "image": "<img alt=\"IBM\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/white_logo.png' title=\"IBM\" width=\"43\" >",
+   "source": "IBM"
+  }
+ ],
+ "tags": [
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/V4r0Fa8KAGsm/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a name=\"urx_subscription_form_1\"  href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/V4r0Fa8KAGsm/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" target=\"_blank\">IBM Developer newsletter subscription form</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/2WR~HrpgqZsY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/2WR~HrpgqZsY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\"  name=\"myibm_ibm_com_dashboard\">myibm.com</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/8EV~M0NAYVQj/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/8EV~M0NAYVQj/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\"  name=\"developer_ibm_com_1\">IBM Developer</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/vWXAH9ew6Xck/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/vWXAH9ew6Xck/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"Twitter\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img alt=\"Twitter\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/tw_img.png' title=\"Twitter\" width=\"22\" ></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/D_bgS6XZxDTA/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/D_bgS6XZxDTA/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"Facebook\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img alt=\"Facebook\" border=\"0\"  height=\"18\"   src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/fb_img.png' title=\"Facebook\" width=\"18\" ></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/Wek4fvxKGVQV/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/Wek4fvxKGVQV/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"YouTube\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img align=\"top\" alt=\"YouTube\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/yt_img.png' title=\"YouTube\" width=\"22\" ></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/9by~B486bWFE/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/9by~B486bWFE/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"Medium\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img alt=\"medium\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/medium-icon-white.png' style=\"font-family: Arial, sans-serif;font-size: 16px;line-height: 20px;color: #000000;max-width: 18px;border: 0 !important;outline: none !important;\" title=\"medium\" width=\"18\"  /></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/KakWSg4x_WM4/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/KakWSg4x_WM4/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"Linkedin\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img alt=\"LinkedIn\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/in_img.png' title=\"LinkedIn\" width=\"18\" ></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/yrwVM4-zG9FP/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/yrwVM4-zG9FP/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"www_ibm_com_1\" style=\"text-decoration: none;border-collapse: collapse;mso-line-height-rule: exactly;\" target=\"_blank\" ><img alt=\"IBM\" border=\"0\"    src='http://contentz.mkt6741.com/ra/2021/25285/08/45445516/white_logo.png' title=\"IBM\" width=\"43\" ></a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/p2RATv70yKQK/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/p2RATv70yKQK/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"urx_subscription_form_2\" style=\"border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;font-family: 'IBM Plex Sans', Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 24px;letter-spacing: 0px;color: #78a9ff;\" target=\"_blank\" valign=\"top\"  >IBM Developer subscription preferences</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/x46AFAwRrkfY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/x46AFAwRrkfY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"developer_ibm_com_2\" style=\"border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;font-family: 'IBM Plex Sans', Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 24px;letter-spacing: 0px;color: #78a9ff;\" target=\"_blank\" >developer.ibm.com</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/_a0mS2r6YzfY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/_a0mS2r6YzfY/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"www_ibm_com_2\" style=\"border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;\" target=\"_blank\" >ibm.com</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/349~F3w429M3/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a name=\"urx_subscription_form_3\" style=\"white-space: nowrap;border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;\"  href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/349~F3w429M3/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" target=\"_blank\"   >form</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/els/v2/d3qAC6AW2xTd/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/",
+   "tag": "<a name=\"Hyperlink_20210616_091538392\"  href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/d3qAC6AW2xTd/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" target=\"_blank\" style=\"white-space: nowrap;border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;\">this form</a>"
+  },
+  {
+   "link": "http://links.ibmdeveloper.mkt6741.com/ctt?ms=NDU0NDU1MTYS1&kn=3&r=MTM5MzU5NTA0MTk5OAS2&b=0&j=MjIyMTE0NDc0NQS2&mt=2&rj=MjIyMTEzMTMyNAS2&rt=0",
+   "tag": "<a href=\"http://links.ibmdeveloper.mkt6741.com/ctt?ms=NDU0NDU1MTYS1&kn=3&r=MTM5MzU5NTA0MTk5OAS2&b=0&j=MjIyMTE0NDc0NQS2&mt=2&rj=MjIyMTEzMTMyNAS2&rt=0\" name=\"IBM_optout\" style=\"white-space: nowrap;border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;\" target=\"_blank\" >click here</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "IBM Developer subscription preferences",
+  "link": "<a href=\"http://links.ibmdeveloper.mkt6741.com/els/v2/p2RATv70yKQK/VlVHSCsrbXNKcC8vSmU2Rk5vNWwyTlVYWWhvNXR1alZhVjkxdk9zL0kveVRIVzZNYnc4V0w2cWRIcUVqYkNzT1pHNlVQeWFVa0E5dmkyWmRIQVB2V0RRaHJUVWdXVUIzdXkzcHY3TjYvalBIK2haSnIvM3ZBVlZZcEhQNkRTMVJZbEc0MHN2MWxkRT0S1/\" name=\"urx_subscription_form_2\" style=\"border-collapse: collapse;mso-line-height-rule: exactly;text-decoration: underline;color: #78a9ff;font-family: 'IBM Plex Sans', Arial, sans-serif;font-weight: normal;font-size: 16px;line-height: 24px;letter-spacing: 0px;color: #78a9ff;\" target=\"_blank\" valign=\"top\"  >IBM Developer subscription preferences</a>"
+ }
+}

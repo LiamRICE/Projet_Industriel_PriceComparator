@@ -1,0 +1,15 @@
+{
+ "origin": "Montpellier Events89",
+ "images": [
+  {
+   "image": "<img width=\"1\" height=\"1\" src=\"http://r.campagnes.montpellier-events.com/tr/op/c1qBfD3v4R5LLc5Je1Jz-GH2pOxsvVGjlTHg8aiFcEr1bTNao6itB0IW3hAfm7jzMgv6h1VChcB_8iuNAb0HhZmpISiNFeRdPZSjBrzKiVAndFClv_cENbwqkfkZf1RFB6-iEP5My0BIhmw4bxs3ihiSPpg1-m5H6QVLpU5IkW09hyp_MKRUrg\" alt=\"\" />",
+   "source": "http://r.campagnes.montpellier-events.com/tr/op/c1qBfD3v4R5LLc5Je1Jz-GH2pOxsvVGjlTHg8aiFcEr1bTNao6itB0IW3hAfm7jzMgv6h1VChcB_8iuNAb0HhZmpISiNFeRdPZSjBrzKiVAndFClv_cENbwqkfkZf1RFB6-iEP5My0BIhmw4bxs3ihiSPpg1-m5H6QVLpU5IkW09hyp_MKRUrg"
+  }
+ ],
+ "tags": [
+  {
+   "link": "http://r.campagnes.montpellier-events.com/tr/cl/hETh8tl26Nt6bT5NAWTLCDczV7t4IXpOE1wGU3dTh4yqXl-RKa467kPOtg6KLxNtnRjxA5OFl8Kc89WmqdhwvPyU29UzMgqAOH2P5SijU4gpkUkYYd41iZB_zgazoq3PwT_1JT8jkLQ6LIBWk9h4WXL664i9LSPo3IMHuyQ9l9Hw4zxIGOmCD8pHMllwcC8y_SCmPvhs2NptKqWJj7raIML1pkRgrmhP_eHbyGZxzw6tRZGm7ARZd8rsV2z8tDkitQVzUeifUjC5N-3RJZQV26EwTqPYqSWNz5CJs63skrj--0xgLUaWKQ8rBpAfnBGZcp1A9LQHRnQK_3-jnvWRFIFNHINOFzJsbEN9ZuRScASJEX67_8irLXyYTPHRErOvN_UAY2B3EgXQXb7sZB-huRmfgiRxOkO4jK9ugnVVi-8qAHVZKa4z-RDNta2fNHePpM75W9GMHypjJSg6RiWediFGcbT7ZWA1aRloKy3QN6SB5CZt0-cgeFKQOOwBibYVtidLtN0hBAO4a4QQG0mTyBwMYG77UkitfTuG0723-mQxksFG7bGtKikhwPVdoPA9rpc9zjVdyFk4eZxqNw",
+   "tag": "<a href=\"http://r.campagnes.montpellier-events.com/tr/cl/hETh8tl26Nt6bT5NAWTLCDczV7t4IXpOE1wGU3dTh4yqXl-RKa467kPOtg6KLxNtnRjxA5OFl8Kc89WmqdhwvPyU29UzMgqAOH2P5SijU4gpkUkYYd41iZB_zgazoq3PwT_1JT8jkLQ6LIBWk9h4WXL664i9LSPo3IMHuyQ9l9Hw4zxIGOmCD8pHMllwcC8y_SCmPvhs2NptKqWJj7raIML1pkRgrmhP_eHbyGZxzw6tRZGm7ARZd8rsV2z8tDkitQVzUeifUjC5N-3RJZQV26EwTqPYqSWNz5CJs63skrj--0xgLUaWKQ8rBpAfnBGZcp1A9LQHRnQK_3-jnvWRFIFNHINOFzJsbEN9ZuRScASJEX67_8irLXyYTPHRErOvN_UAY2B3EgXQXb7sZB-huRmfgiRxOkO4jK9ugnVVi-8qAHVZKa4z-RDNta2fNHePpM75W9GMHypjJSg6RiWediFGcbT7ZWA1aRloKy3QN6SB5CZt0-cgeFKQOOwBibYVtidLtN0hBAO4a4QQG0mTyBwMYG77UkitfTuG0723-mQxksFG7bGtKikhwPVdoPA9rpc9zjVdyFk4eZxqNw\" target=\"_blank\" style=\"color:#ffffff;font-size:14px;text-decoration:none;line-height:24px;width:100%;\">Oui, m&#039;inscrire à cette liste</a>"
+  }
+ ]
+}

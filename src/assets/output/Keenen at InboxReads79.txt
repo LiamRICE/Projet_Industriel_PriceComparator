@@ -1,0 +1,51 @@
+{
+ "origin": "Keenen at InboxReads79",
+ "images": [
+  {
+   "image": "<img style=\"width: 56px; height: 56px; border: 0;\" alt=\"InboxReads\" src=\"https://s3.amazonaws.com/revue/profiles/images/000/029/454/small/ppblue.png?1522307327\" />",
+   "source": "https://s3.amazonaws.com/revue/profiles/images/000/029/454/small/ppblue.png?1522307327"
+  },
+  {
+   "image": "<img alt=\"Revue\" width=\"70\" height=\"28\" style=\"vertical-align: middle;\" src=\"https://www.getrevue.co/assets/email/revue_gray-54a81f447b762097eb0391c60c3dcf85e8eccf9969b1de904271c9cb6373fa06.png\" />",
+   "source": "https://www.getrevue.co/assets/email/revue_gray-54a81f447b762097eb0391c60c3dcf85e8eccf9969b1de904271c9cb6373fa06.png"
+  },
+  {
+   "image": "<img src=\"https://u7458184.ct.sendgrid.net/wf/open?upn=nYco0BnI0QJcDHaF7DyuXxFqn9c-2BIlsqF1c7xdAUl67eLiOrnA1yeIQ3peBxk9tRndqnNtds3Wv6RL6q617sXrNVN9PCnYi0zdl8CM2aCYoBVPEjgRzYwEdI7nOPzOYG5VP2IvlwVuYTw0zC8qQ-2FObyfi4V3-2FOOoYdClzKS-2FGUxl8WoMaqxUGunmJzEkVW-2BZUbHoHCCr8FCXNozA3pmbSMGWIkfR93jEUF-2Fg-2FPoiVBHMYB-2BlcUeE3FglDPKW9WoeKmRsSWY9XJo-2FpY4loFluD-2BuZmbUEUEacaAOXDeJx-2FQQ-3D\" alt=\"\" width=\"1\" height=\"1\" border=\"0\" style=\"height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;\"/>",
+   "source": "https://u7458184.ct.sendgrid.net/wf/open?upn=nYco0BnI0QJcDHaF7DyuXxFqn9c-2BIlsqF1c7xdAUl67eLiOrnA1yeIQ3peBxk9tRndqnNtds3Wv6RL6q617sXrNVN9PCnYi0zdl8CM2aCYoBVPEjgRzYwEdI7nOPzOYG5VP2IvlwVuYTw0zC8qQ-2FObyfi4V3-2FOOoYdClzKS-2FGUxl8WoMaqxUGunmJzEkVW-2BZUbHoHCCr8FCXNozA3pmbSMGWIkfR93jEUF-2Fg-2FPoiVBHMYB-2BlcUeE3FglDPKW9WoeKmRsSWY9XJo-2FpY4loFluD-2BuZmbUEUEacaAOXDeJx-2FQQ-3D"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://www.getrevue.co/profile/InboxReads",
+   "tag": "<a style=\"color: #3794ee; text-decoration: none;\" href=\"https://www.getrevue.co/profile/InboxReads\"><img style=\"width: 56px; height: 56px; border: 0;\" alt=\"InboxReads\" src=\"https://s3.amazonaws.com/revue/profiles/images/000/029/454/small/ppblue.png?1522307327\" />\r\r\n</a>"
+  },
+  {
+   "link": "https://www.getrevue.co/profile/InboxReads/subscribe?confirmation_token=m3Tncjc-xIkaIDxEO23rHg",
+   "tag": "<a href=\"https://www.getrevue.co/profile/InboxReads/subscribe?confirmation_token=m3Tncjc-xIkaIDxEO23rHg\"\r\r\nstyle=\"background-color:#2851b8;border-radius:50px;color:#ffffff;display:inline-block;font-family: 'lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;font-weight: bold;line-height:40px;text-align:center;text-decoration:none;width:270px;-webkit-text-size-adjust:none;\">Confirm subscription now</a>"
+  },
+  {
+   "link": "https://twitter.com/intent/tweet?text=Just+started+reading+%E2%80%98InboxReads%E2%80%99.+A+newsletter+by+%40inboxreads.&amp;url=https%3A%2F%2Fwww.getrevue.co%2Fprofile%2FInboxReads&amp;related=revue",
+   "tag": "<a style=\"color: #55ACEE;\" target=\"_blank\" href=\"https://twitter.com/intent/tweet?text=Just+started+reading+%E2%80%98InboxReads%E2%80%99.+A+newsletter+by+%40inboxreads.&amp;url=https%3A%2F%2Fwww.getrevue.co%2Fprofile%2FInboxReads&amp;related=revue\">Invite via Twitter</a>"
+  },
+  {
+   "link": "http://www.facebook.com/sharer/sharer.php?u=https://www.getrevue.co/profile/InboxReads",
+   "tag": "<a style=\"color: #3B5998;\" target=\"_blank\" href=\"http://www.facebook.com/sharer/sharer.php?u=https://www.getrevue.co/profile/InboxReads\">Invite via Facebook</a>"
+  },
+  {
+   "link": "https://www.getrevue.co/terms",
+   "tag": "<a locale=\"en\" href=\"https://www.getrevue.co/terms\">Terms of Service</a>"
+  },
+  {
+   "link": "https://www.getrevue.co/privacy",
+   "tag": "<a locale=\"en\" href=\"https://www.getrevue.co/privacy\">Privacy Policy</a>"
+  },
+  {
+   "link": "https://www.getrevue.co/",
+   "tag": "<a style=\"border: 0;\" href=\"https://www.getrevue.co/\"><img alt=\"Revue\" width=\"70\" height=\"28\" style=\"vertical-align: middle;\" src=\"https://www.getrevue.co/assets/email/revue_gray-54a81f447b762097eb0391c60c3dcf85e8eccf9969b1de904271c9cb6373fa06.png\" />\r\r\n</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "Confirm subscription now",
+  "link": "<a href=\"https://www.getrevue.co/profile/InboxReads/subscribe?confirmation_token=m3Tncjc-xIkaIDxEO23rHg\"\r\r\nstyle=\"background-color:#2851b8;border-radius:50px;color:#ffffff;display:inline-block;font-family: 'lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;font-weight: bold;line-height:40px;text-align:center;text-decoration:none;width:270px;-webkit-text-size-adjust:none;\">Confirm subscription now</a>"
+ }
+}

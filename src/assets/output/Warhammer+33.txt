@@ -1,0 +1,67 @@
+{
+ "origin": "Warhammer+33",
+ "images": [
+  {
+   "image": "<img width=\"1\" height=\"1\" src=\"https://gridinbound.blob.core.windows.net/gic/g.png?h=9b3436aa059445228877fbe6fc7d3e91\" style=\"display:none; margin:0; padding:0; visibility:hidden; overflow:hidden; max-height:0;width:0px;height:0px;font-size:0;color:#FFFFFF;mso-hide:all;float: left;line-height:0;\" alt=\"\">",
+   "source": "https://gridinbound.blob.core.windows.net/gic/g.png?h=9b3436aa059445228877fbe6fc7d3e91"
+  },
+  {
+   "image": "<img width=\"1\" height=\"1\" src=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vNJbsNAbg5wqaJw9Kxe6eabIg9qQFJWrPlQbIgT8I55NEbvVruLM6p8dtsGQ6jBxDXqFEHLsyfJ19UvC9MCKEHGwbqwKZu8U%2Buxy\" style=\"display:none; margin:0; padding:0; visibility:hidden; overflow:hidden; max-height:0;width:0px;height:0px;font-size:0;color:#FFFFFF;mso-hide:all;float: left;line-height:0;\" alt=\"\">",
+   "source": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vNJbsNAbg5wqaJw9Kxe6eabIg9qQFJWrPlQbIgT8I55NEbvVruLM6p8dtsGQ6jBxDXqFEHLsyfJ19UvC9MCKEHGwbqwKZu8U%2Buxy"
+  },
+  {
+   "image": "<img alt=\"Warhammer\"  src=\"https://news.warhammer.com/images/SMC/Template%20Images/WarhammerPlus.png\"  style=\"width:100%;\"  />",
+   "source": "https://news.warhammer.com/images/SMC/Template%20Images/WarhammerPlus.png"
+  },
+  {
+   "image": "<img id=\"OWATemporaryImageDivContainer1\"  src=\"https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-WHplus-Preview.jpg\"  alt=\"Preview Plus\"  border=\"0\"  width=\"100%\"  style=\"width:100%\" />",
+   "source": "https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-WHplus-Preview.jpg"
+  },
+  {
+   "image": "<img id=\"OWATemporaryImageDivContainer1\"  src=\"https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-GW-Preview.jpg\"  alt=\"Preview\"  border=\"0\"  width=\"100%\"  style=\"width:100%\" />",
+   "source": "https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-GW-Preview.jpg"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qUn0BTg9ThYEAwst_m02n4UxFeIyDx7tcP284CcEeYzN_h0kXk3Tp7jfzp5EeoVcXYoUDKdRMqJF9pisG7Y%2BBibxa",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qUn0BTg9ThYEAwst_m02n4UxFeIyDx7tcP284CcEeYzN_h0kXk3Tp7jfzp5EeoVcXYoUDKdRMqJF9pisG7Y%2BBibxa\"  style=\"text-decoration:none;color:#FFFFFF;\"  target=\"_blank\" >View in Browser </a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qzx1tQgfqJhfOn3_OOtKvGjPn5e8nhbtUCPcyVsXNFnN%2BI423wHEYeHebhoNNoAWZbPGgHenjTtQiZ33rq8RAbe%2B_",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qzx1tQgfqJhfOn3_OOtKvGjPn5e8nhbtUCPcyVsXNFnN%2BI423wHEYeHebhoNNoAWZbPGgHenjTtQiZ33rq8RAbe%2B_\"  target=\"_blank\" ><img alt=\"Warhammer\"  src=\"https://news.warhammer.com/images/SMC/Template%20Images/WarhammerPlus.png\"  style=\"width:100%;\"  /> </a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3u46dyfwV8jU532VLBPxl1m0feV8RrWkQh8JeENCziXUh_tqmmvTtyHOSuC6dhAzdQKnUAngB80gZZJZH%2Ba2tqzrV9",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3u46dyfwV8jU532VLBPxl1m0feV8RrWkQh8JeENCziXUh_tqmmvTtyHOSuC6dhAzdQKnUAngB80gZZJZH%2Ba2tqzrV9\"  rel=\"noopener noreferrer\"  target=\"_blank\"  style=\"text-decoration:none\" ><img id=\"OWATemporaryImageDivContainer1\"  src=\"https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-WHplus-Preview.jpg\"  alt=\"Preview Plus\"  border=\"0\"  width=\"100%\"  style=\"width:100%\" /></a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3u46dyfwV8jU532VLBPxl1m0feV8RrWkQh8JeENCziXUh_tqmmvTtyHOSuC6dhAzdQKnUAngB80gZZJZH%2Ba2tqzrV9",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3u46dyfwV8jU532VLBPxl1m0feV8RrWkQh8JeENCziXUh_tqmmvTtyHOSuC6dhAzdQKnUAngB80gZZJZH%2Ba2tqzrV9\"  style=\"text-decoration:none;color:#0000aa;\"  target=\"_blank\" >Find Out More </a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qghjGCGv0eZQp0KreBJMnB39qU%2B2z2gdxw4KHD2gg9Ih%2B_%2BFRXqTqk%2BQtWFNrqxbY7P30jmB3RtEql2yi8byja1Vm",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qghjGCGv0eZQp0KreBJMnB39qU%2B2z2gdxw4KHD2gg9Ih%2B_%2BFRXqTqk%2BQtWFNrqxbY7P30jmB3RtEql2yi8byja1Vm\"  rel=\"noopener noreferrer\"  target=\"_blank\"  style=\"text-decoration:none\" ><img id=\"OWATemporaryImageDivContainer1\"  src=\"https://news.warhammer.com/images/SMC/Campaigns/2022/April/WHP%2017th%20April/GW-NL-2022-04-17-GW-Preview.jpg\"  alt=\"Preview\"  border=\"0\"  width=\"100%\"  style=\"width:100%\" /></a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qghjGCGv0eZQp0KreBJMnB39qU%2B2z2gdxw4KHD2gg9Ih%2B_%2BFRXqTqk%2BQtWFNrqxbY7P30jmB3RtEql2yi8byja1Vm",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3qghjGCGv0eZQp0KreBJMnB39qU%2B2z2gdxw4KHD2gg9Ih%2B_%2BFRXqTqk%2BQtWFNrqxbY7P30jmB3RtEql2yi8byja1Vm\"  style=\"text-decoration:none;color:#0000aa;\"  target=\"_blank\" >Read the Article</a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3tfI%2BuRsKpf0OE_pOGMcvbLs9lV7sgtxZKNE_jtxFR24N%2Bsu44pWIdLvDScL%2B8NQKVRirOcDP17uQ99VmiDkarvhFu",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3tfI%2BuRsKpf0OE_pOGMcvbLs9lV7sgtxZKNE_jtxFR24N%2Bsu44pWIdLvDScL%2B8NQKVRirOcDP17uQ99VmiDkarvhFu\"  style=\"text-decoration:underline;color:#ffffff;\"  target=\"_blank\" >Copyright and legal information</a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vwQwkMlJCT8tg82A3zbAKaOJpt_XBviKA1uYjGhWXm%2BN_v29kpQ33JDo%2BTZKWBDzNRSDfvsGb6cVZwgARr85N2gNS",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vwQwkMlJCT8tg82A3zbAKaOJpt_XBviKA1uYjGhWXm%2BN_v29kpQ33JDo%2BTZKWBDzNRSDfvsGb6cVZwgARr85N2gNS\"  style=\"text-decoration:underline;color:#efefef;\" >update your preferences</a>"
+  },
+  {
+   "link": "https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vwQwkMlJCT8tg82A3zbAKaOJpt_XBviKA1uYjGhWXm%2BN_v29kpQ33JDo%2BTZKWBDzNRSDfvsGb6cVZwgARr85N2gNS",
+   "tag": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vwQwkMlJCT8tg82A3zbAKaOJpt_XBviKA1uYjGhWXm%2BN_v29kpQ33JDo%2BTZKWBDzNRSDfvsGb6cVZwgARr85N2gNS\"  style=\"text-decoration:underline;color:#efefef;\" >unsubscribe</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "unsubscribe",
+  "link": "<a href=\"https://news.warhammer.com/optiext/optiextension.dll?ID=3vu3vwQwkMlJCT8tg82A3zbAKaOJpt_XBviKA1uYjGhWXm%2BN_v29kpQ33JDo%2BTZKWBDzNRSDfvsGb6cVZwgARr85N2gNS\"  style=\"text-decoration:underline;color:#efefef;\" >unsubscribe</a>"
+ }
+}

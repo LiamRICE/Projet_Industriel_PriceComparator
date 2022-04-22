@@ -1,0 +1,121 @@
+{
+ "origin": "Adobe Creative Cloud92",
+ "images": [
+  {
+   "image": "<img alt=\"\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_EN_Adobe_Live_Icon.png\" width=\"30\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block; vertical-align:top;\"/>",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_EN_Adobe_Live_Icon.png"
+  },
+  {
+   "image": "<img alt=\"\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_EN_Adobe_Live_text.png\" width=\"108\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block; vertical-align:top;\"/>",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_EN_Adobe_Live_text.png"
+  },
+  {
+   "image": "<img src=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_Generic_FR_2x.png\" width=\"600\" valign=\"top\" style=\"background:#212121; width: 100%;\"/>",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_Generic_FR_2x.png"
+  },
+  {
+   "image": "<img class=\"mobile-image\" \r\n                alt=\"Adobe Live | Design d'interface utilisateur et prototypage avec Basti UI | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>",
+   "source": "https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg"
+  },
+  {
+   "image": "<img class=\"mobile-image\" \r\n                alt=\"Ask A Pro | Interactivité dans Adobe XD avec Franck Payen | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>",
+   "source": "https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg"
+  },
+  {
+   "image": "<img class=\"mobile-image\" \r\n                alt=\"Ask A Pro | Assets pour les livestreams dans Adobe XD avec Franck Payen | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>",
+   "source": "https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg"
+  },
+  {
+   "image": "<img class=\"mobile-image\" \r\n                alt=\"Adobe Live\"\r\n                 src=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png\"\r\n        srcset=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png 621w,\r\n        https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png"
+  },
+  {
+   "image": "<img class=\"mobile-image\" \r\n                alt=\"Creativity for all.\"\r\n                 src=\"http://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg\" \r\n        srcset=\"http://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.800x60.jpg 621w,\r\n        http://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"600\" height=\"30\"\r\n        border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>",
+   "source": "http://landing.adobe.com/dam/2020/images/ctir-10633e.en.cc-jun-2020-paid-em.1200x60.jpg"
+  },
+  {
+   "image": "<img alt=\"Adobe\" src=\"http://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png\" width=\"30\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#FA0F00; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:12px; line-height:18px; display:block; vertical-align:top;\"/>",
+   "source": "http://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://t-trg.email.adobe.com/r/?id=h828f6d7,8ef52cc8,1'/>"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://adobe.demdex.net/event?c_syncplacement=email&d_cid=813%01ED9E1D58623CBB6D0A495FED'/>"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a0&p1=ZFN4FGTB&s=H-5z7K-DZjOoF5z8EIbwta4oSMmexQxhK5_b6rwjTDI",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a0&p1=ZFN4FGTB&s=H-5z7K-DZjOoF5z8EIbwta4oSMmexQxhK5_b6rwjTDI\" target=\"_blank\" style=\"display:block; vertical-align: middle; text-align: center; text-decoration: none; color: #545454; height: 100%; padding: 8px 15px;\"> Accéder à Adobe Live </a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a1&p1=www.behance.net/live/videos/15347/Adobe-Live-Design-d-interface-utilisateur-et-prototypage-avec-Basti-UI-Adobe-France&p2=CD922L3N&s=fwloaMZoBkwyWdGIdzDXau4XAz_nbItQFOSmGBTQgik",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a1&p1=www.behance.net/live/videos/15347/Adobe-Live-Design-d-interface-utilisateur-et-prototypage-avec-Basti-UI-Adobe-France&p2=CD922L3N&s=fwloaMZoBkwyWdGIdzDXau4XAz_nbItQFOSmGBTQgik\" target=\"_blank\" style=\"color:#ffffff;\"><img class=\"mobile-image\" \r\n                alt=\"Adobe Live | Design d'interface utilisateur et prototypage avec Basti UI | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/JbF7T2YD5Cs/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/>\r\n    </a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a2&p1=www.behance.net/live/videos/15347/Adobe-Live-Design-d-interface-utilisateur-et-prototypage-avec-Basti-UI-Adobe-France&p2=CD922L3N&s=izEed-Z79hGXryGPsT7iirJhCDX8z4to2fik_WEux2w",
+   "tag": "<a style=\"text-decoration: none; color: #1473E6;\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a2&p1=www.behance.net/live/videos/15347/Adobe-Live-Design-d-interface-utilisateur-et-prototypage-avec-Basti-UI-Adobe-France&p2=CD922L3N&s=izEed-Z79hGXryGPsT7iirJhCDX8z4to2fik_WEux2w\">Adobe Live | Design d'interface utilisateur et prototypage avec Basti UI | Adobe France</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a3&p1=www.behance.net/live/videos/14799/Ask-A-Pro-Interactivit-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CJ132GCM&s=Kyo5Miksrh0q6yATUdXyFqx80W97jHNZVRkDJS8hRW0",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a3&p1=www.behance.net/live/videos/14799/Ask-A-Pro-Interactivit-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CJ132GCM&s=Kyo5Miksrh0q6yATUdXyFqx80W97jHNZVRkDJS8hRW0\" target=\"_blank\" style=\"color:#ffffff;\"><img class=\"mobile-image\" \r\n                alt=\"Ask A Pro | Interactivité dans Adobe XD avec Franck Payen | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/iIsxLP399xQ/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a4&p1=www.behance.net/live/videos/14799/Ask-A-Pro-Interactivit-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CJ132GCM&s=Y4OhB-8G76uHzHCtuA-_BGTSZhjW4bvqNsYF59JBPoQ",
+   "tag": "<a style=\"text-decoration: none; color: #1473E6;\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a4&p1=www.behance.net/live/videos/14799/Ask-A-Pro-Interactivit-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CJ132GCM&s=Y4OhB-8G76uHzHCtuA-_BGTSZhjW4bvqNsYF59JBPoQ\">Ask A Pro | Interactivité dans Adobe XD avec Franck Payen | Adobe France</td>\r\n         </tr>\r\n       \r\n       \r\n            </table>\r\n            <!-- END pod2 -->  \r\n      \r\n  \r\n  \r\n        <!-- pod3 -->\r\n            <table class=\"email-width\" align=\"center\" width=\"500\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:500px; background-color:#ffffff;\">\r\n       \r\n             <tr>\r\n              <td style=\"color:#505050; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:18px; line-height:26px; padding-bottom:24px;\"></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a5&p1=www.behance.net/live/videos/14367/Ask-A-Pro-Assets-pour-les-livestreams-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CMR42BML&s=tEjQdpfHpDoclYJq3LSohERA8cXPsrYZie2CgTctaLg",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a5&p1=www.behance.net/live/videos/14367/Ask-A-Pro-Assets-pour-les-livestreams-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CMR42BML&s=tEjQdpfHpDoclYJq3LSohERA8cXPsrYZie2CgTctaLg\" target=\"_blank\" style=\"color:#ffffff;\"><img class=\"mobile-image\" \r\n                alt=\"Ask A Pro | Assets pour les livestreams dans Adobe XD avec Franck Payen | Adobe France\"\r\n                 src=\"https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg\"\r\n        srcset=\"https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg 621w,\r\n        https://i.ytimg.com/vi/C1S7INBQMmg/maxresdefault.jpg 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a6&p1=www.behance.net/live/videos/14367/Ask-A-Pro-Assets-pour-les-livestreams-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CMR42BML&s=en8UnN-U0Uihy-15lKA4QUuXgE45eR8rLBNX6qn_sOY",
+   "tag": "<a style=\"text-decoration: none; color: #1473E6;\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a6&p1=www.behance.net/live/videos/14367/Ask-A-Pro-Assets-pour-les-livestreams-dans-Adobe-XD-avec-Franck-Payen-Adobe-France&p2=CMR42BML&s=en8UnN-U0Uihy-15lKA4QUuXgE45eR8rLBNX6qn_sOY\">Ask A Pro | Assets pour les livestreams dans Adobe XD avec Franck Payen | Adobe France</td>\r\n         </tr>\r\n       \r\n            </table>\r\n            <!-- END pod3 --> \r\n  \r\n\r\n \r\n\r\n\r\n             <!-- pod4 -->\r\n            <table class=\"email-width\" align=\"center\" width=\"500\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:500px; background-color:#ffffff;\">\r\n       <tr>\r\n        <td style=\"color:#000000; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:22px; line-height:40px; padding-top:20px;\"><strong>Disponible en replay</strong></td>\r\n         </tr>\r\n             <tr>\r\n              <td style=\"color:#505050; font-family:adobe-clean, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif; font-size:18px; line-height:26px; padding-top: 40px; padding-bottom:24px;\"></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a7&p1=Z9X3FLKC&s=X3GzhIbjgsb_eW9OIPwzn5KZZt3SWsTYaHMvuG6aY-c",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a7&p1=Z9X3FLKC&s=X3GzhIbjgsb_eW9OIPwzn5KZZt3SWsTYaHMvuG6aY-c\" target=\"_blank\" style=\"color:#ffffff;\"><img class=\"mobile-image\" \r\n                alt=\"Adobe Live\"\r\n                 src=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png\"\r\n        srcset=\"https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png 621w,\r\n        https://landing.adobe.com/content/dam/landing/uploads/2021/emea/assets/images/marquee/61a9f14c00386f3e1805698ab6adf75f_The_conversation_continues_2x.png 1200w\"\r\n        sizes=\"(max-width: 480px) 50vw\"\r\n        width=\"500\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#2A2A2A; font-family:adobe-clean, Arial, Helvetica, sans-serif; font-size:20px; line-height:24px; display:inline-block; vertical-align:top;\"/></a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a8&p1=Z9X3FLKC&s=zyg3MiOgYmx0ajvBy2p8kzGds3ZhEpsiBOb5rWE-OyM",
+   "tag": "<a style=\"text-decoration: none; color: #1473E6;\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a8&p1=Z9X3FLKC&s=zyg3MiOgYmx0ajvBy2p8kzGds3ZhEpsiBOb5rWE-OyM\" target=\"_blank\">Accéder à Discord</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a9&s=yOryrV13yev83qxViD8E-d2XQgRvh8hMbDWM33Jx3Hg",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742a9&s=yOryrV13yev83qxViD8E-d2XQgRvh8hMbDWM33Jx3Hg\" alias=\"FOOTER - Terms\" target=\"_blank\" style=\"color:#959595;\">Terms&nbsp;of&nbsp;Use</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742aa&s=nTqbf1RIcobLqzUhE9caa2YIg4VmgsQbS6uWdqjt9qg",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742aa&s=nTqbf1RIcobLqzUhE9caa2YIg4VmgsQbS6uWdqjt9qg\" alias=\"FOOTER - Privacy Policy\" target=\"_blank\" style=\"color:#959595;\">Adobe&nbsp;Privacy&nbsp;Policy</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ab&p1=%40WowJg26OIvh4lwK4kaAMWS7dYt%2BOKQ22HG3Lj1AbI%2F4%3D&p2=&loc=fr&p3=25&s=8GyVjOKiUJAusFefYw9kVwpiAI6CQiLirob84cQNWqU",
+   "tag": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ab&p1=%40WowJg26OIvh4lwK4kaAMWS7dYt%2BOKQ22HG3Lj1AbI%2F4%3D&p2=&loc=fr&p3=25&s=8GyVjOKiUJAusFefYw9kVwpiAI6CQiLirob84cQNWqU\" target=\"_blank\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">unsubscribe</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ac&s=ynSY-vz6kR7JCX9B5JWsbaAt4GP6itxX3G9wgQvmMTU",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ac&s=ynSY-vz6kR7JCX9B5JWsbaAt4GP6itxX3G9wgQvmMTU\" alias=\"FOOTER - Privacy\" target=\"_blank\" style=\"color:#a1a1a1;\">Adobe&nbsp;Privacy&nbsp;Policy</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ad&s=khihRfSw414A7hvVL5r5UeJbpUzv_9QnAgifCn8yU1A",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ad&s=khihRfSw414A7hvVL5r5UeJbpUzv_9QnAgifCn8yU1A\" alias=\"FOOTER - Add to address book\" target=\"_blank\" style=\"color:#a1a1a1;\">mail@email.adobe.com</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ae&s=GTIfC8o_OYTzgZbrTyhkjPEfOeUwF8egkrCG0CuofQU",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ae&s=GTIfC8o_OYTzgZbrTyhkjPEfOeUwF8egkrCG0CuofQU\" alias=\"FOOTER - Contact\" target=\"_blank\" style=\"color:#a1a1a1;\">online</a>"
+  },
+  {
+   "link": "https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742af&p1=%40cAWhsgtKl3atg0nY%2FsJGlZprFXyqTsZ6mYFeo3wqnMk%3D&s=b5qx1PTMq9IsiCc_pGGmWcUqMSxyzjxWkOPUyUMQcz8",
+   "tag": "<a href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742af&p1=%40cAWhsgtKl3atg0nY%2FsJGlZprFXyqTsZ6mYFeo3wqnMk%3D&s=b5qx1PTMq9IsiCc_pGGmWcUqMSxyzjxWkOPUyUMQcz8\" _label=\"Mirror Page\" _type=\"mirrorPage\" alias=\"Read online\" target=\"_blank\" style=\"color:#959595;  text-decoration: underline;\">Read online</a>"
+  },
+  {
+   "link": "https://adobeint-mid-prod7-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40cAWhsgtKl3atg0nY%2FsJGlZprFXyqTsZ6mYFeo3wqnMk%3D",
+   "tag": "<a href=\"https://adobeint-mid-prod7-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40cAWhsgtKl3atg0nY%2FsJGlZprFXyqTsZ6mYFeo3wqnMk%3D\" alias=\"Read online\" target=\"_blank\" style=\"color:#959595;\">Read online</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "unsubscribe",
+  "link": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-trg.email.adobe.com/r/?id=h828f6d7%2C8ef52cc8%2C84d742ab&p1=%40WowJg26OIvh4lwK4kaAMWS7dYt%2BOKQ22HG3Lj1AbI%2F4%3D&p2=&loc=fr&p3=25&s=8GyVjOKiUJAusFefYw9kVwpiAI6CQiLirob84cQNWqU\" target=\"_blank\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">unsubscribe</a>"
+ }
+}

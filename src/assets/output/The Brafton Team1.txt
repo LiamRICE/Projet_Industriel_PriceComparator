@@ -1,0 +1,27 @@
+{
+ "origin": "The Brafton Team1",
+ "images": [
+  {
+   "image": "<img src=\"https://content.brafton.com/trk?t=1&mid=NTkzLU1JVC00NDI6MDoxNjU1OjEzODQ0OjA6NDA2Njo5OjE1OTU6ODEzOTg5NC0zOm51bGw%3D\" width=\"1\" height=\"1\" style=\"display:none !important;\" alt=\"\" />",
+   "source": "https://content.brafton.com/trk?t=1&mid=NTkzLU1JVC00NDI6MDoxNjU1OjEzODQ0OjA6NDA2Njo5OjE1OTU6ODEzOTg5NC0zOm51bGw%3D"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD7cHHKnb4FabveQDnnDuYnPdS7EIVAlzjFq3vSJJkUgKevhaSBfZN7B7QZiptvgeGQn4OR4Q=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD7cHHKnb4FabveQDnnDuYnPdS7EIVAlzjFq3vSJJkUgKevhaSBfZN7B7QZiptvgeGQn4OR4Q=\" target=\"_blank\"\r\n><strong><span style=\"font-family: 'trebuchet ms', geneva;\">The 7 Functions of Marketing: A Field Guide (Infographic)</span></strong></a>"
+  },
+  {
+   "link": "https://go.brafton.com/UnsubscribePage.html?mkt_unsubscribe=1&amp;mkt_tok=",
+   "tag": "<a href=\r\n\"https://go.brafton.com/UnsubscribePage.html?mkt_unsubscribe=1&amp;mkt_tok=\" target=\"_blank\" class=\"mktNoTrack\"\r\n>here</a>"
+  },
+  {
+   "link": "https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD7cHHKtBlW2KykBOU7yIwjx-RY_NUxxSkSWtDRnvPfNi8ihA2tkDnpAf44t0DPJ_BeU3Qblw=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD7cHHKtBlW2KykBOU7yIwjx-RY_NUxxSkSWtDRnvPfNi8ihA2tkDnpAf44t0DPJ_BeU3Qblw=\"\r\n>unsubscribe</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "unsubscribe",
+  "link": "<a href=\r\n\"https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD7cHHKtBlW2KykBOU7yIwjx-RY_NUxxSkSWtDRnvPfNi8ihA2tkDnpAf44t0DPJ_BeU3Qblw=\"\r\n>unsubscribe</a>"
+ }
+}

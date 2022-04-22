@@ -319,7 +319,7 @@ function parse_newsletter(src, company, callback){
                     get_unsubscribe_tag(data, (tag, overflow) => {
                         unsubscribe_tag = tag;
                         if(overflow > 1){
-                            console.log("ERROR - more than one unsubscribe tag detected");
+                            console.log(`ERROR : ${company} - more than one unsubscribe tag detected`);
                         }
                         get_link_details(links, (taging) => {
                             tag_details = taging;

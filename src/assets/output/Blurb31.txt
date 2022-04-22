@@ -1,0 +1,219 @@
+{
+ "origin": "Blurb31",
+ "images": [
+  {
+   "image": "<img src=\"https://link.blurb.com/img/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/2ad9dc7a.gif\" />",
+   "source": "https://link.blurb.com/img/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/2ad9dc7a.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k2/8/6/5b68a8b3c74cc.png\" alt=\"Blurb\" width=\"73\" height=\"72\" style=\"display:block; border:0;\"  />",
+   "source": "https://media.sailthru.com/5v6/1k2/8/6/5b68a8b3c74cc.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0fe0dba47.jpg\" width=\"650\" alt=\"Blurb\" style=\"display:block; border:0;\" class=\"width340 hauto\" />",
+   "source": "https://media.sailthru.com/5uk/1k3/2/5/5c5a0fe0dba47.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0af3bc1cd.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />",
+   "source": "https://media.sailthru.com/5uk/1k3/2/5/5c5a0af3bc1cd.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0ad772396.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />",
+   "source": "https://media.sailthru.com/5uk/1k3/2/5/5c5a0ad772396.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0b0e0a72a.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />",
+   "source": "https://media.sailthru.com/5uk/1k3/2/5/5c5a0b0e0a72a.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" width=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/9/5c367178c6221.gif"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d44d3d5a5.jpg\" border=\"0\" alt=\"Facebook\" title=\"\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/m/5c47d44d3d5a5.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4e10965a.jpg\" border=\"0\" alt=\"Twitter\" title=\"\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/m/5c47d4e10965a.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4c9629a5.jpg\" border=\"0\" alt=\"Instagram\" title=\"\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/m/5c47d4c9629a5.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4d5e97c0.jpg\" border=\"0\" alt=\"Pinterest\" title=\"\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/m/5c47d4d5e97c0.jpg"
+  },
+  {
+   "image": "<img src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" height=\"1\" style=\"display:block; border:0;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  },
+  {
+   "image": "<img height=\"1\" src=\"https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png\" style=\"min-width: 700px; text-decoration: none; border: none; -ms-interpolation-mode: bicubic;\" />",
+   "source": "https://media.sailthru.com/5v6/1k3/1/8/5c34ec8e62544.png"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1Iw/6253d5c18072a053e406b6e7B18743eef",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1Iw/6253d5c18072a053e406b6e7B18743eef\" target=\"_blank\" style=\"font-family:futura, Proxima Nova, Arial, Helvetica, sans-serif; font-size:10px; line-height:20px; color:#ffffff; font-weight:normal; text-align: center;; text-transform: uppercase; text-decoration:none;\">\r\n<span style=\"text-align: center; padding:10px 20px 10px 20px; text-transform: uppercase;border: 1px solid #ffffff;font-stretch:narrower;\">\r\nBB002-SBELS\r\n</span></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B6f58e744",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B6f58e744\" target=\"_blank\">\r\n<img src=\"https://media.sailthru.com/5v6/1k2/8/6/5b68a8b3c74cc.png\" alt=\"Blurb\" width=\"73\" height=\"72\" style=\"display:block; border:0;\"  /></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7C6f58e744",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7C6f58e744\" target=\"_blank\">\r\n<div class=\"font32 paddinglr15\" style=\"font-family: futura, Proxima Nova, Arial, Helvetica, sans-serif; font-weight: 700; font-size:48px; line-height:60px; color:#ffffff; text-align:center; text-decoration: none; text-transform: uppercase; display: inline-block; font-stretch:narrower; letter-spacing: 7px; padding: 25px 50px;\">\r\nYOUR BOOK, YOUR WAY  \r\n</div> \r\n<div class=\"font11 paddinglr15\" style=\"font-family:Proxima Nova, Arial, Helvetica, sans-serif; font-size:16px; line-height:24px; color:#ffffff; font-weight: 200; text-align:center; text-decoration: none; display: inline-block; font-stretch:narrower; letter-spacing: 1px; padding:4px 100px 50px 100px;\">\r\nSometimes seeing a finished project helps you with the start or finish. See what’s possible by checking out these creations by people like you.  \r\n</div>\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7D6f58e744",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7D6f58e744\" style=\"color:#ffffff; text-decoration:none; align-items:center;\">\r\n<div class=\"font16\" style=\"color:#ffffff; display: inline-block; font-family:Proxima Nova condensed bold, Arial narrow, Helvetica condensed, sans-serif; font-weight:normal; font-size:16px; line-height:20px; background-color:#333333; text-align:center; text-transform:uppercase; padding:10px 60px; letter-spacing:1px\">\r\nMAKE A BOOK \r\n</div> \r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7E6f58e744",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vZ2V0dGluZy1zdGFydGVkP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7E6f58e744\" target=\"_blank\">\r\n<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0fe0dba47.jpg\" width=\"650\" alt=\"Blurb\" style=\"display:block; border:0;\" class=\"width340 hauto\" /></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY29va2Jvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B92872eb5",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY29va2Jvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B92872eb5\" target=\"_blank\">\r\n<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0af3bc1cd.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY29va2Jvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7C92872eb5",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY29va2Jvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7C92872eb5\" target=\"_blank\" style=\"color:#444444; text-decoration: none;\">\r\nFood & Cookbooks\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY2hpbGRyZW5zLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Bfe3f1c0d",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY2hpbGRyZW5zLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Bfe3f1c0d\" target=\"_blank\" style=\"color:#444444; text-decoration: none;\">\r\n<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0ad772396.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY2hpbGRyZW5zLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Cfe3f1c0d",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vY2hpbGRyZW5zLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Cfe3f1c0d\" target=\"_blank\" style=\"color:#444444; text-decoration: none;\">\r\nChildren's Books\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vdHJhdmVsLXBob3RvLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Bbbb95fb4",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vdHJhdmVsLXBob3RvLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Bbbb95fb4\" target=\"_blank\" style=\"color:#444444; text-decoration: none;\">\r\n<img src=\"https://media.sailthru.com/5uk/1k3/2/5/5c5a0b0e0a72a.jpg\" style=\"display:block; border:0;\" class=\"hauto\" />\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vdHJhdmVsLXBob3RvLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Cbbb95fb4",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vdHJhdmVsLXBob3RvLWJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7Cbbb95fb4\" target=\"_blank\" style=\"color:#444444; text-decoration: none;\">\r\nTravel Books\r\n</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vcHJpdmFjeT91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7B4817a337",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vcHJpdmFjeT91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7B4817a337\" style=\"color: #a7a7a7; text-decoration: none;\" target=\"_blank\">Privacy</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vcHJpY2luZz91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7Bb61de8e8",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cDovL3d3dy5ibHVyYi5jb20vcHJpY2luZz91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7Bb61de8e8\" style=\"color: #a7a7a7; text-decoration: none\" target=\"_blank\">Pricing</a>"
+  },
+  {
+   "link": "https://link.blurb.com/oc/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/4a8febc3",
+   "tag": "<a href=\"https://link.blurb.com/oc/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/4a8febc3\" style=\"color: #a7a7a7; text-decoration: none\" target=\"_blank\">Email Preference Center</a>"
+  },
+  {
+   "link": "https://link.blurb.com/oc/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/4a8febc3",
+   "tag": "<a href=\"https://link.blurb.com/oc/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/4a8febc3\" style=\"color: #a7a7a7; text-decoration: none\" target=\"_blank\">Unsubscribe</a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0JsdXJiQm9va3M_dXRtX21lZGl1bT1lbWFpbF93ZWxjb21lJnV0bV9zb3VyY2U9c2FpbHRocnU/6253d5c18072a053e406b6e7B6995771e",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0JsdXJiQm9va3M_dXRtX21lZGl1bT1lbWFpbF93ZWxjb21lJnV0bV9zb3VyY2U9c2FpbHRocnU/6253d5c18072a053e406b6e7B6995771e\"><img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d44d3d5a5.jpg\" border=\"0\" alt=\"Facebook\" title=\"\" /></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly90d2l0dGVyLmNvbS9ibHVyYmJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B24fc1655",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly90d2l0dGVyLmNvbS9ibHVyYmJvb2tzP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B24fc1655\"><img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4e10965a.jpg\" border=\"0\" alt=\"Twitter\" title=\"\" /></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2JsdXJiYm9va3MvP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B0e3f5349",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2JsdXJiYm9va3MvP3V0bV9tZWRpdW09ZW1haWxfd2VsY29tZSZ1dG1fc291cmNlPXNhaWx0aHJ1/6253d5c18072a053e406b6e7B0e3f5349\"><img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4c9629a5.jpg\" border=\"0\" alt=\"Instagram\" title=\"\" /></a>"
+  },
+  {
+   "link": "https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9ibHVyYmJvb2tzLz91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7B851299e7",
+   "tag": "<a href=\"https://link.blurb.com/click/625d1030824ff5026cc4a197/aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9ibHVyYmJvb2tzLz91dG1fbWVkaXVtPWVtYWlsX3dlbGNvbWUmdXRtX3NvdXJjZT1zYWlsdGhydQ/6253d5c18072a053e406b6e7B851299e7\"><img src=\"https://media.sailthru.com/5v6/1k3/1/m/5c47d4d5e97c0.jpg\" border=\"0\" alt=\"Pinterest\" title=\"\" /></a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "Unsubscribe",
+  "link": "<a href=\"https://link.blurb.com/oc/6253d5c18072a053e406b6e7625d1030824ff5026cc4a197/4a8febc3\" style=\"color: #a7a7a7; text-decoration: none\" target=\"_blank\">Unsubscribe</a>"
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "origin": "Zara57",
+ "images": [
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_01.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_01.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_02.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_02.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_03.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_03.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_04.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_04.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_05.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_05.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_06.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_06.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"https://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/images/footer-spotify.jpg\" width=\"640\" alt=\"\" class=\"banner\" />",
+   "source": "https://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/images/footer-spotify.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss1b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss1b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss2b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss2b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss3b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss3b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss4b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss4b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss5b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss5b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss6b.jpg\" width=\"83\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss6b.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/downloadapp.jpg\" width=\"500\" alt=\"\" class=\"banner\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/downloadapp.jpg"
+  },
+  {
+   "image": "<img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" />",
+   "source": "http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg"
+  },
+  {
+   "image": "<img src=\"https://news.zara.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXHkMX%3Dw&_ei_=ETnDXGIg0i9BFbWPDwzltfg1CwB8Xj3NzUhSXHKYbj2H0Y4oRW1M3LdPVBkLoTxX9-nNdJOXmZnLd3oZgmM8NCbBXpfwVgtsio5BF1D0YHzmL5XFmvSC7Yia7XPV.\">",
+   "source": "https://news.zara.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXHkMX%3Dw&_ei_=ETnDXGIg0i9BFbWPDwzltfg1CwB8Xj3NzUhSXHKYbj2H0Y4oRW1M3LdPVBkLoTxX9-nNdJOXmZnLd3oZgmM8NCbBXpfwVgtsio5BF1D0YHzmL5XFmvSC7Yia7XPV."
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://news.zara.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDURCT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZOKPjtqSRcZBthyB8XSZaJ3nG9TGxPGLfHTwbduRAF71EsgSfJBTaYbAOAnkqm23JkbavFlZzh6pfJTYfAu-pBk7fLmyrkRblrY764QQC8OHYtcqI.&_di_=0gt5dj6loaovkuivo8fo2j3o5mev6tihnc5i9dlb1neija6hr1g0",
+   "tag": "<a style=\"color:#999898; text-decoration:none;\" href=\"https://news.zara.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDURCT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZOKPjtqSRcZBthyB8XSZaJ3nG9TGxPGLfHTwbduRAF71EsgSfJBTaYbAOAnkqm23JkbavFlZzh6pfJTYfAu-pBk7fLmyrkRblrY764QQC8OHYtcqI.&_di_=0gt5dj6loaovkuivo8fo2j3o5mev6tihnc5i9dlb1neija6hr1g0\" rilt=\"mirror\" target=\"_blank\">             VERSION EN LIGNE\r\n</a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSRT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=c7tivl08na7ubiaph7hi9m7kg0doh3obd9gp21vg5ij4nv0g47p0",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSRT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=c7tivl08na7ubiaph7hi9m7kg0doh3obd9gp21vg5ij4nv0g47p0\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_01.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSTT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=p35rk4s5q4henujfl65tcv8l9o40bked3ntv5594s56evrq0jt3g",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSTT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=p35rk4s5q4henujfl65tcv8l9o40bked3ntv5594s56evrq0jt3g\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_02.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSWT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=ojpne81at03l9k4i0r8qacrsom0buclq09l312lj8mk5kqkcjq4g",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSWT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=ojpne81at03l9k4i0r8qacrsom0buclq09l312lj8mk5kqkcjq4g\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_03.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSAT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=k15bgdk71aur8uknf5au0kj5r02fqar6c69ekuhgfk4m305j553g",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSAT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=k15bgdk71aur8uknf5au0kj5r02fqar6c69ekuhgfk4m305j553g\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_04.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSCT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=eu0h5hisfbf6h27udd9vgktrjduf3ng2c1f9paa7rhf3ubei6ddg",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUSCT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=eu0h5hisfbf6h27udd9vgktrjduf3ng2c1f9paa7rhf3ubei6ddg\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_05.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTRT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=g1bhc79p8sabb2l7imq4rccq718mh783tqqskp1uqv7nmkka5qo0",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTRT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=g1bhc79p8sabb2l7imq4rccq718mh783tqqskp1uqv7nmkka5qo0\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/campaigns/2022/4.abril/2022_04_14_Home_Suntouch_Norte/images/img_06.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTTT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=0s4fgme67k732badjeqpeubqs4qa72o09na0ln4mf7hhdq3jku20",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTTT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=0s4fgme67k732badjeqpeubqs4qa72o09na0ln4mf7hhdq3jku20\" target=\"_blank\"> <img border=\"0\" src=\"https://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/images/footer-spotify.jpg\" width=\"640\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=vckkbiqn5vhci462f03smf594anb2d0s6j1mencfvv59o3s2cj8g",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=vckkbiqn5vhci462f03smf594anb2d0s6j1mencfvv59o3s2cj8g\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=vckkbiqn5vhci462f03smf594anb2d0s6j1mencfvv59o3s2cj8g",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=vckkbiqn5vhci462f03smf594anb2d0s6j1mencfvv59o3s2cj8g\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss1b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=s58rq95m67n968iqtcuv4lr7i1i5vtacn408n9uoa8mcj0iap7ug",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=s58rq95m67n968iqtcuv4lr7i1i5vtacn408n9uoa8mcj0iap7ug\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss2b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTCT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=m1qcop8ofm39rogd3kpb7h9piu231c5nmfparr9drv85hgkdbcj0",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUTCT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=m1qcop8ofm39rogd3kpb7h9piu231c5nmfparr9drv85hgkdbcj0\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss3b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUURT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=bsnn0dga3v7hp2i4ip917m1bh83qv8la2o4fr2k153jkl2m81qeg",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUURT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=bsnn0dga3v7hp2i4ip917m1bh83qv8la2o4fr2k153jkl2m81qeg\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss4b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUTT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=9sk51fmio01er26screv37i3m4tct0fonhg5k8k9hl2c80d05f40",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUTT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=9sk51fmio01er26screv37i3m4tct0fonhg5k8k9hl2c80d05f40\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss5b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=usbcsu84ubig3bdq1nfvqm02qbkdanbrubjtbbffe4e911afepn0",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=usbcsu84ubig3bdq1nfvqm02qbkdanbrubjtbbffe4e911afepn0\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/rrss6b.jpg\" width=\"83\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=usbcsu84ubig3bdq1nfvqm02qbkdanbrubjtbbffe4e911afepn0",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUWT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=usbcsu84ubig3bdq1nfvqm02qbkdanbrubjtbbffe4e911afepn0\" target=\"_blank\"> <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latredes142.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990\" target=\"_blank\">\r\n                        <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990\" target=\"_blank\">\r\n                                    <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/downloadapp.jpg\" width=\"500\" alt=\"\" class=\"banner\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUAT&_ei_=ESlZemGQVlmlbDG7aQ6HrmZBtQhgPYkGPEVtbHs3pkY4iRRchQf0MX3MAuQscz84Yzd9B8vuBLxmywsAtYZnvBWVKvXrlGc3deHEDlEvMmJ6Hcx3XuBC2Q-M0-zc7zb8n5762l8QTz8mMRvFRt2EyPD8TMIcuF-G1GJdZiu-b0.&_di_=2kjtcc5j0tk8ei46plmjir6qnhsg635k396cs01s3qf01l5im990\" target=\"_blank\">\r\n                        <img border=\"0\" src=\"http://static.cdn.responsys.net/i2/responsysimages/industria007/contentlibrary/content/dinamico/footers_dinamicos/images/latdownload.jpg\" width=\"71\" alt=\"\" class=\"hiddenmobile\" /> </a>"
+  },
+  {
+   "link": "https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUCT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=siqgd3k935cqsh9hui0mc2iditj1qs8r66cvihhupp9gg71h2ceg",
+   "tag": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUCT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=siqgd3k935cqsh9hui0mc2iditj1qs8r66cvihhupp9gg71h2ceg\" style=\"text-decoration: none;color: #999898\"> <u>cliquez ici</u></a>"
+  },
+  {
+   "link": "https://static.zara.net/static/pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf",
+   "tag": "<a href=\"https://static.zara.net/static/pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf\" style=\"text-decoration: none;color: #999898\"><u>Politique de confidentialité</u></a>"
+  }
+ ],
+ "unsubscription": {
+  "name": " ",
+  "link": "<a href=\"https://news.zara.com/pub/acc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzaH3yHzdzeRIgzbSzdXBRzakkY7e7zbqjYdlzgWaEXCamG2zen5NMCKzbR93zeHqzfkj7hafE6dVXtpKX%3DSWDUUCT&_ei_=ESRADZnudkkZRpcKfq5pCAj1BVmaLdXfS3274D8mqYx8f1mZQEBi0TE3UYvqQtLP4j7cPk4x0A66fESlpPJGUYfuIB4-HEyWNVkBB7vlkqZimlPrnTnIMtQOLgN4paZaJO_EgfcDG0gkjQU-sH-7SGLNKUxySh6NsabUcFHq34Cq182MkRpZMGZhZkl8L_Lue_mpwxgGsEoD.&_di_=siqgd3k935cqsh9hui0mc2iditj1qs8r66cvihhupp9gg71h2ceg\" style=\"text-decoration: none;color: #999898\"> <u>cliquez ici</u></a>"
+ }
+}

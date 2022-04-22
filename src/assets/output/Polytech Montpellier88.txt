@@ -1,0 +1,15 @@
+{
+ "origin": "Polytech Montpellier88",
+ "images": [
+  {
+   "image": "<img src=\"https://xghr1.mjt.lu/oo/EAAAAsGd_-oAAchXg3wAAN2pD9QAAYCsID4AAAAAABOixgBiU-tOIl-5CAyXTvmhHit98d7gVgAEQn0/961219d9/e.gif\" height=\"1\" width=\"1\" alt=\"\" border=\"0\" style=\"height:1px;width:1px;border:0;\"/>",
+   "source": "https://xghr1.mjt.lu/oo/EAAAAsGd_-oAAchXg3wAAN2pD9QAAYCsID4AAAAAABOixgBiU-tOIl-5CAyXTvmhHit98d7gVgAEQn0/961219d9/e.gif"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://xghr1.mjt.lu/sub4?aGw9ZnJfRlImYz14Z2hyMSZhPUgwWWcmYj1lNGY4YjU5NDliNTdhM2Q5YWUyYjc3NGU2NDdlMTc5MSZ3PUZpZiZlbWFpbD1iZW50aGFtLm1hZ25sZXJAZ21haWwuY29tJmd1aWQ9MzNlNmFjMGYtMzlhYS00NDZmLWJlZTYtYWRmYjU1ZGQ3ODUy",
+   "tag": "<a href=\"https://xghr1.mjt.lu/sub4?aGw9ZnJfRlImYz14Z2hyMSZhPUgwWWcmYj1lNGY4YjU5NDliNTdhM2Q5YWUyYjc3NGU2NDdlMTc5MSZ3PUZpZiZlbWFpbD1iZW50aGFtLm1hZ25sZXJAZ21haWwuY29tJmd1aWQ9MzNlNmFjMGYtMzlhYS00NDZmLWJlZTYtYWRmYjU1ZGQ3ODUy\" style=\"text-decoration=none;\">\r\n\r\n                <div class=\"mj-opt-in-button mj-w-btn mockup-content paint-area\" style=\"font-family: Ubuntu, Helvetica; font-size: 13px; padding: 0 25px; color: white; background-color: #39a5ee; text-align: center; display: inline-block; border-radius: 3px;\">\r\n                    <div style=\"display: table; height: 45px; width: 100%;\">\r\n                        <div style=\"display: table-cell; vertical-align: middle;\">\r\n                            <div class=\"mj-opt-in-button-content paint-area paint-area--text   Medium Medium-rich\" style=\"font-family: Ubuntu, Helvetica; display: inline-block; vertical-align: middle;\"><b class=\"medium-b\">CLIQUEZ ICI POUR CONFIRMER</b></div>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n                </a>"
+  }
+ ]
+}

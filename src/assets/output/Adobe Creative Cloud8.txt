@@ -1,0 +1,105 @@
+{
+ "origin": "Adobe Creative Cloud8",
+ "images": [
+  {
+   "image": "<img alt=\"Premiere Pro\" src=\"https://landing.adobe.com/dam/global/images/premiere-pro-cc.mnemonic.240x234.png\" width=\"30\" height=\"30\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/dam/global/images/premiere-pro-cc.mnemonic.240x234.png"
+  },
+  {
+   "image": "<img alt=\"Premiere Pro\" src=\"https://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=400,60&wid=400&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3B000000%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Premiere%20Pro%20\" width=\"180\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#000;font-family:adobe-clean,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-size:14px;line-height:20px;display:block;vertical-align:top\" />",
+   "source": "https://s7d9.scene7.com/is/image/AdobeDemandCreative/?fmt=png-alpha&size=400,60&wid=400&textAttr=144,strong&resolution=200&textPs=%7B%5C*%5Ciscolortbl%3B000000%3B%5Cfonttbl%7B%5Cf0%20Adobe%20Clean%20ExtraBold%3B%7D%7D%5Cf0%5Cfs40%5Csl-400%5Cvertalc%5Ckerningoptical%5Ccf1Adobe%20Premiere%20Pro%20"
+  },
+  {
+   "image": "<img class=\"mobile-image\" alt=\"Changements de couleur instantanés\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_desktop_2x.png\" srcset=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_mobile_2x.png 480w, https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_desktop_2x.png 1200w\" sizes=\"(max-width: 480px) 50vw\" width=\"600\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#FFF;font-family:adobe-clean,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-size:22px;line-height:28px;display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_desktop_2x.png"
+  },
+  {
+   "image": "<img class=\"mobile-image\" alt=\"Creativity for all.\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/background/rainbow-banner_2x.png\" srcset=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/background/rainbow-banner_1x.png 580w,https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/background/rainbow-banner_2x.png 1200w\" sizes=\"(max-width: 580px) 50vw\" width=\"600\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"line-height:30px;display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/background/rainbow-banner_2x.png"
+  },
+  {
+   "image": "<img class=\"padb-50\" alt=\"Adobe\" src=\"https://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png\" width=\"30\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#EB1000;font-family:adobe-clean,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-size:12px;line-height:18px;display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png"
+  },
+  {
+   "image": "<img alt=\"Facebook\" src=\"https://landing.adobe.com/dam/global/images/social/facebook.959595.png\" width=\"9\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/dam/global/images/social/facebook.959595.png"
+  },
+  {
+   "image": "<img alt=\"Instagram\" src=\"https://landing.adobe.com/dam/global/images/social/instagram.959595.png\" width=\"17\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/dam/global/images/social/instagram.959595.png"
+  },
+  {
+   "image": "<img alt=\"Twitter\" src=\"https://landing.adobe.com/dam/global/images/social/twitter.959595.png\" width=\"21\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" />",
+   "source": "https://landing.adobe.com/dam/global/images/social/twitter.959595.png"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://t-info.mail.adobe.com/r/?id=hf9878d0b,f5bf58e9,1'/>"
+  },
+  {
+   "image": "<img height='0' width='0' alt='' src='https://adobe.demdex.net/event?c_syncplacement=email&d_cid=813%01ED9E1D58623CBB6D0A495FED'/>"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1a&p1=Z9X3FL1D&s=lhNCleoaZd7jlpy1bGCFoPdWUpPZ5Ef6osY72ruolbM",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1a&p1=Z9X3FL1D&s=lhNCleoaZd7jlpy1bGCFoPdWUpPZ5Ef6osY72ruolbM\" target=\"_blank\" style=\"color:#fff;line-height:40px\"><div class=\"mktoText\" id=\"ADO10871-e\" style=\"font-family:adobe-clean,Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;background-color:#1473e6;border-radius:50px;width:180px;text-align:center;color:#fff;line-height:40px\"><strong>En savoir plus</strong></div></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1b&p1=ZKD5FBKB&s=EZhU1eT4iFo-joue1AMbFeMhiDpwJ2-UyaawP5yPWmE",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1b&p1=ZKD5FBKB&s=EZhU1eT4iFo-joue1AMbFeMhiDpwJ2-UyaawP5yPWmE\" target=\"_blank\" style=\"display:block;vertical-align:middle;text-decoration:none;color:#1473E6;height:100%\"><strong>S'abonner</strong></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1c&p1=Z9X3FL1D&s=jeWDyk9pshjl5KAhYNzBqopqBKjNj2WeSx2Ux85th88",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1c&p1=Z9X3FL1D&s=jeWDyk9pshjl5KAhYNzBqopqBKjNj2WeSx2Ux85th88\" target=\"_blank\"><img class=\"mobile-image\" alt=\"Changements de couleur instantanés\" src=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_desktop_2x.png\" srcset=\"https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_mobile_2x.png 480w, https://landing.adobe.com/content/dam/landing/uploads/2022/emea/assets/images/marquee/6222468a000787921f58efe2dcc81b69_EN_EM3_desktop_2x.png 1200w\" sizes=\"(max-width: 480px) 50vw\" width=\"600\" height=\"auto\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"color:#FFF;font-family:adobe-clean,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-size:22px;line-height:28px;display:block;vertical-align:top\" /></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1d&p1=ZSV7F338&s=IX-gFC-9ATfOxRZgwRdQAWP6IFAEK8W7Rs6fhT3-GUA",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1d&p1=ZSV7F338&s=IX-gFC-9ATfOxRZgwRdQAWP6IFAEK8W7Rs6fhT3-GUA\" target=\"_blank\" style=\"display:block;vertical-align:middle;text-decoration:none;color:#1473E6;height:100%\"><strong>Télécharger</strong></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1e&s=v1ijMLmcaBT6ZQcIncNVgMlG7TbiHef9jOlB9LlrNhg",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1e&s=v1ijMLmcaBT6ZQcIncNVgMlG7TbiHef9jOlB9LlrNhg\" alias=\"Facebook\" target=\"_blank\"><img alt=\"Facebook\" src=\"https://landing.adobe.com/dam/global/images/social/facebook.959595.png\" width=\"9\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" /></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1f&s=K69LCh60CA3bS6B_2EotzmsuU0mEcry_pmDO7M-6aqo",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee1f&s=K69LCh60CA3bS6B_2EotzmsuU0mEcry_pmDO7M-6aqo\" alias=\"Instagram\" target=\"_blank\"><img alt=\"Instagram\" src=\"https://landing.adobe.com/dam/global/images/social/instagram.959595.png\" width=\"17\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" /></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee20&s=r13s6UjtKMQ3diZc_X-OJqYLob2WcI3E3BybPiv-qs4",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee20&s=r13s6UjtKMQ3diZc_X-OJqYLob2WcI3E3BybPiv-qs4\" alias=\"Twitter\" target=\"_blank\"><img alt=\"Twitter\" src=\"https://landing.adobe.com/dam/global/images/social/twitter.959595.png\" width=\"21\" height=\"17\" border=\"0\" hspace=\"0\" vspace=\"0\" style=\"display:block;vertical-align:top\" /></a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee21&s=0OwRMmf7CFShc9S02G5YNqVIH9Ur7Y_C4jaQZbGqfVs",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee21&s=0OwRMmf7CFShc9S02G5YNqVIH9Ur7Y_C4jaQZbGqfVs\" alias=\"FOOTER - Terms\" target=\"_blank\" style=\"color:#959595; text-decoration: underline;\">Conditions d’utilisation</a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee22&s=196f_K5rjSyXAzMeI9FQwt7TJKsQj4cn2ELRHqTbVKg",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee22&s=196f_K5rjSyXAzMeI9FQwt7TJKsQj4cn2ELRHqTbVKg\" alias=\"FOOTER - Privacy Policy\" target=\"_blank\" style=\"color:#959595; text-decoration: underline;\">Politique de confidentialité d’Adobe</a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee23&p1=%40H%2BLlhskVBeE1fXhq01bgayTnhe9ogaEtuH0DyHcQuS8%3D&p2=&loc=fr&p3=25&s=oKRVqtSqcUzv0DvfCe6UQhkyUf1sMMUeGTfpjdWOYyQ",
+   "tag": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee23&p1=%40H%2BLlhskVBeE1fXhq01bgayTnhe9ogaEtuH0DyHcQuS8%3D&p2=&loc=fr&p3=25&s=oKRVqtSqcUzv0DvfCe6UQhkyUf1sMMUeGTfpjdWOYyQ\" target=\"_blank\" class=\"opt_out\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">désabonner</A>  ou envoyez une demande de désabonnement à l’adresse postale ci-dessus. Veuillez consulter la </a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee24&s=4tEAVEhLITN_0ZDR-nhPSH3zCghJ-5xxnoCJ8kcVsIo",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee24&s=4tEAVEhLITN_0ZDR-nhPSH3zCghJ-5xxnoCJ8kcVsIo\" alias=\"FOOTER - Privacy\" target=\"_blank\" style=\"color:#959595; text-decoration: underline;\">Politique de confidentialité d’Adobe</a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee25&s=JOVpTvZshxqbFoFSPIye6OxkzPtpa380MIrC8rePX4Y",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee25&s=JOVpTvZshxqbFoFSPIye6OxkzPtpa380MIrC8rePX4Y\" alias=\"FOOTER - Add to address book\" target=\"_blank\" style=\"color:#959595; text-decoration: underline;\">mail@mail.adobe.com</a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee26&s=ONwSfPAh8DFhIEhYw2a2GAkGToZeFt4oELDW0rAm3a4",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee26&s=ONwSfPAh8DFhIEhYw2a2GAkGToZeFt4oELDW0rAm3a4\" alias=\"FOOTER - Contact\" target=\"_blank\" style=\"color:#959595; text-decoration: underline;\">en&nbsp;ligne</a>"
+  },
+  {
+   "link": "https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee27&p1=%40TmlbMmz520L2uHzPMbdItUmYt28xPI6xiH7PuEoG4J0%3D&s=DQum6r-omXmdHGFBj0SHwZxXe-8w3RBXCWwuQ6BWqRc",
+   "tag": "<a href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee27&p1=%40TmlbMmz520L2uHzPMbdItUmYt28xPI6xiH7PuEoG4J0%3D&s=DQum6r-omXmdHGFBj0SHwZxXe-8w3RBXCWwuQ6BWqRc\" _label=\"Mirror Page\" _type=\"mirrorPage\" alias=\"Read online\" target=\"_blank\" style=\"color:#959595;text-decoration:underline\">À lire en ligne</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "désabonner",
+  "link": "<a style=\"TEXT-DECORATION: underline; COLOR: #a1a1a1\" href=\"https://t-info.mail.adobe.com/r/?id=hf9878d0b%2Cf5bf58e9%2Cbd9eee23&p1=%40H%2BLlhskVBeE1fXhq01bgayTnhe9ogaEtuH0DyHcQuS8%3D&p2=&loc=fr&p3=25&s=oKRVqtSqcUzv0DvfCe6UQhkyUf1sMMUeGTfpjdWOYyQ\" target=\"_blank\" class=\"opt_out\" alias=\"Unsubscribe\" _type=\"optout\" _label=\"Opt-out link\">désabonner</A>  ou envoyez une demande de désabonnement à l’adresse postale ci-dessus. Veuillez consulter la </a>"
+ }
+}

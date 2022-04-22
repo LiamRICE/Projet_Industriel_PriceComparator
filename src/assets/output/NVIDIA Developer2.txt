@@ -1,0 +1,395 @@
+{
+ "origin": "NVIDIA Developer2",
+ "images": [
+  {
+   "image": "<img alt=\" \" src=\"http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" style=\"display: block;\" width=\"1\" height=\"1\" border=\"0\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img src=\"http://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png\" constrain=\"true\" imagepreview=\"false\" style=\"margin: 0; padding: 0; border: 0;\" width=\"109\" height=\"20\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png"
+  },
+  {
+   "image": "<img alt=\" \" src=\"http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" style=\"display: block;\" width=\"1\" height=\"1\" border=\"0\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img align=\"center\" alt=\"Developer News\" border=\"0\" class=\"em_full_img\" height=\"auto\" src=\"https://info.nvidia.com/rs/156-OFN-742/images/developer-newsletter-banner-680x100.jpg\" style=\"display: block; border: 0px; outline: none; width:100%; max-width:100%;height:auto;\" width=\"100%\">",
+   "source": "https://info.nvidia.com/rs/156-OFN-742/images/developer-newsletter-banner-680x100.jpg"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/NVIDIA-Modulus-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/NVIDIA-Modulus-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/HGX-H100-8-GPU_16x9.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/HGX-H100-8-GPU_16x9.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Networking-Overall-Image-Resize-Blog-2217951-768x432.jpg\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Networking-Overall-Image-Resize-Blog-2217951-768x432.jpg"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/jetson-multi-camera-pipeline-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/jetson-multi-camera-pipeline-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/warehouse_avoidance-c.gif\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/warehouse_avoidance-c.gif"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Scaling-AI-768x432.jpg\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Scaling-AI-768x432.jpg"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Lidar-Bluecity-768x432.jpg\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Lidar-Bluecity-768x432.jpg"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/featured_image-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/featured_image-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/FujiFilm-Dev-News-Feature-Image-1600x900-1-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/FujiFilm-Dev-News-Feature-Image-1600x900-1-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/cutensor1_16x9-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/cutensor1_16x9-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/image5-2-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/image5-2-768x432.png"
+  },
+  {
+   "image": "<img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/carbon-storage-featured-1-768x432.png\" width=\"251\" border=\"0\">",
+   "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/carbon-storage-featured-1-768x432.png"
+  },
+  {
+   "image": "<img alt=\" \" border=\"0\" height=\"1\" src=\"https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" style=\"display: block;\" width=\"1\">",
+   "source": "https://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img align=\"center\" alt=\"gtc22-spring-email-newsletter-footer-best-of-gtc-640x200-r5.jpg\" border=\"0\" class=\"em_full_img\" height=\"auto\" src=\"https://info.nvidia.com/rs/156-OFN-742/images/gtc22-spring-email-newsletter-footer-best-of-gtc-640x200-r5.jpg\" style=\"display: block; border: 0px; outline: none; width: 100%; max-width: 100%; height: auto;\" width=\"100%\">",
+   "source": "https://info.nvidia.com/rs/156-OFN-742/images/gtc22-spring-email-newsletter-footer-best-of-gtc-640x200-r5.jpg"
+  },
+  {
+   "image": "<img src=\"http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" alt=\" \" style=\"display: block;\" width=\"1\" height=\"1\" border=\"0\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png\" alt=\"Facebook\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png"
+  },
+  {
+   "image": "<img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png\" alt=\"Twitter\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png"
+  },
+  {
+   "image": "<img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png\" alt=\"YouTube\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png"
+  },
+  {
+   "image": "<img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png\" alt=\"LinkedIn\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png"
+  },
+  {
+   "image": "<img src=\"http://images.nvidia.com/content/newsletters/email/logo/icon/NVNews-Icon-Gray.png\" alt=\"NVIDIA News\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://images.nvidia.com/content/newsletters/email/logo/icon/NVNews-Icon-Gray.png"
+  },
+  {
+   "image": "<img src=\"http://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png\" alt=\"NVIDIA Blog\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\">",
+   "source": "http://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png"
+  },
+  {
+   "image": "<img src=\"http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" alt=\" \" style=\"display: block;\" width=\"1\" height=\"1\" border=\"0\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img src=\"http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif\" alt=\" \" width=\"1\" height=\"1\" border=\"0\">",
+   "source": "http://info.nvidia.com/rs/156-OFN-742/images/spacer.gif"
+  },
+  {
+   "image": "<img src=\"https://go.nvidianews.com/trk?t=1&mid=MTU2LU9GTi03NDI6MDo3Njk0OTo0MDIzODM6MTc3NTA1NDoxMDQ0NTA6OTozNzUzMzI6NDkzMzQyNzgzOmJlbnRoYW0ubWFnbmxlckBnbWFpbC5jb20%3D\" width=\"1\" height=\"1\" style=\"display:none !important;\" alt=\"\" />",
+   "source": "https://go.nvidianews.com/trk?t=1&mid=MTU2LU9GTi03NDI6MDo3Njk0OTo0MDIzODM6MTc3NTA1NDoxMDQ0NTA6OTozNzUzMzI6NDkzMzQyNzgzOmJlbnRoYW0ubWFnbmxlckBnbWFpbC5jb20%3D"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-p_hbEcuzKulfQwtaPWBWPoMVGhMnIpmNLOnw-CebQZWBobhtlknwLtGQ9_68sOP8c=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-p_hbEcuzKulfQwtaPWBWPoMVGhMnIpmNLOnw-CebQZWBobhtlknwLtGQ9_68sOP8c=\" target=\"_blank\" title=\"NVIDIA\"\r\n><img src=\"http://info.nvidia.com/rs/156-OFN-742/images/NVIDIA-Logo-3.3.png\" constrain=\"true\" imagepreview=\"false\" style=\"margin: 0; padding: 0; border: 0;\" width=\"109\" height=\"20\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLrQhO_z9UMLey1L1BxCPF3uhnLORj5JD4ZyO3xtA6CpkdHe4EAl0I7pILJAuAq48G4=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLrQhO_z9UMLey1L1BxCPF3uhnLORj5JD4ZyO3xtA6CpkdHe4EAl0I7pILJAuAq48G4=\" target=\"_blank\" style=\"color: #ffffff; text-decoration: none;\"\r\n>Top Developer Sessions from GTC 2022. Watch On-Demand &gt;</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/NVIDIA-Modulus-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Building Scientifically Accurate Digital Twins Using Modulus with Omniverse and AI</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs29TPsJqE76HUkH8SYcovLmvlzqrGY61hmqjqWvG5gPJ2hybiQ_kl15rk0HZr6jrTn8=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/HGX-H100-8-GPU_16x9.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Introducing NVIDIA HGX H100: An Accelerated Server Platform for AI and High-Performance Computing</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStApb7GYs7oJ32S2ekUaYzu7ZnZIOlS9QQpWOATq5Z7-195vCxXRoLN70qkUzqO3uNYc=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Networking-Overall-Image-Resize-Blog-2217951-768x432.jpg\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Why There is No Ideal Data Center Network Design</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStITDQjxQFCdsd2vQ7P57jzhIMMi3Vf2-eH-vWDpXSCDBmEpB9fHao3JSTpVHOdcat2I=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/jetson-multi-camera-pipeline-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Implementing Real-Time, Multi-Camera Pipelines with NVIDIA Jetson</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0ZdHcwx8JqLfuNPrTIJi55Y1Mmcfo2LSA9xABvv7YtXH9qC6V9rrvAhBZ6wqzk3S2U=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/warehouse_avoidance-c.gif\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Integrating the Nav2 Stack with NVIDIA Isaac ROS GEMs</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStAkKNx2jscAtS22To9PkThIcryDIfodT7Wbf8kjICsLVcWQOC97x9VO-lGtL2GRMWvk=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Multi-GPU Programming with Standard Parallel C++, Part 2</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs1jBrfOSutDwaGcCyiVNaacAfgXt6Obe8s2t_wd4mQG_sCph1bgiXQlwwabw4-7M3cY=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/NVIDIA-HPC-SDK-featured_16x9_2-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Multi-GPU Programming with Standard Parallel C++, Part 1</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSszPCCgFF3sJJ7JlQ2-j2xyYtUvE2R-NcEETQWx-Ipy2MduMdkzP7SZk4EaEF7BAQdws=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Scaling-AI-768x432.jpg\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Scaling AI for Financial Services with Full-Stack Solutions to Implementation Challenges</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-6jlFXCWHmQzteIirITrxxgHyiHMi7D44UqG3vVy8SJKAPF_cfYrOasoy9gH_bkRjo=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/Lidar-Bluecity-768x432.jpg\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Metropolis Spotlight: Bluecity Combines Vision AI and Lidar for Real-Time Road Safety and Traffic Congestion</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs5Szs-uPIQBuHA9Ne_cl8rhtqG62V69y5L3CtJSjJ7oPPAwYjYG8HWEH5-euMDz8CNA=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/featured_image-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Fast Fine-Tuning of AI Transformers Using RAPIDS Machine Learning</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7sOyXJQE-8P2AXoEy59-v8Wo92j68aofnpxJLRJWpCdE8YKGiclZnEdYr1CDSuEe98=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/FujiFilm-Dev-News-Feature-Image-1600x900-1-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Capture 6x Better Temporal Resolution Cardiac Imaging at any Heart Rate with Fujifilm Healthcare Cardio StillShot </span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStLEHhms4ST3uzve5lMyfmsFSl8r6NYbbn0lTy3ePUXpouGP5rEgVj_1HH2HKh4ql0yM=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/cutensor1_16x9-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Extending Block-Cyclic Tensors for Multi-GPU with NVIDIA cuTENSORMg</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs2WCK-2NAhUc_Tg2QX5slwAk18camMFbem5bQH5_408NY3u8rE6hg20VCX_6eokTj4U=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/image5-2-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Delivering Server-Class Performance at the Edge with NVIDIA Jetson Orin</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs9p9_VuqYHJYlDMEveFXyJSDjnpZElHwpx-p4e22raipPcy6fR6TmKVFjJkPP9bFcjs=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=",
+   "tag": "<a class=\"item-link\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=\"\r\n>                                 <img class=\"em_full_img\" style=\"border: currentColor; border-image: none; width: 250px; height: auto !important; text-decoration: none; vertical-align: middle; display: inline-block;\" alt=\"Blog Photo\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/carbon-storage-featured-1-768x432.png\" width=\"251\" border=\"0\">                               </a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(118, 185, 0); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=\"\r\n><span style=\"color: rgb(118, 185, 0); text-decoration: none;\">Accelerating Climate Change Mitigation with Machine Learning: The Case of Carbon Storage</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=",
+   "tag": "<a class=\"item-link\" style=\"color: rgb(255, 255, 255); text-decoration: none;\" href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0VDVt95fx9KC-ub31L20tEtAZXW-EVogwRI-vNFBxu36vJEq4Bd8o3aSs_yYx9kYCk=\" target=\"_blank\"\r\n><span style=\"color: rgb(255, 255, 255); text-decoration: none;\">READ MORE</span></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs135DAgo4qttg-J5wn4bqi6SZYPwvjpxkSZpnPF1FZuGvU3f8YFWN6Fp-QYdJUfGCYI=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs135DAgo4qttg-J5wn4bqi6SZYPwvjpxkSZpnPF1FZuGvU3f8YFWN6Fp-QYdJUfGCYI=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>AI Training on the NVIDIA Deep Learning Institute</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7KXZ46vAJbLxrK582hUa98nUo0-UAlpzB7w8OIJ8vIcnsFfUDGWZTnlV_p54EUA76Y=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs7KXZ46vAJbLxrK582hUa98nUo0-UAlpzB7w8OIJ8vIcnsFfUDGWZTnlV_p54EUA76Y=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>Join the NVIDIA Developer Program</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSswDKsapOK4QDaEFDMFIEO2eutxohaaiSao215sb4NhHLt4e_bs4iqlvVF50XsEfV_j0=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSswDKsapOK4QDaEFDMFIEO2eutxohaaiSao215sb4NhHLt4e_bs4iqlvVF50XsEfV_j0=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>Accelerate Your Workflow with NGC</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStJE6mGWqqjz3q3HvPLJre3JETQj89pwG0aXO9sPURMXw_g3ZL7sNstzGE_6Uww64-r8=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStJE6mGWqqjz3q3HvPLJre3JETQj89pwG0aXO9sPURMXw_g3ZL7sNstzGE_6Uww64-r8=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>Access AI Startup Resources Through NVIDIA Inception<br></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs66MSFfyTYaBtkg6v8_z3g78UVXhtj3SCRSJUD5b-8TQou34Jiu-f7SIUg23NdJETTw=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs66MSFfyTYaBtkg6v8_z3g78UVXhtj3SCRSJUD5b-8TQou34Jiu-f7SIUg23NdJETTw=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>Read the Latest Developer News</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStJE6mGWqqjz3q3HvPLJre3JETQj89pwG0aXO9sPURMXw_g3ZL7sNstzGE_6Uww64-r8=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStJE6mGWqqjz3q3HvPLJre3JETQj89pwG0aXO9sPURMXw_g3ZL7sNstzGE_6Uww64-r8=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n><br></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs3M_J19QmQvMdkFjNCWc8H09sNxAhG4ldkH4mrhNeOyNnJZQxd8ThM7Vu1ILvg4FMes=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs3M_J19QmQvMdkFjNCWc8H09sNxAhG4ldkH4mrhNeOyNnJZQxd8ThM7Vu1ILvg4FMes=\" target=\"_blank\" style=\"text-decoration: none; color: #76b900;\"\r\n>Technical How-To Articles &amp; Tutorials on the Developer Blog</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs4DFar9bOCm3nwt5H2FaW1pXZsJ6zjGBRNSOZ4Vp6lRBm47RHOHCAwdZT1zARpVT_j4=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs4DFar9bOCm3nwt5H2FaW1pXZsJ6zjGBRNSOZ4Vp6lRBm47RHOHCAwdZT1zARpVT_j4=\" target=\"_blank\"\r\n><img align=\"center\" alt=\"gtc22-spring-email-newsletter-footer-best-of-gtc-640x200-r5.jpg\" border=\"0\" class=\"em_full_img\" height=\"auto\" src=\"https://info.nvidia.com/rs/156-OFN-742/images/gtc22-spring-email-newsletter-footer-best-of-gtc-640x200-r5.jpg\" style=\"display: block; border: 0px; outline: none; width: 100%; max-width: 100%; height: auto;\" width=\"100%\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs6G8TbVKB1hLsiALk5duw-QecowECiWdB6oXBHVrb8bN5vNS1B3UEwPlMLeCVfYIfEc=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs6G8TbVKB1hLsiALk5duw-QecowECiWdB6oXBHVrb8bN5vNS1B3UEwPlMLeCVfYIfEc=\" target=\"_blank\"\r\n><img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-fb.png\" alt=\"Facebook\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "#",
+   "tag": "<a href=\"#\" style=\"color: #ffffff; text-decoration: none;\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-0mGTFGQhEbK3ZMgv6KLGPQpeovM6H6CrDfba4Zd_fzYmqOUfRMhn94TwN1Z8G-DyY=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs-0mGTFGQhEbK3ZMgv6KLGPQpeovM6H6CrDfba4Zd_fzYmqOUfRMhn94TwN1Z8G-DyY=\" target=\"_blank\"\r\n><img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-tw.png\" alt=\"Twitter\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "#",
+   "tag": "<a href=\"#\" style=\"color: #ffffff; text-decoration: none;\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0HnrBhSfJ11uw7G_iLmIcyHmPAD-836bBGSYNrJ87-ZA6Uco11mrDrjIoVqdjVcLcU=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs0HnrBhSfJ11uw7G_iLmIcyHmPAD-836bBGSYNrJ87-ZA6Uco11mrDrjIoVqdjVcLcU=\" target=\"_blank\"\r\n><img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-yt.png\" alt=\"YouTube\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "#",
+   "tag": "<a href=\"#\" style=\"color: #ffffff; text-decoration: none;\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStEn7acelCqth890vwcl4N0B-XXV8vmqNaaEJL-YxCJXziz6DY6sXWcqtZj8A5NSTGcc=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStEn7acelCqth890vwcl4N0B-XXV8vmqNaaEJL-YxCJXziz6DY6sXWcqtZj8A5NSTGcc=\" target=\"_blank\"\r\n><img src=\"http://info.nvidianews.com/rs/nvidia/images/nv-social_icons-gaming-li.png\" alt=\"LinkedIn\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs_xD4fjQyr0M8U6Q_m69ABeeAOuCMiHpkT5uOjv8Atf7Bf0D37aMW7m1jvEcyrzpYk8=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs_xD4fjQyr0M8U6Q_m69ABeeAOuCMiHpkT5uOjv8Atf7Bf0D37aMW7m1jvEcyrzpYk8=\" target=\"_blank\"\r\n><img src=\"http://images.nvidia.com/content/newsletters/email/logo/icon/NVNews-Icon-Gray.png\" alt=\"NVIDIA News\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs3iTDiwJaiDOFLJWiih069Zhv4ro4u-b4dKWnLiiJArCz5IYa6SvhWLYjN2pvtFlfes=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs3iTDiwJaiDOFLJWiih069Zhv4ro4u-b4dKWnLiiJArCz5IYa6SvhWLYjN2pvtFlfes=\" target=\"_blank\"\r\n><img src=\"http://images.nvidia.com/content/APAC/newsletters/icons/nvidia_blog_icon.png\" alt=\"NVIDIA Blog\" style=\"max-width: 25px;\" width=\"25\" vspace=\"0\" hspace=\"0\" border=\"0\"></a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSswJQoaPdGydlbOCqYvLkBe-kl4GrHNYeba69ZZXt-PYRrrmGnw52MEP0Ay4caQutyes=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSswJQoaPdGydlbOCqYvLkBe-kl4GrHNYeba69ZZXt-PYRrrmGnw52MEP0Ay4caQutyes=\" target=\"_blank\" style=\"font-family: 'DINPro-Regular', Helvetica, Arial, Sans-Serif; font-size: 12px; color: #999999; text-decoration: none;\"\r\n>Privacy Center</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhge-BKR_acD5iJOXmz-jvcuL4yPcmxAWPs9Ral1BDqA1dacQ9sn6rv07jzlmr4jckQPQiL3KASFzfjXNzIW3ewMFy8r-BzCrVU3OxPtR3f3ehVNOfZhtw20I4rYt-n4F9BagomE-ex-RBaS083aSh9A=/MTU2LU9GTi03NDIAAAGD7LbSs20AQp3ZM2XLUi4rf-JTemVZFCA1kctfQxSiq3yFtt7gjjY6KRegzdKm16JWkpiCgUc=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhge-BKR_acD5iJOXmz-jvcuL4yPcmxAWPs9Ral1BDqA1dacQ9sn6rv07jzlmr4jckQPQiL3KASFzfjXNzIW3ewMFy8r-BzCrVU3OxPtR3f3ehVNOfZhtw20I4rYt-n4F9BagomE-ex-RBaS083aSh9A=/MTU2LU9GTi03NDIAAAGD7LbSs20AQp3ZM2XLUi4rf-JTemVZFCA1kctfQxSiq3yFtt7gjjY6KRegzdKm16JWkpiCgUc=\" target=\"_blank\" style=\"font-family: 'DINPro-Regular', Helvetica, Arial, Sans-Serif; font-size: 12px; color: #999999; text-decoration: none;\"\r\n>Manage Preferences or Unsubscribe</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStGoTPUFb0Xn_cQ0WFPkkEp1rK4tCyQDrVCzenqkzMYfxr9Q0RMQGjN_Z0Dd65F8ntCg=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbStGoTPUFb0Xn_cQ0WFPkkEp1rK4tCyQDrVCzenqkzMYfxr9Q0RMQGjN_Z0Dd65F8ntCg=\" target=\"_blank\" style=\"color: #999999; text-decoration: none;\" system=\"\" viewaswebpagelink=\"\"\r\n>Contact Us</a>"
+  },
+  {
+   "link": "https://info.nvidia.com/index.php/email/emailWebview?mkt_tok=MTU2LU9GTi03NDIAAAGD7LbStLUdzZhbU1Un7ZP2tDrltoWNXaHcjUvO_ql_w3DmpEIK5aB5-CBl-4NCpwA7aUPS5SZr7sfB1IgXg8XKcJKQXzgjwDrIljfXfDBEDqX8oS6waw&md_id=104450",
+   "tag": "<a href=\"https://info.nvidia.com/index.php/email/emailWebview?mkt_tok=MTU2LU9GTi03NDIAAAGD7LbStLUdzZhbU1Un7ZP2tDrltoWNXaHcjUvO_ql_w3DmpEIK5aB5-CBl-4NCpwA7aUPS5SZr7sfB1IgXg8XKcJKQXzgjwDrIljfXfDBEDqX8oS6waw&md_id=104450\" target=\"_blank\" style=\"color: #999999; text-decoration: none;\" system=\"\" viewaswebpagelink=\"\">View Online</a>"
+  },
+  {
+   "link": "https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs8DDoHGdjfDzKr5N75UaXt_319iv8ivv5JeWsOfdGpE9SC-xFk1qhUyT0MoEXWTo9e4=",
+   "tag": "<a href=\r\n\"https://go.nvidianews.com/MTU2LU9GTi03NDIAAAGD7LbSs8DDoHGdjfDzKr5N75UaXt_319iv8ivv5JeWsOfdGpE9SC-xFk1qhUyT0MoEXWTo9e4=\"\r\n></a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "Manage Preferences or Unsubscribe",
+  "link": "<a href=\r\n\"https://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhge-BKR_acD5iJOXmz-jvcuL4yPcmxAWPs9Ral1BDqA1dacQ9sn6rv07jzlmr4jckQPQiL3KASFzfjXNzIW3ewMFy8r-BzCrVU3OxPtR3f3ehVNOfZhtw20I4rYt-n4F9BagomE-ex-RBaS083aSh9A=/MTU2LU9GTi03NDIAAAGD7LbSs20AQp3ZM2XLUi4rf-JTemVZFCA1kctfQxSiq3yFtt7gjjY6KRegzdKm16JWkpiCgUc=\" target=\"_blank\" style=\"font-family: 'DINPro-Regular', Helvetica, Arial, Sans-Serif; font-size: 12px; color: #999999; text-decoration: none;\"\r\n>Manage Preferences or Unsubscribe</a>"
+ }
+}

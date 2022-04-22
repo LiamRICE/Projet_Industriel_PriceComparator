@@ -1,0 +1,131 @@
+{
+ "origin": "The Content Marketer24",
+ "images": [
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2022/04/Illustration-1.jpeg\" width=\"1200\" alt=\"When To Post on TikTok (&amp; Other TikTok FAQs Answered)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2022/04/Illustration-1.jpeg"
+  },
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2021/06/Illustration.jpeg\" width=\"1200\" alt=\"Understanding the 9 Major Types of Copywriting (Infographic)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2021/06/Illustration.jpeg"
+  },
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2021/11/generic-image-1.png\" width=\"1200\" alt=\"10 Tried and True Podcast Interview Questions (Infographic)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2021/11/generic-image-1.png"
+  },
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2021/05/BR-News-Join-Our-Team.png\" alt=\"Join Our Team: Email Marketing Specialist\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;height:100%;max-width:100%;min-height:175px;outline:0;text-decoration:none;width:100%\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2021/05/BR-News-Join-Our-Team.png"
+  },
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2022/03/How-to-Create-a-Marketing-eBook-Newsletter-CTA.jpg\" width=\"1200\" alt=\"How to Create a Marketing eBook\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2022/03/How-to-Create-a-Marketing-eBook-Newsletter-CTA.jpg"
+  },
+  {
+   "image": "<img src=\"https://go.brafton.com/rs/593-MIT-442/images/reading.png\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:none;max-width:100%;outline:0;text-decoration:none;width:auto\" width=\"1200\" />",
+   "source": "https://go.brafton.com/rs/593-MIT-442/images/reading.png"
+  },
+  {
+   "image": "<img src=\"https://www.brafton.com/wp-content/uploads/2021/03/20-Sept_Brafton_Email-Newsletter-Template_Assets_Newsletter-Subscribe-CTA.png\" width=\"1200\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:100%\">",
+   "source": "https://www.brafton.com/wp-content/uploads/2021/03/20-Sept_Brafton_Email-Newsletter-Template_Assets_Newsletter-Subscribe-CTA.png"
+  },
+  {
+   "image": "<img src=\"https://go.brafton.com/rs/593-MIT-442/images/fb-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" />",
+   "source": "https://go.brafton.com/rs/593-MIT-442/images/fb-green.png"
+  },
+  {
+   "image": "<img src=\"https://go.brafton.com/rs/593-MIT-442/images/twitter-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" />",
+   "source": "https://go.brafton.com/rs/593-MIT-442/images/twitter-green.png"
+  },
+  {
+   "image": "<img src=\"https://go.brafton.com/rs/593-MIT-442/images/linkedin-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" />",
+   "source": "https://go.brafton.com/rs/593-MIT-442/images/linkedin-green.png"
+  },
+  {
+   "image": "<img src=\"https://content.brafton.com/trk?t=1&mid=NTkzLU1JVC00NDI6MDoyOTQ3OjE3MTkzOjgyMzcwOjQ5NTI6OTo1MDMwMDo4MTM5ODk0LTM6YmVudGhhbS5tYWdubGVyQGdtYWlsLmNvbQ%3D%3D\" width=\"1\" height=\"1\" style=\"display:none !important;\" alt=\"\" />",
+   "source": "https://content.brafton.com/trk?t=1&mid=NTkzLU1JVC00NDI6MDoyOTQ3OjE3MTkzOjgyMzcwOjQ5NTI6OTo1MDMwMDo4MTM5ODk0LTM6YmVudGhhbS5tYWdubGVyQGdtYWlsLmNvbQ%3D%3D"
+  }
+ ],
+ "tags": [
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9r_-BE-ECUJ25xE8wUwtbxncCql3M1Emn_2kJnA8l-mgNS0zRAW6YWH2NuSg-zbd5Q=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9r_-BE-ECUJ25xE8wUwtbxncCql3M1Emn_2kJnA8l-mgNS0zRAW6YWH2NuSg-zbd5Q=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2022/04/Illustration-1.jpeg\" width=\"1200\" alt=\"When To Post on TikTok (&amp; Other TikTok FAQs Answered)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9r_-BE-ECUJ25xE8wUwtbxncCql3M1Emn_2kJnA8l-mgNS0zRAW6YWH2NuSg-zbd5Q=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9r_-BE-ECUJ25xE8wUwtbxncCql3M1Emn_2kJnA8l-mgNS0zRAW6YWH2NuSg-zbd5Q=\" target=\"_blank\" style=\"color: #8cc040;\"\r\n>find the best time ▸</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEy96eD8xd3XVj3XfWqIijn7objR_oEUCB9gO4UHzrFXays6KKYTGPCdsBJg2O719WA=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEy96eD8xd3XVj3XfWqIijn7objR_oEUCB9gO4UHzrFXays6KKYTGPCdsBJg2O719WA=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2021/06/Illustration.jpeg\" width=\"1200\" alt=\"Understanding the 9 Major Types of Copywriting (Infographic)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEy96eD8xd3XVj3XfWqIijn7objR_oEUCB9gO4UHzrFXays6KKYTGPCdsBJg2O719WA=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEy96eD8xd3XVj3XfWqIijn7objR_oEUCB9gO4UHzrFXays6KKYTGPCdsBJg2O719WA=\" target=\"_blank\" style=\"color: #8cc040;\"\r\n>View the Infographic ▸</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAeFpLeSnjCd_MLz8Un69FrgwvuyZDkkrocPkq8boxGPbgZBhGwR3gvi2j2Eu0l9KX0=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAeFpLeSnjCd_MLz8Un69FrgwvuyZDkkrocPkq8boxGPbgZBhGwR3gvi2j2Eu0l9KX0=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2021/11/generic-image-1.png\" width=\"1200\" alt=\"10 Tried and True Podcast Interview Questions (Infographic)\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAeFpLeSnjCd_MLz8Un69FrgwvuyZDkkrocPkq8boxGPbgZBhGwR3gvi2j2Eu0l9KX0=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAeFpLeSnjCd_MLz8Un69FrgwvuyZDkkrocPkq8boxGPbgZBhGwR3gvi2j2Eu0l9KX0=\" target=\"_blank\" style=\"color: #8cc040;\"\r\n>Ask these questions ▸</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9yCkvKTXChbr6sMj7ooMTkqIBhbfqck3xUag_DVhGZQqiBOFbI5xBusdktwA08l0cE=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9yCkvKTXChbr6sMj7ooMTkqIBhbfqck3xUag_DVhGZQqiBOFbI5xBusdktwA08l0cE=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2021/05/BR-News-Join-Our-Team.png\" alt=\"Join Our Team: Email Marketing Specialist\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;height:100%;max-width:100%;min-height:175px;outline:0;text-decoration:none;width:100%\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9yCkvKTXChbr6sMj7ooMTkqIBhbfqck3xUag_DVhGZQqiBOFbI5xBusdktwA08l0cE=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH9yCkvKTXChbr6sMj7ooMTkqIBhbfqck3xUag_DVhGZQqiBOFbI5xBusdktwA08l0cE=\" target=\"_blank\" style=\"color: #8cc040;\"\r\n>Apply today ▸</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEO8vCJ7O2SGCoPyT08qzvh8SlUmqg_hxyYluGnol80JZLVfUs3QDQ1HcmjTaIABVB0=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIEO8vCJ7O2SGCoPyT08qzvh8SlUmqg_hxyYluGnol80JZLVfUs3QDQ1HcmjTaIABVB0=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2022/03/How-to-Create-a-Marketing-eBook-Newsletter-CTA.jpg\" width=\"1200\" alt=\"How to Create a Marketing eBook\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH8PfZ5dpUbfjQD_IwxBsmWJDEAidqY0hMWu9GEJLfqb9DelTiQeMlnVN8tmqPFMujAM=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH8PfZ5dpUbfjQD_IwxBsmWJDEAidqY0hMWu9GEJLfqb9DelTiQeMlnVN8tmqPFMujAM=\" target=\"_blank\" style=\"color: #344754;\"\r\n>11 Mistakes Emerging Ecommerce Brands Make and How to Avoid Them</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIKEhOGU6_G-0qzcnhWJDVC28N2ikq5vMsq6tDfi-US6ZM57_jZ5mSoHoWKJ7-rDVNmw=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIKEhOGU6_G-0qzcnhWJDVC28N2ikq5vMsq6tDfi-US6ZM57_jZ5mSoHoWKJ7-rDVNmw=\" target=\"_blank\" style=\"color: #344754;\"\r\n>Spotify’s Latest Acquisitions Expand Its Podcast Analytics and Attribution Capabilities—Here’s How the Tech Works</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaILjqFYtgQFvEmw_Nm1ClAVFPgM1SLB3niXiwV0nbAJgsSBsw2jdF4NobEXHxnpuWA1g=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaILjqFYtgQFvEmw_Nm1ClAVFPgM1SLB3niXiwV0nbAJgsSBsw2jdF4NobEXHxnpuWA1g=\" target=\"_blank\" style=\"color: #344754;\"\r\n>#ExpressYourFandom: Tips To Make Your Social Content Share-Worthy</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIGKQ0lQvsbscFXv-CZZqmC7EAwGZN2aCLxnKGkbNiA0dWqNS7_B7vyFOJTwRJDUmTQk=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIGKQ0lQvsbscFXv-CZZqmC7EAwGZN2aCLxnKGkbNiA0dWqNS7_B7vyFOJTwRJDUmTQk=\" target=\"_blank\"\r\n><img src=\"https://www.brafton.com/wp-content/uploads/2021/03/20-Sept_Brafton_Email-Newsletter-Template_Assets_Newsletter-Subscribe-CTA.png\" width=\"1200\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:100%\"></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAzrVfOCi06m0iffRMJIVrFKoSMtB-gDBwUkHAN1JOLaV3XWTHZSuoct4pu3HJD6NX4=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAzrVfOCi06m0iffRMJIVrFKoSMtB-gDBwUkHAN1JOLaV3XWTHZSuoct4pu3HJD6NX4=\" style=\"Margin:0;color:#2199e8;font-family:Trebuchet MS,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none\"\r\n><img src=\"https://go.brafton.com/rs/593-MIT-442/images/fb-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" /></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH_mTWmKFCemxkfHxr9Z9K5WPmP1cA-Iug8yVWFyJYUQ8qLzDhdGBlClwUSAcuHMZ_n0=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaH_mTWmKFCemxkfHxr9Z9K5WPmP1cA-Iug8yVWFyJYUQ8qLzDhdGBlClwUSAcuHMZ_n0=\" style=\"Margin:0;color:#2199e8;font-family:Trebuchet MS,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none\"\r\n><img src=\"https://go.brafton.com/rs/593-MIT-442/images/twitter-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" /></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIJhUWpnGsOgCddWihagWTHkiGcf36tVyFvN7AflPFCNlQKmUQWip8p_cMmkLwzQxIww=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIJhUWpnGsOgCddWihagWTHkiGcf36tVyFvN7AflPFCNlQKmUQWip8p_cMmkLwzQxIww=\" style=\"Margin:0;color:#2199e8;font-family:Trebuchet MS,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none\"\r\n><img src=\"https://go.brafton.com/rs/593-MIT-442/images/linkedin-green.png\" style=\"-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:50px;outline:0;text-decoration:none;width:auto\" /></a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIExLHRO293xLYpXAyTAmk5CZQTtaGHV1kpH80BGMu16LFp9byFLr9Vi-LGrocRpeIts=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIExLHRO293xLYpXAyTAmk5CZQTtaGHV1kpH80BGMu16LFp9byFLr9Vi-LGrocRpeIts=\" style=\"margin: 0; color: #424143; font-family: Helvetica,Arial,sans-serif; font-weight: bold; line-height: 1.3; padding: 0; text-align: left; text-decoration: none;\" target=\"_blank\"\r\n>www.brafton.com</a>"
+  },
+  {
+   "link": "https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAaxtvZpozwISwqcs-2Dt4PGJovLVGav7z4k20Q_ugZAuVyJfSon258zZIRoqOEEGNM=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/NTkzLU1JVC00NDIAAAGD36WaIAaxtvZpozwISwqcs-2Dt4PGJovLVGav7z4k20Q_ugZAuVyJfSon258zZIRoqOEEGNM=\" target=\"_blank\" style=\"color: #0a0a0a;\"\r\n>unsubscribe from this list</a>"
+  },
+  {
+   "link": "https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD36WaIHsYzMjmaL5gmNLaIOkHImoDJ2sZRTSkCeoXQpG8ZG4CRmP2L5bnunywp7XpUEtNtNk=",
+   "tag": "<a href=\r\n\"https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD36WaIHsYzMjmaL5gmNLaIOkHImoDJ2sZRTSkCeoXQpG8ZG4CRmP2L5bnunywp7XpUEtNtNk=\"\r\n>unsubscribe</a>"
+  }
+ ],
+ "unsubscription": {
+  "name": "unsubscribe",
+  "link": "<a href=\r\n\"https://content.brafton.com/u/NTkzLU1JVC00NDIAAAGD36WaIHsYzMjmaL5gmNLaIOkHImoDJ2sZRTSkCeoXQpG8ZG4CRmP2L5bnunywp7XpUEtNtNk=\"\r\n>unsubscribe</a>"
+ }
+}
