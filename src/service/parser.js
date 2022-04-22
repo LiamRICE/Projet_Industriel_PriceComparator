@@ -242,9 +242,11 @@ function get_unsubscribe_tag(data, callback){
             }
             if(count == 0){
                 data = alt_get_unsubscribe_link(data);
+                //console.log(data);
                 if(data != null){
                     for(tag in tags){
                         if(tags[tag].link == data.link){
+                            //console.log(tags[tag]);
                             selected = tags[tag];
                         }
                     }
@@ -287,8 +289,8 @@ function alt_get_unsubscribe_link(data){
     }
     let links = []
     for(line in selected_lines){
-        get_link_tags(selected_lines[line], (link) => {
-            links.push(link);
+        get_link_tags(selected_lines[line], (tags) => {
+            links.push(...tags);
         });
     }
     if(links.length != 0){
@@ -319,7 +321,7 @@ function parse_newsletter(src, company, callback){
                     get_unsubscribe_tag(data, (tag, overflow) => {
                         unsubscribe_tag = tag;
                         if(overflow > 1){
-                            console.log(`ERROR : ${company} - more than one unsubscribe tag detected`);
+                            console.log(`WARNING : ${company} - more than one unsubscribe tag detected`);
                         }
                         get_link_details(links, (taging) => {
                             tag_details = taging;

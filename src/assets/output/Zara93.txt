@@ -51,5 +51,9 @@
    "link": "https://static.zara.net/static//pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf",
    "tag": "<a href=\"https://static.zara.net/static//pdfs/FR/privacy-policy/privacy-policy-fr_FR-20210706.pdf\">Politique de confidentialité</a>"
   }
- ]
+ ],
+ "unsubscription": {
+  "name": "ici",
+  "link": "<a href=\"https://www.zara.com/fr/fr/z-newsletter-nl1400.html?optinUnsubscribe=true&sign=unsubscribe&categoryId=0&hash=354671D9459DE9D0702747C348EBC271507BCB4B\">ici</a>"
+ }
 }
