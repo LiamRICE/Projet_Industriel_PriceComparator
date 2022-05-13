@@ -7,28 +7,32 @@ const fs = require('fs');
  * @returns a promise that resolves the new link to the object or rejects as an error.
  */
 async function get_image(image_data){
-    return new Promise((resolve, reject) => {
-        get_unique_ID((id) => {
-            try {
-                const url = `http://185.63.174.6:9600/image/newsletter_images/${image_data.company_name}/${encodeURIComponent(image_data.image_url)}/${id}`;
+    try {
+        return new Promise((resolve, reject) => {
+            get_unique_ID((id) => {
+                image_data.company_name = image_data.company_name.replace(" ", "_");
+                image_data.company_name = image_data.company_name.replace("/", "_");
+                const url = `http://185.63.174.6:9600/image/newsletter_images/${image_data.company_name}/${encodeURIComponent(image_data.image_url)}/${Math.floor(id)}`;
                 const config = {
                     method: 'GET',
                 };
-                console.log(url);
-                console.log("GET request...");
-                axios.get(url, config).then((result, err) => {
-                    if(err){
-                        reject(err);
-                    }else{
-                        console.log("Success!");
-                        resolve(`https://img.pricecomparator.pro/${result.data}`);
+                axios.get(url, config).then((result) => {
+                    resolve(`https://img.pricecomparator.pro/${result.data}`);
+                }).catch((err) => {
+                    if(err.response){
+                        //console.log(`ERROR ${err.response.status} on response ${url}`);
+                    }else if(err.request){
+                        //console.log(`ERROR ${err.request} on request ${url}`);
+                    }else if(err.message){
+                        //console.log(`ERROR ${err.message} on setup ${url}`);
                     }
+                    reject(err);
                 });
-            } catch (err) {
-                reject(err);
-            }
+            });
         });
-    });
+    } catch (error) {
+        console.log(error);
+    }
 }
 
 /**
@@ -36,15 +40,7 @@ async function get_image(image_data){
  * @param {function} callback - a unique number as an ID.
  */
 function get_unique_ID(callback){
-    fs.readFile('./src/assets/data/state.txt', (err, read) => {
-        console.log("Read = "+read);
-        let number = parseInt(read);
-        console.log("Number = "+number);
-        fs.writeFile('./src/assets/data/state.txt', number+1, (err) => {
-            if (err) throw err;
-            else callback(number);
-        });
-    });
+    callback(new Date().getTime() * Math.random() * 1000);
 }
 
 /**

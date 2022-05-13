@@ -3,7 +3,9 @@
         "test": "jest",
         "start": "node src/main.js",
         "fetch": "node src/index.js",
+        "token": "node src/generateToken.js",
         "experiment": "node src/experiment.js",
+        "service": "node src/service/service.js",
         "unit_test": "jest -- unit_parser.test.js",
         "int_test": "jest -- integration_parser.test.js"
     },
@@ -11,6 +13,7 @@
         "jest": "^27.5.1"
     },
     "dependencies": {
+        "async-mutex": "^0.3.2",
         "axios": "^0.26.1",
         "googleapis": "^39.2.0"
     }

@@ -1,12 +1,15 @@
 const fs = require('fs');
 
-const dictionary = [
+const dictionary_maj = [
     "unsubscrib",
-    "subscri",
     "désinscri",
     "desinscri",
     "désabon",
     "desabon",
+]
+
+const dictionary_min = [
+    "subscri",
     "abonne",
 ]
 
@@ -53,7 +56,7 @@ function get_image_source(data){
     }else if(data.includes("src=")){
         p0_src = data.split("src=")[1];
     }else{
-        console.log("GET_IMAGE_SOURCE ERROR = UNKNOWN IMAGE SOURCE LINK !")
+        //console.log("GET_IMAGE_SOURCE ERROR = UNKNOWN IMAGE SOURCE LINK !")
     }
     let source = p0_src.split(`"`)[1];
     return source;
@@ -200,23 +203,27 @@ function get_link_details(data, callback){
  */
 function get_link_source(data){
     let p0_src = "";
-    if(data.includes("href =")){
-        p0_src = data.split("href =")[1];
-    }else if(data.includes("href=")){
-        p0_src = data.split("href=")[1];
-    }else if(!data.includes("href")){
-        p0_src = null;
-    }else{
-        console.log("GET_LINK_SOURCE ERROR = UNKNOWN LINK HREF !\n"+data)
-    }
-    if(p0_src != null){
-        let source = "";
-        if(p0_src.includes(`"`)){
-            source = p0_src.split(`"`)[1];
+    if(data instanceof String || typeof data === "string"){
+        if(data.includes("href =")){
+            p0_src = data.split("href =")[1];
+        }else if(data.includes("href=")){
+            p0_src = data.split("href=")[1];
+        }else if(!data.includes("href")){
+            p0_src = null;
         }else{
-            source = p0_src.split(`'`)[1];
+            console.log("GET_LINK_SOURCE ERROR = UNKNOWN LINK HREF !\n"+data)
         }
-        return source;
+        if(p0_src != null){
+            let source = "";
+            if(p0_src.includes(`"`)){
+                source = p0_src.split(`"`)[1];
+            }else{
+                source = p0_src.split(`'`)[1];
+            }
+            return source;
+        }else{
+            return p0_src;
+        }
     }else{
         return p0_src;
     }
@@ -230,30 +237,41 @@ function get_link_source(data){
 function get_unsubscribe_tag(data, callback){
     get_link_tags(data, (links) => {
         get_link_names(links, (tags) => {
-            let selected;
+            let selected = [];
             let count = 0;
             for(tag in tags){
-                for(val in dictionary){
-                    if(tags[tag].name.toLowerCase().includes(dictionary[val])){
-                        selected = tags[tag];
+                for(val in dictionary_maj){
+                    if(tags[tag].name.toLowerCase().includes(dictionary_maj[val])){
+                        selected.push(tags[tag]);
                         count += 1;
+                    }
+                }
+                if(selected == []){
+                    for(val in dictionary_min){
+                        if(tags[tag].name.toLowerCase().includes(dictionary_min[val])){
+                            selected = tags[tag];
+                            count += 1;
+                        }
                     }
                 }
             }
             if(count == 0){
-                data = alt_get_unsubscribe_link(data);
+                let val = alt_get_unsubscribe_link(data);
                 //console.log(data);
-                if(data != null){
+                if(val != null){
                     for(tag in tags){
-                        if(tags[tag].link == data.link){
+                        if(tags[tag].link == val.link){
                             //console.log(tags[tag]);
                             selected = tags[tag];
                         }
                     }
-                    count = data.overload;
+                    count = val.overload;
                 }else{
-                    console.log("ERROR - unsubscribe link not found");
+                    //console.log("ERROR - unsubscribe link not found");
                 }
+            }
+            if(selected.length > 1){
+                console.log("DETECTED MORE THAN ONE UNSUBSCRIPTION TAG.");
             }
             callback(selected, count);
         });
@@ -269,8 +287,27 @@ function alt_get_unsubscribe_link(data){
     let lines = data.split("\n");
     let selected_lines = [];
     for(line in lines){
-        for(word in dictionary){
-            if(lines[line].includes(dictionary[word])){
+        for(word in dictionary_maj){
+            if(lines[line].includes(dictionary_maj[word])){
+                if(lines[line].includes("<a")){
+                    selected_lines.push(lines[line]);
+                }else{
+                    let done = false;
+                    let x=line;
+                    while(x<lines.length && !done){
+                        if(lines[x].includes("<a")){
+                            selected_lines.push(lines[x]);
+                            done = true;
+                        }
+                        x++;
+                    }
+                }
+            }
+        }
+    }
+    if(selected_lines == []){
+        for(word in dictionary_min){
+            if(lines[line].includes(dictionary_min[word])){
                 if(lines[line].includes("<a")){
                     selected_lines.push(lines[line]);
                 }else{
@@ -295,7 +332,7 @@ function alt_get_unsubscribe_link(data){
     }
     if(links.length != 0){
         ret = {
-            link: links[links.length-1],
+            link: links[0],
             overload: links.length,
         }
         return ret;
@@ -306,40 +343,39 @@ function alt_get_unsubscribe_link(data){
 
 /**
  * This function isolates all the key information from a newsletter.
- * @param {string} src - the path to the file to read that contains the newsletter html code.
- * @param {function} callback - a callback that is called and provides a json object as input containing the origin company, the array of images, the array of tags and the unsubscription tag.
+ * @param {string} data - a string that contains the newsletter html code.
+ * @param {string} company - the name of the company the newsletter was sent by.
+ * @param {function} callback - a callback that is called and provides a json object as input containing the origin company, the array of images, the array of tags and the array of unsubscription tags.
  */
-function parse_newsletter(src, company, callback){
+function parse_newsletter(data, company, callback){
     let image_sources;
-    let unsubscribe_tag;
+    let unsubscribe_tags;
     let tag_details;
-    read_newsletter(src, (data) => {
-        find_images(data, (images) => {
-            get_image_list_sources(images, (sources) => {
-                image_sources = sources;
-                get_link_tags(data, (links) => {
-                    get_unsubscribe_tag(data, (tag, overflow) => {
-                        unsubscribe_tag = tag;
-                        if(overflow > 1){
-                            console.log(`WARNING : ${company} - more than one unsubscribe tag detected`);
+    find_images(data, (images) => {
+        get_image_list_sources(images, (sources) => {
+            image_sources = sources;
+            get_link_tags(data, (links) => {
+                get_unsubscribe_tag(data, (tags, overflow) => {
+                    unsubscribe_tags = tags;
+                    if(overflow > 1){
+                        //console.log(`WARNING : ${company} - more than one unsubscribe tag detected`);
+                    }
+                    get_link_details(links, (taging) => {
+                        tag_details = taging;
+                        let return_value = {
+                            origin: company,
+                            images: image_sources,
+                            tags: tag_details,
+                            unsubscription: unsubscribe_tags,
                         }
-                        get_link_details(links, (taging) => {
-                            tag_details = taging;
-                            let return_value = {
-                                origin: company,
-                                images: image_sources,
-                                tags: tag_details,
-                                unsubscription: unsubscribe_tag,
-                            }
-                            if(return_value.unsubscription == undefined){
-                                console.log(company);
-                            }
-                            callback(return_value);
-                        });
+                        if(return_value.unsubscription == undefined){
+                            console.log(`ERROR : no unsubscription tag detected.`);
+                        }
+                        callback(return_value);
                     });
                 });
-            })
-        });
+            });
+        })
     });
 }
 
