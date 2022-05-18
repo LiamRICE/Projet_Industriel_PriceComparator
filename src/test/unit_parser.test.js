@@ -52,17 +52,6 @@ test("Extracting source of image tag (complex, prev_src)", () => {
     })
 });
 
-test("Extracting unsubscribe tag from data (simple)", () => {
-  parser.read_newsletter("src/assets/newsletters/Gmail - GTC22 Event Recap.html", (data) => {
-    parser.get_unsubscribe_tag(data, (value, overload) => {
-        expect({val:value, o:overload}).toEqual({val:{
-            name: 'Manage Preferences or Unsubscribe',
-            link: '<a href="https://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhuxrNf-XVLeUGu_PvT9R9VN2Cu-nQJ5svLx6prQkncWJNpWJ8r-h-y6YzqM2usbLNHF2JwroFWtwQVD4ayt6xTo0KdjkMuoKTw8K8A4c5VUYB8XHVUzTeH-E3sa8s9dkTBTsGIAK2uvOBMXrMuwn5tU=/MTU2LU9GTi03NDIAAAGDeT-T73G_ogtGASy58zh8cq10q1sW_lbcVjSMkp3EfrxRQTzTg9qe6fKGs-4H9dvKIZkQOOo=" style="font-family:&#39;DINPro-Regular&#39;,Helvetica,Arial,Sans-Serif;font-size:12px;color:#999999;text-decoration:none" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhuxrNf-XVLeUGu_PvT9R9VN2Cu-nQJ5svLx6prQkncWJNpWJ8r-h-y6YzqM2usbLNHF2JwroFWtwQVD4ayt6xTo0KdjkMuoKTw8K8A4c5VUYB8XHVUzTeH-E3sa8s9dkTBTsGIAK2uvOBMXrMuwn5tU%3D/MTU2LU9GTi03NDIAAAGDeT-T73G_ogtGASy58zh8cq10q1sW_lbcVjSMkp3EfrxRQTzTg9qe6fKGs-4H9dvKIZkQOOo%3D&amp;source=gmail&amp;ust=1649142500769000&amp;usg=AOvVaw3u_ygM8VNzxN5lgov7x8d3">Manage Preferences or Unsubscribe</a>'
-        }, o:1});
-    });
-  });
-});
-
 test("Extracting unsubscribe tag from data (complex, single line)", () => {
     parser.get_unsubscribe_tag(`<img></img>\n<p>If you want to unsubscribe, <a href="https://link_name_here">click here</a></p>\n<end></end>`, (value, overload) => {
         expect({val:value, o:overload}).toEqual({val:{
@@ -93,16 +82,5 @@ test("BUG - unable to extract name of <a> tag", () => {
     });
 });
 
-test("BUG - finding unsubscribe link with name not in the list", () => {
-  parser.read_newsletter("src/assets/newsletters/Gmail - Introducing_ _StandPartners Only_ from Fiddlershop.html", (data) => {
-    parser.get_unsubscribe_tag(data, (selected, count) => {
-      let result = {
-        name: 'click here',
-        link: '<a href="https://trk.klclick2.com/ls/click?upn=jYznF3wmw7b7qd3Df3FaN06TBGftL7ui7KXxlOSEKEIm1EDDMXCoJ55Pi9LClaLdKOTtvA-2FkSBESsyOX4QYGvy9-2FsPaQFKh7NrOt1qCd04vloRrtc1Tb-2BeuvxJ-2F0HlVw-2FIvOY20x0XogD2rW7zfUMUNIqng2tdO48uzv3LzDHn8h18uNqRbRJ3Eci71DJGKIJHa9inQadlp4nAQ1AX4NkA-3D-3DG2hp_eoE8RVDj3oAU5KR-2B-2BlnjveTKNYrb3ukeW5ivVaoAYI0AyBwUJ5K2-2FbA5mzpoGWYRnGxKEalkosn3r34jU-2BfT0htJBGS-2BavXw0E-2BZEO7l-2Br51-2FtnTxtxVGZApKugIl1-2FVcsEEncdztOx-2BrhfwPJKo8DJHmiGsx-2B-2BpjRQY7wCKwRR5VDkpZHg-2FdoNbkvVhDneFWY7HuYyFsyp5RYx9B5OGZgMmUkY-2BZrMEu7G2NFm1hwqyWInS-2BPFpZcLJVjJmgDzMgsgo25E7-2B288Xsp8zsbbSRQkdJT2-2BB4uD2ueb9mA6MXhdYlx-2FSxOUL-2Fwws83K6hBg7ihcqEWDScj9YsosB0FF2-2FLwfAd8S0izHX3DrDmNkOKbu6rt3edIoH3niRYMWC3FOojhsHxYG-2BjIAuiYOu5Ig-3D-3D" style="color:#015045;font-weight:normal;text-decoration:none;word-wrap:break-word" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://trk.klclick2.com/ls/click?upn%3DjYznF3wmw7b7qd3Df3FaN06TBGftL7ui7KXxlOSEKEIm1EDDMXCoJ55Pi9LClaLdKOTtvA-2FkSBESsyOX4QYGvy9-2FsPaQFKh7NrOt1qCd04vloRrtc1Tb-2BeuvxJ-2F0HlVw-2FIvOY20x0XogD2rW7zfUMUNIqng2tdO48uzv3LzDHn8h18uNqRbRJ3Eci71DJGKIJHa9inQadlp4nAQ1AX4NkA-3D-3DG2hp_eoE8RVDj3oAU5KR-2B-2BlnjveTKNYrb3ukeW5ivVaoAYI0AyBwUJ5K2-2FbA5mzpoGWYRnGxKEalkosn3r34jU-2BfT0htJBGS-2BavXw0E-2BZEO7l-2Br51-2FtnTxtxVGZApKugIl1-2FVcsEEncdztOx-2BrhfwPJKo8DJHmiGsx-2B-2BpjRQY7wCKwRR5VDkpZHg-2FdoNbkvVhDneFWY7HuYyFsyp5RYx9B5OGZgMmUkY-2BZrMEu7G2NFm1hwqyWInS-2BPFpZcLJVjJmgDzMgsgo25E7-2B288Xsp8zsbbSRQkdJT2-2BB4uD2ueb9mA6MXhdYlx-2FSxOUL-2Fwws83K6hBg7ihcqEWDScj9YsosB0FF2-2FLwfAd8S0izHX3DrDmNkOKbu6rt3edIoH3niRYMWC3FOojhsHxYG-2BjIAuiYOu5Ig-3D-3D&amp;source=gmail&amp;ust=1649403822207000&amp;usg=AOvVaw3QVCauiE9XFA4yWm6kv3Dt">click here</a>'
-      };
-      expect(selected).toEqual(result);
-    });
-  });
-});
 
 

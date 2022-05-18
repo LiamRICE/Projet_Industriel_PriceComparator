@@ -10,8 +10,8 @@ async function get_image(image_data){
     try {
         return new Promise((resolve, reject) => {
             get_unique_ID((id) => {
-                image_data.company_name = image_data.company_name.replace(" ", "_");
-                image_data.company_name = image_data.company_name.replace("/", "_");
+                image_data.company_name = image_data.company_name.replaceAll(" ", "_");
+                image_data.company_name = image_data.company_name.replaceAll("/", "_");
                 const url = `http://185.63.174.6:9600/image/newsletter_images/${image_data.company_name}/${encodeURIComponent(image_data.image_url)}/${Math.floor(id)}`;
                 const config = {
                     method: 'GET',
@@ -40,7 +40,7 @@ async function get_image(image_data){
  * @param {function} callback - a unique number as an ID.
  */
 function get_unique_ID(callback){
-    callback(new Date().getTime() * Math.random() * 1000);
+    callback(Math.floor(new Date().getTime() * Math.random() * 1000));
 }
 
 /**
